@@ -1,640 +1,309 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="CSI MIAMI"
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9c5351f5d000085e8d7e/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-
+#EXTINF:-1 tvg-id="" tvg-name="BR: WARNER CHANNEL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="Canais | Filmes e Series" ,WARNER CHANNEL SD
+http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659821
 EXTINF:-1 tvg-id="Warner Channel HD" tvg-name="Warner Channel" tvg-logo="http://i.imgur.com/xvZ66AU.png" group-title="Canais | Filmes e Series",Warner Channel
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/783
-
-#EXTINF:-1 tvg-id="" tvg-name="Smithsonian Channel HD" tvg-logo="http://urlcurta.ml/c2BIn" group-title="Canais | Variedades",Smithsonian Channel HD
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6298bd10d88ef000073f16b7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-id="" tvg-name="MasterChef PlutoTV" 
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6077045b6031bd00078de127/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65aaf550-f9bd-11eb-8aa4-9fbe6c9efd24&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=236636d2-5215-4c91-960b-a0fdf5d55119&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD HD [Alternativo]" tvg-logo="https://i.imgur.com/hGhgbMQ.png" group-title="Canais | Alternativos",DISCOVERY WORLD HD [Alternativo]
-https://cdn-5.nxplay.com.br/DISCOVERY_WORLD_NX/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HOME & HELTH SD  [Alternativo]" tvg-logo="http://i.imgur.com/FJgwtT5.png" group-title="Canais | Alternativos",DISCOVERY HOME & HELTH SD  [Alternativo]
-https://cdn-5.nxplay.com.br/DISCOVERY_HH_NX/index.m3u8
-
-#EXTINF:-1 tvg-id="Discovery Science" tvg-name="DISCOVERY SCIENCE" tvg-logo="http://urlcurta.ml/qyAyP" group-title="Canais | Documentarios",DISCOVERY SCIENCE
-https://cdn-5.nxplay.com.br/DISCOVERY_SCIENCE_NX/index.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES SD  [Alternativo]" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Alternativos",PREMIERE CLUBES SD  [Alternativo]
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/9
-
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 FHD" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H265",ESPN 2 H265
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/135
-
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 [Alternativo]" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9c/Logo_ESPN_HD.png/revision/latest?cb=20160113004056" group-title="Canais | Alternativos",ESPN HD [Alternativo]
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/126
-
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 SD [Alternativo]" tvg-logo="https://i.imgur.com/u11qaVb.png" group-title="Canais | Alternativos",ESPN BRASIL SD [Alternativo]
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/143
-
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: E!
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659717
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: ESPN
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659718
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: ESPN 2
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659719
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: ESPN 3
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659720
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: ESPN 4
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659721
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: ESPN 5
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659722
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: ESPN 6
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659723
-
-#EXTINF:-1 tvg-id="" tvg-name="COMBATE HD [Alternativo]" tvg-logo="http://i.imgur.com/5qo1Dyc.png" group-title="Canais | Alternativos",COMBATE HD [Alternativo]
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/1
-
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: WARNER CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Warner Channel DUAL HD" tvg-logo="" group-title=""Canais | Filmes e Series" , Warner Channel DUAL HD
+http://supersonictv.live:8080/329474/903964/85356
+#EXTINF:-1 group-title="Canais | Filmes e Series" ,Warner ," tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: WARNER CHANNEL
 http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659821
-
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: UNIVERSAL TV HD
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659818
-
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: TNT SERIES HD
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659810
-
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: TELECINE CULT
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659802
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: TELECINE FUN
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659803
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: TELECINE PIPOCA
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659804
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: TELECINE PREMIUM
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659805
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: TELECINE TOUCH
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659806
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: TLC HD
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659807
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: TNT HD
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659808
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: TNT NOVELAS
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659809
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: TNT SERIES HD
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659810
-
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: SPORTV
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659793
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: SPORTV 2
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659794
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: SPORTV 3
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659795
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: STAR CHANNEL HD
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659796
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: STUDIO UNIVERSAL HD
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659797
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: SYFY HD
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659798
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: TBS
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659799
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: TCM BR
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659800
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: TELECINE ACTION
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659801
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: SONY CHANNEL
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659791
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: SPACE HD
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659792
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: SPORTV
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659793
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: PREMIERE CLUBES HD
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659776
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: PARAMOUNT NETWORK
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659770
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: Paramount+ 1
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659771
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: Paramount+ 2
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659772
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: Paramount+ 3
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659773
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: Paramount+ 4
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659774
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: NATIONAL GEOGRAPHIC HD
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659761
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: NICK JR
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659762
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: NICKELODEON HD
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659763
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: HBO Mundi
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659740
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: HBO Pop
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659741
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: HBO Signature
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659742
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: HBO Xtreme
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659743
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: HBO+
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659744
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: HBO2
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659745
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: HGTV HD
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659746
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: HISTORY
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659747
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: HISTORY2
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659748
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: JOVEM PAN NEWS
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659749
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: LIFETIME
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659750
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: HBO
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659738
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: HBO Family
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659739
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: FOX SPORTS 2
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659729
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: FRANCE 24 HD
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659730
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: FUTURA HD
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659731
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: FX HD
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659732
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: FILM & ARTS
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659726
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: DISCOVERY HOME&HEALTH HD
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659707
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: DISCOVERY ID
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659708
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: DISCOVERY KIDS HD
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659709
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: DISCOVERY SCIENCE HD
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659710
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: DISCOVERY THEATER HD
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659711
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: DISCOVERY TURBO HD
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659712
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: DISCOVERY WORLD HD
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659713
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: DISNEY CHANNEL HD
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659714
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: DISCOVERY HD
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659706
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: CINEMAX HD
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659698
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: CNN INTERNATIONAL
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659701
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: COMBATE HD
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659702
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: CULTURA HD
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659704
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: CARTOON HD
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659693
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: CARTOONITO
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659694
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: CBI
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659695
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: BLOOMBERG TV
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659687
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: BAND SPORTS HD
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659684
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: BBC WORLD NEWS
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659685
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: A&E
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659674
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: ARTE 1 HD
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659679
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: AXN
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659680
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Combate FHD" tvg-logo="" group-title="BRAZIL",[BR] Combate FHD
-http://supersonictv.live:8080/329474/903964/84953
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Cinemax FHD" tvg-logo="" group-title="BRAZIL",[BR] Cinemax FHD
-http://supersonictv.live:8080/329474/903964/84948
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Cinemax HD" tvg-logo="" group-title="BRAZIL",[BR] Cinemax HD
-http://supersonictv.live:8080/329474/903964/84949
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Cartoon Network FHD" tvg-logo="" group-title="BRAZIL",[BR] Cartoon Network FHD
-http://supersonictv.live:8080/329474/903964/84946
-#EXTINF:-1 tvg-id="" tvg-name="[BR] A&E FHD" tvg-logo="" group-title="BRAZIL",[BR] A&E FHD
+#EXTINF:-1 tvg-id="" tvg-name="[BR] A&E FHD" tvg-logo="" group-title= "Canais | Filmes e Series" , A&E FHD
 http://supersonictv.live:8080/329474/903964/84935
+#EXTINF:-1 group-title= "Canais | Filmes e Series" A&E, tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: A&E
+http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/659674
+#EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: A&E
+http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659674
+#EXTINF:-1 tvg-id="" tvg-name="BR: A&E" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="Canais | Filmes e Series",BR: A&E
+http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659674
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Arte 1 FHD" tvg-logo="" group-title="Canais | Filmes e Series",[BR] Arte 1 FHD
+http://supersonictv.live:8080/329474/903964/84937
+#EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: ARTE 1 HD
+http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659679
+#EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: AXN
+http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659680
+#EXTINF:-1 tvg-id="" tvg-name="[BR] AXN FHD" tvg-logo="" group-title="Canais | Filmes e Series",[BR] AXN FHD
+http://supersonictv.live:8080/329474/903964/84938
+#EXTINF:-1 tvg-id="" tvg-name="BR: AXN" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="Canais | Filmes e Series",BR: AXN
+http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659680
+#EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: AMC HD
+http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659677
+#EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: AMC HD
+http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/659677
+#EXTINF:-1 tvg-id="" tvg-name="BR: AMC HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="Canais | Filmes e Series",BR: AMC HD
+http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659677
+#EXTINF:-1 group-title="Canais | Filmes e Series" tvg-id="" tvg-name="CSI MIAMI"
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9c5351f5d000085e8d7e/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: PARAMOUNT NETWORK
+http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659770
+#EXTINF:-1 tvg-id="" tvg-name="BR: PARAMOUNT NETWORK" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="Canais | Filmes e Series",BR: PARAMOUNT NETWORK
+http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659770
+#EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: PARAMOUNT NETWORK
+http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/659770
+#EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: SPACE HD
+http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659792
+#EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: STAR CHANNEL HD
+http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659796
+#EXTINF:-1 tvg-id="" tvg-name="BR: STAR CHANNEL HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="Canais | Filmes e Series",BR: STAR CHANNEL HD
+http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659796
+#EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: STAR CHANNEL HD
+http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/659796
+#EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: STUDIO UNIVERSAL HD
+http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659797
+#EXTINF:-1 tvg-id="" tvg-name="BR: STUDIO UNIVERSAL HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="Canais | Filmes e Series",BR: STUDIO UNIVERSAL HD
+http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659797
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Universal TV DUAL HD" tvg-logo="" group-title="Canais | Filmes e Series",[BR] Universal TV DUAL HD
+http://supersonictv.live:8080/329474/903964/85354
+#EXTINF:-1 tvg-id="" tvg-name="BR: SYFY HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="Canais | Filmes e Series",BR: SYFY HD
+http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659798
+#EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: SYFY HD
+http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/659798
+#EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: SYFY HD
+http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659798
+#EXTINF:-1 tvg-id="" tvg-name="BR: TBS" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="Canais | Filmes e Series",BR: TBS
+http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659799
+#EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: TBS
+http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/659799
+#EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: TBS
+http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659799
+#EXTINF:-1 tvg-id="" tvg-name="BR: TCM BR" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="Canais | Filmes e Series",BR: TCM BR
+http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659800
+#EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: TCM BR
+http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659800
+#EXTINF:-1 tvg-id="" tvg-name="BR: TELECINE ACTION" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="Canais | Filmes e Series",BR: TELECINE ACTION
+http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659801
+#EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: TELECINE ACTION
+http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659801
+#EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: TELECINE CULT
+http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659802
+#EXTINF:-1 tvg-id="" tvg-name="BR: TELECINE CULT" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="Canais | Filmes e Series",BR: TELECINE CULT
+http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659802
+#EXTINF:-1 tvg-id="" tvg-name="BR: TELECINE FUN" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="Canais | Filmes e Series",BR: TELECINE FUN
+http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659803
+#EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: TELECINE FUN
+http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659803
+#EXTINF:-1 tvg-id="" tvg-name="BR: TELECINE PIPOCA" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="Canais | Filmes e Series",BR: TELECINE PIPOCA
+http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659804
+#EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: TELECINE PIPOCA
+http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659804
+#EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: TELECINE PREMIUM
+http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659805
+#EXTINF:-1 tvg-id="" tvg-name="BR: TELECINE PREMIUM" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="Canais | Filmes e Series",BR: TELECINE PREMIUM
+http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659805
+#EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: TELECINE TOUCH
+http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659806
+#EXTINF:-1 tvg-id="" tvg-name="BR: TELECINE TOUCH" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="Canais | Filmes e Series",BR: TELECINE TOUCH
+http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659806
+#EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: TLC HD
+http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659807
+#EXTINF:-1 tvg-id="" tvg-name="BR: TLC HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="Canais | Filmes e Series",BR: TLC HD
+http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659807
+#EXTINF:-1 tvg-id="" tvg-name="BR: TNT HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="Canais | Filmes e Series",BR: TNT HD
+http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659808
+#EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: TNT HD
+http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659808
+#EXTINF:-1 tvg-id="" tvg-name="BR: TNT NOVELAS" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="Canais | Filmes e Series",BR: TNT NOVELAS
+http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659809
+#EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: TNT NOVELAS
+http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659809
+#EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: TNT SERIES HD
+http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659810
+#EXTINF:-1 tvg-id="" tvg-name="BR: TNT SERIES HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="Canais | Filmes e Series",BR: TNT SERIES HD
+http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659810
+#EXTINF:-1 tvg-id="" tvg-name="BR: SONY CHANNEL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="Canais | Filmes e Series",BR: SONY CHANNEL
+http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659791
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPACE HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="Canais | Filmes e Series",BR: SPACE HD
+http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659792
+#EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: UNIVERSAL TV HD
+http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659818
+#EXTINF:-1 tvg-id="" tvg-name="BR: COMEDY CENTRAL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="Canais | Filmes e Series",BR: COMEDY CENTRAL
+http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659703
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Comedy Central FHD" tvg-logo="" group-title="BRAZIL",[BR] Comedy Central FHD
+http://supersonictv.live:8080/329474/903964/84954
+#EXTINF:-1 tvg-id="" tvg-name="BR: CINEMAX HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="Canais | Filmes e Series",BR: CINEMAX HD
+http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659698
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Cinemax FHD" tvg-logo="" group-title="Canais | Filmes e Series",[BR] Cinemax FHD
+http://supersonictv.live:8080/329474/903964/84948
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Cinemax HD" tvg-logo="" group-title="Canais | Filmes e Series",[BR] Cinemax HD
+http://supersonictv.live:8080/329474/903964/84949
+#EXTINF:-1 tvg-id="" tvg-name="BR: SONY CHANNEL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="Canais | Filmes e Series",BR: SONY CHANNEL
+http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659791
+#EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: SONY CHANNEL
+http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/659791
+#EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: SPACE HD
+http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/659792
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Fox Premium 1 FHD" tvg-logo="" group-title="Canais | Filmes e Series",[BR] Fox Premium 1 FHD
+http://supersonictv.live:8080/329474/903964/84989
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Fox Premium 2 FHD" tvg-logo="" group-title="Canais | Filmes e Series",[BR] Fox Premium 2 FHD
+http://supersonictv.live:8080/329474/903964/84990
+#EXTINF:-1 tvg-id="" tvg-name="[BR] FOX FHD" tvg-logo="" group-title="Canais | Filmes e Series",[BR] FOX FHD
+http://supersonictv.live:8080/329474/903964/84986
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Fox Life FHD" tvg-logo="" group-title="Canais | Filmes e Series",[BR] Fox Life FHD
+http://supersonictv.live:8080/329474/903964/84987
+#EXTINF:-1 tvg-id="" tvg-name="[BR] FX FHD" tvg-logo="" group-title="Canais | Filmes e Series",[BR] FX FHD
+http://supersonictv.live:8080/329474/903964/84995
+
+
 #EXTINF:-1 tvg-id="" tvg-name="[BR] Animal Planet FHD" tvg-logo="" group-title="BRAZIL",[BR] Animal Planet FHD
 http://supersonictv.live:8080/329474/903964/84936
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Arte 1 FHD" tvg-logo="" group-title="BRAZIL",[BR] Arte 1 FHD
-http://supersonictv.live:8080/329474/903964/84937
-#EXTINF:-1 tvg-id="" tvg-name="[BR] AXN FHD" tvg-logo="" group-title="BRAZIL",[BR] AXN FHD
-http://supersonictv.live:8080/329474/903964/84938
+#EXTINF:-1 tvg-id="" tvg-name="BR: ANIMAL PLANET HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: ANIMAL PLANET HD
+http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659678
+#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: ANIMAL PLANET HD
+http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659678
+#EXTINF:-1 tvg-id="" tvg-name="Smithsonian Channel HD" tvg-logo="http://urlcurta.ml/c2BIn" group-title="BRAZIL",[BR] Smithsonian Channel HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6298bd10d88ef000073f16b7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="" tvg-name="MasterChef PlutoTV" group-title="BRAZIL",[BR] MasterChef PlutoTV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6077045b6031bd00078de127/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65aaf550-f9bd-11eb-8aa4-9fbe6c9efd24&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=236636d2-5215-4c91-960b-a0fdf5d55119&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="" tvg-name="[BR] Discovery Channel FHD" tvg-logo="" group-title="BRAZIL",[BR] Discovery Channel FHD
 http://supersonictv.live:8080/329474/903964/84966
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Discovery Kids FHD" tvg-logo="" group-title="BRAZIL",[BR] Discovery Kids FHD
-http://supersonictv.live:8080/329474/903964/84969
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: DISCOVERY HD
+http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659706
+#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: DISCOVERY HD
+http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659706
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD HD [Alternativo]" tvg-logo="https://i.imgur.com/hGhgbMQ.png" group-title="BRAZIL",[BR] DISCOVERY WORLD HD
+https://cdn-5.nxplay.com.br/DISCOVERY_WORLD_NX/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Discovery World FHD" tvg-logo="" group-title="BRAZIL",[BR] Discovery World FHD
+http://supersonictv.live:8080/329474/903964/84973
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HOME & HEALTH SD  [Alternativo]" tvg-logo="http://i.imgur.com/FJgwtT5.png" group-title="BRAZIL",[BR] DISCOVERY HOME & HELTH SD  
+https://cdn-5.nxplay.com.br/DISCOVERY_HH_NX/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY HOME&HEALTH HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: DISCOVERY HOME&HEALTH HD
+http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659707
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Discovery Home & Health FHD" tvg-logo="" group-title="BRAZIL",[BR] Discovery Home & Health FHD
+http://supersonictv.live:8080/329474/903964/84967
+#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: DISCOVERY HOME&HEALTH HD
+http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659707
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="DISCOVERY SCIENCE" tvg-logo="http://urlcurta.ml/qyAyP" group-title="BRAZIL",[BR] DISCOVERY SCIENCE
+https://cdn-5.nxplay.com.br/DISCOVERY_SCIENCE_NX/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[BR] Discovery Science FHD" tvg-logo="" group-title="BRAZIL",[BR] Discovery Science FHD
 http://supersonictv.live:8080/329474/903964/84970
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY SCIENCE HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: DISCOVERY SCIENCE HD
+http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659710
 #EXTINF:-1 tvg-id="" tvg-name="[BR] Discovery Theather FHD" tvg-logo="" group-title="BRAZIL",[BR] Discovery Theather FHD
 http://supersonictv.live:8080/329474/903964/84971
 #EXTINF:-1 tvg-id="" tvg-name="[BR] Discovery Turbo FHD" tvg-logo="" group-title="BRAZIL",[BR] Discovery Turbo FHD
 http://supersonictv.live:8080/329474/903964/84972
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Discovery World FHD" tvg-logo="" group-title="BRAZIL",[BR] Discovery World FHD
-http://supersonictv.live:8080/329474/903964/84973
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Disney Channel FHD" tvg-logo="" group-title="BRAZIL",[BR] Disney Channel FHD
-http://supersonictv.live:8080/329474/903964/84974
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Disney JR FHD" tvg-logo="" group-title="BRAZIL",[BR] Disney JR FHD
-http://supersonictv.live:8080/329474/903964/84975
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Disney XD FHD" tvg-logo="" group-title="BRAZIL",[BR] Disney XD FHD
-http://supersonictv.live:8080/329474/903964/84976
-#EXTINF:-1 tvg-id="" tvg-name="[BR] ESPN 2 FHD" tvg-logo="" group-title="BRAZIL",[BR] ESPN 2 FHD
-http://supersonictv.live:8080/329474/903964/84978
-#EXTINF:-1 tvg-id="" tvg-name="[BR] ESPN Brasil FHD" tvg-logo="" group-title="BRAZIL",[BR] ESPN Brasil FHD
-http://supersonictv.live:8080/329474/903964/84979
-#EXTINF:-1 tvg-id="" tvg-name="[BR] ESPN Extra FHD" tvg-logo="" group-title="BRAZIL",[BR] ESPN Extra FHD
-http://supersonictv.live:8080/329474/903964/84980
-#EXTINF:-1 tvg-id="" tvg-name="[BR] ESPN FHD" tvg-logo="" group-title="BRAZIL",[BR] ESPN FHD
-http://supersonictv.live:8080/329474/903964/84981
-#EXTINF:-1 tvg-id="" tvg-name="[BR] ESPORTE INTERATIVO *" tvg-logo="" group-title="BRAZIL",[BR] ESPORTE INTERATIVO *
-http://supersonictv.live:8080/329474/903964/84982
-#EXTINF:-1 tvg-id="" tvg-name="[BR] FOX FHD" tvg-logo="" group-title="BRAZIL",[BR] FOX FHD
-http://supersonictv.live:8080/329474/903964/84986
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Fox Life FHD" tvg-logo="" group-title="BRAZIL",[BR] Fox Life FHD
-http://supersonictv.live:8080/329474/903964/84987
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Fox News FHD" tvg-logo="" group-title="BRAZIL",[BR] Fox News FHD
-http://supersonictv.live:8080/329474/903964/84988
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Fox Premium 1 FHD" tvg-logo="" group-title="BRAZIL",[BR] Fox Premium 1 FHD
-http://supersonictv.live:8080/329474/903964/84989
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Fox Premium 2 FHD" tvg-logo="" group-title="BRAZIL",[BR] Fox Premium 2 FHD
-http://supersonictv.live:8080/329474/903964/84990
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Fox Sport HD" tvg-logo="" group-title="BRAZIL",[BR] Fox Sport HD
-http://supersonictv.live:8080/329474/903964/84991
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Fox Sports 2 FHD" tvg-logo="" group-title="BRAZIL",[BR] Fox Sports 2 FHD
-http://supersonictv.live:8080/329474/903964/84992
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Fox Sports FHD" tvg-logo="" group-title="BRAZIL",[BR] Fox Sports FHD
-http://supersonictv.live:8080/329474/903964/84993
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Fox Sports SD" tvg-logo="" group-title="BRAZIL",[BR] Fox Sports SD
-http://supersonictv.live:8080/329474/903964/84994
-#EXTINF:-1 tvg-id="" tvg-name="[BR] FX FHD" tvg-logo="" group-title="BRAZIL",[BR] FX FHD
-http://supersonictv.live:8080/329474/903964/84995
-#EXTINF:-1 tvg-id="" tvg-name="[BR] H2 FHD" tvg-logo="" group-title="BRAZIL",[BR] H2 FHD
-http://supersonictv.live:8080/329474/903964/85033
-#EXTINF:-1 tvg-id="" tvg-name="[BR] HBO 2 FHD" tvg-logo="" group-title="BRAZIL",[BR] HBO 2 FHD
-http://supersonictv.live:8080/329474/903964/85034
-#EXTINF:-1 tvg-id="" tvg-name="[BR] HBO Family FHD" tvg-logo="" group-title="BRAZIL",[BR] HBO Family FHD
-http://supersonictv.live:8080/329474/903964/85035
-#EXTINF:-1 tvg-id="" tvg-name="[BR] HBO FHD" tvg-logo="" group-title="BRAZIL",[BR] HBO FHD
-http://supersonictv.live:8080/329474/903964/85036
-#EXTINF:-1 tvg-id="" tvg-name="[BR] HBO Mundi FHD" tvg-logo="" group-title="BRAZIL",[BR] HBO Mundi FHD
-http://supersonictv.live:8080/329474/903964/85037
-#EXTINF:-1 tvg-id="" tvg-name="[BR] HBO Plus FHD" tvg-logo="" group-title="BRAZIL",[BR] HBO Plus FHD
-http://supersonictv.live:8080/329474/903964/85038
-#EXTINF:-1 tvg-id="" tvg-name="[BR] HBO Pop FHD" tvg-logo="" group-title="BRAZIL",[BR] HBO Pop FHD
-http://supersonictv.live:8080/329474/903964/85039
-#EXTINF:-1 tvg-id="" tvg-name="[BR] HBO Signature FHD" tvg-logo="" group-title="BRAZIL",[BR] HBO Signature FHD
-http://supersonictv.live:8080/329474/903964/85040
-#EXTINF:-1 tvg-id="" tvg-name="[BR] HBO Xtreme FHD" tvg-logo="" group-title="BRAZIL",[BR] HBO Xtreme FHD
-http://supersonictv.live:8080/329474/903964/85041
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Megapix FHD" tvg-logo="" group-title="BRAZIL",[BR] Megapix FHD
-http://supersonictv.live:8080/329474/903964/85047
-#EXTINF:-1 tvg-id="" tvg-name="[BR] MTV FHD" tvg-logo="" group-title="BRAZIL",[BR] MTV FHD
-http://supersonictv.live:8080/329474/903964/85048
-#EXTINF:-1 tvg-id="" tvg-name="[BR] MTV HD" tvg-logo="" group-title="BRAZIL",[BR] MTV HD
-http://supersonictv.live:8080/329474/903964/85049
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Natgeo FHD" tvg-logo="" group-title="BRAZIL",[BR] Natgeo FHD
-http://supersonictv.live:8080/329474/903964/85052
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Natgeo Kids FHD" tvg-logo="" group-title="BRAZIL",[BR] Natgeo Kids FHD
-http://supersonictv.live:8080/329474/903964/85053
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Natgeo Wild FHD" tvg-logo="" group-title="BRAZIL",[BR] Natgeo Wild FHD
-http://supersonictv.live:8080/329474/903964/85054
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Nick FHD" tvg-logo="" group-title="BRAZIL",[BR] Nick FHD
-http://supersonictv.live:8080/329474/903964/85055
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Nick JR FHD" tvg-logo="" group-title="BRAZIL",[BR] Nick JR FHD
-http://supersonictv.live:8080/329474/903964/85056
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Paramount Channel FHD" tvg-logo="" group-title="BRAZIL",[BR] Paramount Channel FHD
-http://supersonictv.live:8080/329474/903964/85059
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Play Kids HD" tvg-logo="" group-title="BRAZIL",[BR] Play Kids HD
-http://supersonictv.live:8080/329474/903964/85060
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Play TV FHD" tvg-logo="" group-title="BRAZIL",[BR] Play TV FHD
-http://supersonictv.live:8080/329474/903964/85061
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Premiere 2 FHD" tvg-logo="" group-title="BRAZIL",[BR] Premiere 2 FHD
-http://supersonictv.live:8080/329474/903964/85062
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Premiere 3 FHD" tvg-logo="" group-title="BRAZIL",[BR] Premiere 3 FHD
-http://supersonictv.live:8080/329474/903964/85063
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Premiere 4 FHD" tvg-logo="" group-title="BRAZIL",[BR] Premiere 4 FHD
-http://supersonictv.live:8080/329474/903964/85064
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Premiere 5 FHD" tvg-logo="" group-title="BRAZIL",[BR] Premiere 5 FHD
-http://supersonictv.live:8080/329474/903964/85065
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Premiere 6 FHD" tvg-logo="" group-title="BRAZIL",[BR] Premiere 6 FHD
-http://supersonictv.live:8080/329474/903964/85066
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Premiere 7 FHD" tvg-logo="" group-title="BRAZIL",[BR] Premiere 7 FHD
-http://supersonictv.live:8080/329474/903964/85067
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Premiere Clubes FHD" tvg-logo="" group-title="BRAZIL",[BR] Premiere Clubes FHD
-http://supersonictv.live:8080/329474/903964/85068
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Sony FHD" tvg-logo="" group-title="BRAZIL",[BR] Sony FHD
-http://supersonictv.live:8080/329474/903964/85091
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Space FHD" tvg-logo="" group-title="BRAZIL",[BR] Space FHD
-http://supersonictv.live:8080/329474/903964/85092
-#EXTINF:-1 tvg-id="" tvg-name="[BR] SporTV 2 FHD" tvg-logo="" group-title="BRAZIL",[BR] SporTV 2 FHD
-http://supersonictv.live:8080/329474/903964/85093
-#EXTINF:-1 tvg-id="" tvg-name="[BR] SporTV 3 FHD" tvg-logo="" group-title="BRAZIL",[BR] SporTV 3 FHD
-http://supersonictv.live:8080/329474/903964/85094
-#EXTINF:-1 tvg-id="" tvg-name="[BR] SporTV FHD" tvg-logo="" group-title="BRAZIL",[BR] SporTV FHD
-http://supersonictv.live:8080/329474/903964/85095
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Studio Universal FHD" tvg-logo="" group-title="BRAZIL",[BR] Studio Universal FHD
-http://supersonictv.live:8080/329474/903964/85096
-#EXTINF:-1 tvg-id="" tvg-name="[BR] SYFY FHD" tvg-logo="" group-title="BRAZIL",[BR] SYFY FHD
-http://supersonictv.live:8080/329474/903964/85097
-#EXTINF:-1 tvg-id="" tvg-name="[BR] TBS FHD" tvg-logo="" group-title="BRAZIL",[BR] TBS FHD
-http://supersonictv.live:8080/329474/903964/85098
-#EXTINF:-1 tvg-id="" tvg-name="[BR] TC ACTION FHD" tvg-logo="" group-title="BRAZIL",[BR] TC ACTION FHD
-http://supersonictv.live:8080/329474/903964/85099
-#EXTINF:-1 tvg-id="" tvg-name="[BR] TC Cult FHD" tvg-logo="" group-title="BRAZIL",[BR] TC Cult FHD
-http://supersonictv.live:8080/329474/903964/85100
-#EXTINF:-1 tvg-id="" tvg-name="[BR] TC Fun FHD" tvg-logo="" group-title="BRAZIL",[BR] TC Fun FHD
-http://supersonictv.live:8080/329474/903964/85101
-#EXTINF:-1 tvg-id="" tvg-name="[BR] TC Pipoca FHD" tvg-logo="" group-title="BRAZIL",[BR] TC Pipoca FHD
-http://supersonictv.live:8080/329474/903964/85102
-#EXTINF:-1 tvg-id="" tvg-name="[BR] TC Premium FHD" tvg-logo="" group-title="BRAZIL",[BR] TC Premium FHD
-http://supersonictv.live:8080/329474/903964/85103
-#EXTINF:-1 tvg-id="" tvg-name="[BR] TC Touch FHD" tvg-logo="" group-title="BRAZIL",[BR] TC Touch FHD
-http://supersonictv.live:8080/329474/903964/85104
-#EXTINF:-1 tvg-id="" tvg-name="[BR] TCM FHD" tvg-logo="" group-title="BRAZIL",[BR] TCM FHD
-http://supersonictv.live:8080/329474/903964/85105
-#EXTINF:-1 tvg-id="" tvg-name="[BR] The History FHD" tvg-logo="" group-title="BRAZIL",[BR] The History FHD
-http://supersonictv.live:8080/329474/903964/85106
-#EXTINF:-1 tvg-id="" tvg-name="[BR] TLC FHD" tvg-logo="" group-title="BRAZIL",[BR] TLC FHD
-http://supersonictv.live:8080/329474/903964/85107
-#EXTINF:-1 tvg-id="" tvg-name="[BR] TNT FHD" tvg-logo="" group-title="BRAZIL",[BR] TNT FHD
-http://supersonictv.live:8080/329474/903964/85108
-#EXTINF:-1 tvg-id="" tvg-name="[BR] TNT Series FHD" tvg-logo="" group-title="BRAZIL",[BR] TNT Series FHD
-http://supersonictv.live:8080/329474/903964/85109
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Warner Channel FHD" tvg-logo="" group-title="BRAZIL",[BR] Warner Channel FHD
-http://supersonictv.live:8080/329474/903964/85122
-#EXTINF:-1 tvg-id="" tvg-name="[BR] COMBATE 4K" tvg-logo="" group-title="BRAZIL",[BR] COMBATE 4K
-http://supersonictv.live:8080/329474/903964/85165
-#EXTINF:-1 tvg-id="" tvg-name="[BR] ESPN Brasil 4K" tvg-logo="" group-title="BRAZIL",[BR] ESPN Brasil 4K
-http://supersonictv.live:8080/329474/903964/85178
-#EXTINF:-1 tvg-id="" tvg-name="[BR] FOX SPORTS 2 4K" tvg-logo="" group-title="BRAZIL",[BR] FOX SPORTS 2 4K
-http://supersonictv.live:8080/329474/903964/85181
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Fox Sports 4K" tvg-logo="" group-title="BRAZIL",[BR] Fox Sports 4K
-http://supersonictv.live:8080/329474/903964/85182
-#EXTINF:-1 tvg-id="" tvg-name="[BR] HBO 2 DUAL FHD" tvg-logo="" group-title="BRAZIL",[BR] HBO 2 DUAL FHD
-http://supersonictv.live:8080/329474/903964/85211
-#EXTINF:-1 tvg-id="" tvg-name="[BR] HBO 2 DUAL HD" tvg-logo="" group-title="BRAZIL",[BR] HBO 2 DUAL HD
-http://supersonictv.live:8080/329474/903964/85212
-#EXTINF:-1 tvg-id="" tvg-name="[BR] HBO 4K" tvg-logo="" group-title="BRAZIL",[BR] HBO 4K
-http://supersonictv.live:8080/329474/903964/85213
-#EXTINF:-1 tvg-id="" tvg-name="[BR] HBO DUAL FHD" tvg-logo="" group-title="BRAZIL",[BR] HBO DUAL FHD
-http://supersonictv.live:8080/329474/903964/85214
-#EXTINF:-1 tvg-id="" tvg-name="[BR] HBO DUAL HD" tvg-logo="" group-title="BRAZIL",[BR] HBO DUAL HD
-http://supersonictv.live:8080/329474/903964/85215
-#EXTINF:-1 tvg-id="" tvg-name="[BR] HBO Family DUAL FHD" tvg-logo="" group-title="BRAZIL",[BR] HBO Family DUAL FHD
-http://supersonictv.live:8080/329474/903964/85216
-#EXTINF:-1 tvg-id="" tvg-name="[BR] HBO Family DUAL HD" tvg-logo="" group-title="BRAZIL",[BR] HBO Family DUAL HD
-http://supersonictv.live:8080/329474/903964/85217
-#EXTINF:-1 tvg-id="" tvg-name="[BR] HBO Mundi DUAL FHD" tvg-logo="" group-title="BRAZIL",[BR] HBO Mundi DUAL FHD
-http://supersonictv.live:8080/329474/903964/85218
-#EXTINF:-1 tvg-id="" tvg-name="[BR] HBO Mundi DUAL HD" tvg-logo="" group-title="BRAZIL",[BR] HBO Mundi DUAL HD
-http://supersonictv.live:8080/329474/903964/85219
-#EXTINF:-1 tvg-id="" tvg-name="[BR] HBO Pop DUAL HD" tvg-logo="" group-title="BRAZIL",[BR] HBO Pop DUAL HD
-http://supersonictv.live:8080/329474/903964/85220
-#EXTINF:-1 tvg-id="" tvg-name="[BR] HBO XTREME 4K" tvg-logo="" group-title="BRAZIL",[BR] HBO XTREME 4K
-http://supersonictv.live:8080/329474/903964/85221
-#EXTINF:-1 tvg-id="" tvg-name="[BR] HBO Xtreme DUAL FHD" tvg-logo="" group-title="BRAZIL",[BR] HBO Xtreme DUAL FHD
-http://supersonictv.live:8080/329474/903964/85222
-#EXTINF:-1 tvg-id="" tvg-name="[BR] HBO Xtreme DUAL HD" tvg-logo="" group-title="BRAZIL",[BR] HBO Xtreme DUAL HD
-http://supersonictv.live:8080/329474/903964/85223
-#EXTINF:-1 tvg-id="" tvg-name="[BR] MEGAPIX 4K" tvg-logo="" group-title="BRAZIL",[BR] MEGAPIX 4K
-http://supersonictv.live:8080/329474/903964/85232
-#EXTINF:-1 tvg-id="" tvg-name="[BR] NATGEO 4K" tvg-logo="" group-title="BRAZIL",[BR] NATGEO 4K
-http://supersonictv.live:8080/329474/903964/85235
-#EXTINF:-1 tvg-id="" tvg-name="[BR] PREMIERE CLUBES 4K" tvg-logo="" group-title="BRAZIL",[BR] PREMIERE CLUBES 4K
-http://supersonictv.live:8080/329474/903964/85240
-#EXTINF:-1 tvg-id="" tvg-name="[BR] TC Action DUAL FHD" tvg-logo="" group-title="BRAZIL",[BR] TC Action DUAL FHD
-http://supersonictv.live:8080/329474/903964/85289
-#EXTINF:-1 tvg-id="" tvg-name="[BR] TC Action DUAL HD" tvg-logo="" group-title="BRAZIL",[BR] TC Action DUAL HD
-http://supersonictv.live:8080/329474/903964/85290
-#EXTINF:-1 tvg-id="" tvg-name="[BR] TC Cult DUAL FHD" tvg-logo="" group-title="BRAZIL",[BR] TC Cult DUAL FHD
-http://supersonictv.live:8080/329474/903964/85291
-#EXTINF:-1 tvg-id="" tvg-name="[BR] TC Cult DUAL HD" tvg-logo="" group-title="BRAZIL",[BR] TC Cult DUAL HD
-http://supersonictv.live:8080/329474/903964/85292
-#EXTINF:-1 tvg-id="" tvg-name="[BR] TC Fun DUAL FHD" tvg-logo="" group-title="BRAZIL",[BR] TC Fun DUAL FHD
-http://supersonictv.live:8080/329474/903964/85293
-#EXTINF:-1 tvg-id="" tvg-name="[BR] TC Fun DUAL HD" tvg-logo="" group-title="BRAZIL",[BR] TC Fun DUAL HD
-http://supersonictv.live:8080/329474/903964/85294
-#EXTINF:-1 tvg-id="" tvg-name="[BR] TC Pipoca DUAL FHD" tvg-logo="" group-title="BRAZIL",[BR] TC Pipoca DUAL FHD
-http://supersonictv.live:8080/329474/903964/85295
-#EXTINF:-1 tvg-id="" tvg-name="[BR] TC Pipoca DUAL HD" tvg-logo="" group-title="BRAZIL",[BR] TC Pipoca DUAL HD
-http://supersonictv.live:8080/329474/903964/85296
-#EXTINF:-1 tvg-id="" tvg-name="[BR] TC Premium DUAL FHD" tvg-logo="" group-title="BRAZIL",[BR] TC Premium DUAL FHD
-http://supersonictv.live:8080/329474/903964/85297
-#EXTINF:-1 tvg-id="" tvg-name="[BR] TC Premium DUAL HD" tvg-logo="" group-title="BRAZIL",[BR] TC Premium DUAL HD
-http://supersonictv.live:8080/329474/903964/85298
-#EXTINF:-1 tvg-id="" tvg-name="[BR] TC Touch DUAL FHD" tvg-logo="" group-title="BRAZIL",[BR] TC Touch DUAL FHD
-http://supersonictv.live:8080/329474/903964/85299
-#EXTINF:-1 tvg-id="" tvg-name="[BR] TC Touch DUAL HD" tvg-logo="" group-title="BRAZIL",[BR] TC Touch DUAL HD
-http://supersonictv.live:8080/329474/903964/85300
-#EXTINF:-1 tvg-id="" tvg-name="[BR] TELECINE PREMIUM 4K" tvg-logo="" group-title="BRAZIL",[BR] TELECINE PREMIUM 4K
-http://supersonictv.live:8080/329474/903964/85301
-#EXTINF:-1 tvg-id="" tvg-name="[BR] TNT 4K" tvg-logo="" group-title="BRAZIL",[BR] TNT 4K
-http://supersonictv.live:8080/329474/903964/85305
-#EXTINF:-1 tvg-id="" tvg-name="[BR] TNT DUAL FHD" tvg-logo="" group-title="BRAZIL",[BR] TNT DUAL FHD
-http://supersonictv.live:8080/329474/903964/85306
-#EXTINF:-1 tvg-id="" tvg-name="[BR] TNT DUAL HD" tvg-logo="" group-title="BRAZIL",[BR] TNT DUAL HD
-http://supersonictv.live:8080/329474/903964/85307
-#EXTINF:-1 tvg-id="" tvg-name="[BR] TNT SÉRIES 4K" tvg-logo="" group-title="BRAZIL",[BR] TNT SÉRIES 4K
-http://supersonictv.live:8080/329474/903964/85308
-#EXTINF:-1 tvg-id="" tvg-name="[BR] TNT Series DUAL HD" tvg-logo="" group-title="BRAZIL",[BR] TNT Series DUAL HD
-http://supersonictv.live:8080/329474/903964/85309
-#EXTINF:-1 tvg-id="" tvg-name="[BR] TNT SPORTS 1 HD" tvg-logo="" group-title="BRAZIL",[BR] TNT SPORTS 1 HD
-http://supersonictv.live:8080/329474/903964/85310
-#EXTINF:-1 tvg-id="" tvg-name="[BR] TNT SPORTS 1 SD" tvg-logo="" group-title="BRAZIL",[BR] TNT SPORTS 1 SD
-http://supersonictv.live:8080/329474/903964/85311
-#EXTINF:-1 tvg-id="" tvg-name="[BR] TNT SPORTS 2 HD" tvg-logo="" group-title="BRAZIL",[BR] TNT SPORTS 2 HD
-http://supersonictv.live:8080/329474/903964/85312
-#EXTINF:-1 tvg-id="" tvg-name="[BR] TNT SPORTS 2 SD" tvg-logo="" group-title="BRAZIL",[BR] TNT SPORTS 2 SD
-http://supersonictv.live:8080/329474/903964/85313
-#EXTINF:-1 tvg-id="" tvg-name="[BR] TNT SPORTS 3 HD" tvg-logo="" group-title="BRAZIL",[BR] TNT SPORTS 3 HD
-http://supersonictv.live:8080/329474/903964/85314
-#EXTINF:-1 tvg-id="" tvg-name="[BR] TNT SPORTS 3 SD" tvg-logo="" group-title="BRAZIL",[BR] TNT SPORTS 3 SD
-http://supersonictv.live:8080/329474/903964/85315
-#EXTINF:-1 tvg-id="" tvg-name="[BR] TNT SPORTS 4 HD" tvg-logo="" group-title="BRAZIL",[BR] TNT SPORTS 4 HD
-http://supersonictv.live:8080/329474/903964/85316
-#EXTINF:-1 tvg-id="" tvg-name="[BR] TNT SPORTS 4 SD" tvg-logo="" group-title="BRAZIL",[BR] TNT SPORTS 4 SD
-http://supersonictv.live:8080/329474/903964/85317
-#EXTINF:-1 tvg-id="" tvg-name="[BR] TNT SPORTS 5 HD" tvg-logo="" group-title="BRAZIL",[BR] TNT SPORTS 5 HD
-http://supersonictv.live:8080/329474/903964/85318
-#EXTINF:-1 tvg-id="" tvg-name="[BR] TNT SPORTS 5 SD" tvg-logo="" group-title="BRAZIL",[BR] TNT SPORTS 5 SD
-http://supersonictv.live:8080/329474/903964/85319
-#EXTINF:-1 tvg-id="" tvg-name="[BR] TNT SPORTS 6 HD" tvg-logo="" group-title="BRAZIL",[BR] TNT SPORTS 6 HD
-http://supersonictv.live:8080/329474/903964/85320
-#EXTINF:-1 tvg-id="" tvg-name="[BR] TNT SPORTS 6 SD" tvg-logo="" group-title="BRAZIL",[BR] TNT SPORTS 6 SD
-http://supersonictv.live:8080/329474/903964/85321
-#EXTINF:-1 tvg-id="" tvg-name="[BR] TNT SPORTS 7 HD" tvg-logo="" group-title="BRAZIL",[BR] TNT SPORTS 7 HD
-http://supersonictv.live:8080/329474/903964/85322
-#EXTINF:-1 tvg-id="" tvg-name="[BR] TNT SPORTS 7 SD" tvg-logo="" group-title="BRAZIL",[BR] TNT SPORTS 7 SD
-http://supersonictv.live:8080/329474/903964/85323
-#EXTINF:-1 tvg-id="" tvg-name="[BR] TNT SPORTS 8 HD" tvg-logo="" group-title="BRAZIL",[BR] TNT SPORTS 8 HD
-http://supersonictv.live:8080/329474/903964/85324
-#EXTINF:-1 tvg-id="" tvg-name="[BR] TNT SPORTS 8 SD" tvg-logo="" group-title="BRAZIL",[BR] TNT SPORTS 8 SD
-http://supersonictv.live:8080/329474/903964/85325
-#EXTINF:-1 tvg-id="" tvg-name="BR: WARNER CHANNEL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: WARNER CHANNEL
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659821
-#EXTINF:-1 tvg-id="" tvg-name="BR: TELECINE CULT" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: TELECINE CULT
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659802
-#EXTINF:-1 tvg-id="" tvg-name="BR: TELECINE FUN" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: TELECINE FUN
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659803
-#EXTINF:-1 tvg-id="" tvg-name="BR: TELECINE PIPOCA" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: TELECINE PIPOCA
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659804
-#EXTINF:-1 tvg-id="" tvg-name="BR: TELECINE PREMIUM" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: TELECINE PREMIUM
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659805
-#EXTINF:-1 tvg-id="" tvg-name="BR: TELECINE TOUCH" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: TELECINE TOUCH
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659806
-#EXTINF:-1 tvg-id="" tvg-name="BR: TLC HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: TLC HD
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659807
-#EXTINF:-1 tvg-id="" tvg-name="BR: TNT HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: TNT HD
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659808
-#EXTINF:-1 tvg-id="" tvg-name="BR: TNT NOVELAS" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: TNT NOVELAS
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659809
-#EXTINF:-1 tvg-id="" tvg-name="BR: TNT SERIES HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: TNT SERIES HD
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659810
-#EXTINF:-1 tvg-id="" tvg-name="BR: SYFY HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: SYFY HD
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659798
-#EXTINF:-1 tvg-id="" tvg-name="BR: TBS" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: TBS
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659799
-#EXTINF:-1 tvg-id="" tvg-name="BR: TCM BR" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: TCM BR
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659800
-#EXTINF:-1 tvg-id="" tvg-name="BR: TELECINE ACTION" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: TELECINE ACTION
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659801
-#EXTINF:-1 tvg-id="" tvg-name="BR: STUDIO UNIVERSAL HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: STUDIO UNIVERSAL HD
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659797
-#EXTINF:-1 tvg-id="" tvg-name="BR: SPACE HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: SPACE HD
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659792
-#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: SPORTV
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659793
-#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 2" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: SPORTV 2
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659794
-#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 3" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: SPORTV 3
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659795
-#EXTINF:-1 tvg-id="" tvg-name="BR: SONY CHANNEL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: SONY CHANNEL
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659791
-#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE CLUBES HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: PREMIERE CLUBES HD
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659776
-#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE2 HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: PREMIERE2 HD
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659777
-#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE3 HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: PREMIERE3 HD
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659778
-#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE4 HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: PREMIERE4 HD
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659779
-#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE5 HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: PREMIERE5 HD
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659780
-#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE6 HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: PREMIERE6 HD
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659781
-#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE7 HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: PREMIERE7 HD
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659782
-#EXTINF:-1 tvg-id="" tvg-name="BR: PARAMOUNT NETWORK" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: PARAMOUNT NETWORK
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659770
-#EXTINF:-1 tvg-id="" tvg-name="BR: Paramount+ 1" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: Paramount+ 1
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659771
-#EXTINF:-1 tvg-id="" tvg-name="BR: Paramount+ 2" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: Paramount+ 2
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659772
-#EXTINF:-1 tvg-id="" tvg-name="BR: Paramount+ 3" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: Paramount+ 3
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659773
-#EXTINF:-1 tvg-id="" tvg-name="BR: Paramount+ 4" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: Paramount+ 4
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659774
-#EXTINF:-1 tvg-id="" tvg-name="BR: NATIONAL GEOGRAPHIC HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: NATIONAL GEOGRAPHIC HD
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659761
-#EXTINF:-1 tvg-id="" tvg-name="BR: NICK JR" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: NICK JR
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659762
-#EXTINF:-1 tvg-id="" tvg-name="BR: NICKELODEON HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: NICKELODEON HD
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659763
-#EXTINF:-1 tvg-id="" tvg-name="BR: MTV HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: MTV HD
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659756
-#EXTINF:-1 tvg-id="" tvg-name="BR: MTV LIVE" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: MTV LIVE
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659757
-#EXTINF:-1 tvg-id="" tvg-name="BR: MTVs_00" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: MTVs_00
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659758
-#EXTINF:-1 tvg-id="" tvg-name="BR: MEGAPIX HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: MEGAPIX HD
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659753
-#EXTINF:-1 tvg-id="" tvg-name="BR: LIFETIME" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: LIFETIME
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659750
-#EXTINF:-1 tvg-id="" tvg-name="BR: HISTORY" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: HISTORY
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659747
-#EXTINF:-1 tvg-id="" tvg-name="BR: HISTORY2" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: HISTORY2
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659748
-#EXTINF:-1 tvg-id="" tvg-name="BR: HBO Pop" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: HBO Pop
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659741
-#EXTINF:-1 tvg-id="" tvg-name="BR: HBO Signature" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: HBO Signature
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659742
-#EXTINF:-1 tvg-id="" tvg-name="BR: HBO Xtreme" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: HBO Xtreme
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659743
-#EXTINF:-1 tvg-id="" tvg-name="BR: HBO+" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: HBO+
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659744
-#EXTINF:-1 tvg-id="" tvg-name="BR: HBO2" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: HBO2
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659745
-#EXTINF:-1 tvg-id="" tvg-name="BR: HBO" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: HBO
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659738
-#EXTINF:-1 tvg-id="" tvg-name="BR: HBO Family" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: HBO Family
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659739
-#EXTINF:-1 tvg-id="" tvg-name="BR: HBO Mundi" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: HBO Mundi
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659740
-#EXTINF:-1 tvg-id="" tvg-name="BR: FX HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: FX HD
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659732
-#EXTINF:-1 tvg-id="" tvg-name="BR: FOX SPORTS 2" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: FOX SPORTS 2
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659729
-#EXTINF:-1 tvg-id="" tvg-name="BR: FILM & ARTS" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: FILM & ARTS
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659726
-#EXTINF:-1 tvg-id="" tvg-name="BR: EUROCHANNEL HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: EUROCHANNEL HD
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659724
-#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: ESPN
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659718
-#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN 2" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: ESPN 2
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659719
-#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN 3" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: ESPN 3
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659720
-#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN 4" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: ESPN 4
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659721
-#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN 5" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: ESPN 5
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659722
-#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN 6" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: ESPN 6
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659723
-#EXTINF:-1 tvg-id="" tvg-name="BR: E" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: E
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659716
-#EXTINF:-1 tvg-id="" tvg-name="BR: E!" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: E!
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659717
-#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY ID" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: DISCOVERY ID
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659708
-#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY KIDS HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: DISCOVERY KIDS HD
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659709
-#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY SCIENCE HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: DISCOVERY SCIENCE HD
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659710
-#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY THEATER HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: DISCOVERY THEATER HD
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659711
-#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY TURBO HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: DISCOVERY TURBO HD
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659712
-#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY WORLD HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: DISCOVERY WORLD HD
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659713
-#EXTINF:-1 tvg-id="" tvg-name="BR: DISNEY CHANNEL HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: DISNEY CHANNEL HD
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659714
-#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: DISCOVERY HD
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659706
-#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY HOME&HEALTH HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: DISCOVERY HOME&HEALTH HD
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659707
-#EXTINF:-1 tvg-id="" tvg-name="BR: CNN BRASIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: CNN BRASIL
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659700
-#EXTINF:-1 tvg-id="" tvg-name="BR: CNN INTERNATIONAL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: CNN INTERNATIONAL
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659701
-#EXTINF:-1 tvg-id="" tvg-name="BR: COMBATE HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: COMBATE HD
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659702
-#EXTINF:-1 tvg-id="" tvg-name="BR: COMEDY CENTRAL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: COMEDY CENTRAL
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659703
-#EXTINF:-1 tvg-id="" tvg-name="BR: CINEMAX HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: CINEMAX HD
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659698
-#EXTINF:-1 tvg-id="" tvg-name="BR: CARTOON HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: CARTOON HD
+#EXTINF:-1 tvg-id="" tvg-name="[BR] NatGeO" tvg-logo="" group-title="BRAZIL",[BR] NatGeO
+http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659761
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="BR: CARTOON HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="DESENHOS",BR: CARTOON HD
 http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659693
-#EXTINF:-1 tvg-id="" tvg-name="BR: BAND NEWS" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: BAND NEWS
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659683
-#EXTINF:-1 tvg-id="" tvg-name="BR: BAND SPORTS HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: BAND SPORTS HD
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Cartoon Network FHD" tvg-logo="" group-title="DESENHOS",BR: Cartoon Network FHD
+http://supersonictv.live:8080/329474/903964/84946
+#EXTINF:-1 tvg-id="" tvg-name="BR: CARTOONITO" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="DESENHOS",BR: CARTOONITO
+http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659694
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY KIDS HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="DESENHOS",BR: DISCOVERY KIDS HD
+http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659709
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Discovery Kids FHD" tvg-logo="" group-title="DESENHOS",BR: Discovery Kids FHD
+http://supersonictv.live:8080/329474/903964/84969
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png", group-title="DESENHOS",BR: NICK JR
+http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/659762
+#EXTINF:-1 tvg-id="" tvg-name="BR: NICKELODEON HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="DESENHOS",BR: NICKELODEON HD
+http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659763
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="DESENHOS",BR: NICKELODEON HD
+http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/659763
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Disney JR FHD" tvg-logo="" group-title="DESENHOS",[BR] Disney JR FHD
+http://supersonictv.live:8080/329474/903964/84975
+
+#EXTINF:-1 tvg-id="" tvg-name="BR: COMBATE HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="ESPORTES",BR: COMBATE HD
+http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659702
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Combate FHD" tvg-logo="" group-title="ESPORTES",[BR] Combate FHD
+http://supersonictv.live:8080/329474/903964/84953
+#EXTINF:-1 tvg-id="" tvg-name="COMBATE SD" tvg-logo="http://i.imgur.com/5qo1Dyc.png" group-title="ESPORTES",[BR] COMBATE SD
+http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/1
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES SD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="ESPORTES",BR: PREMIERE CLUBES SD 
+http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/9
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE CLUBES HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="ESPORTES",BR: PREMIERE CLUBES HD
+http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659776
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: PREMIERE CLUBES HD
+http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/659776
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE2 HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="ESPORTES",BR: PREMIERE2 HD
+http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659777
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: PREMIERE2 HD
+http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/659777
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE3 HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="ESPORTES",BR: PREMIERE3 HD
+http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659778
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: PREMIERE3 HD
+http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/659778
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE4 HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="ESPORTES",BR: PREMIERE4 HD
+http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659779
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: PREMIERE4 HD
+http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/659779
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="ESPORTESL",BR: SPORTV
+http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659793
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: SPORTV
+http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/659793
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: SPORTV 2
+http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/659794
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 2" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="ESPORTES",BR: SPORTV 2
+http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659794
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 3" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="ESPORTES",BR: SPORTV 3
+http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659795
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: SPORTV 3
+http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/659795
+#EXTINF:-1 tvg-id="" tvg-name="[BR] E! FHD" tvg-logo="" group-title="BRAZIL",[BR] E! FHD
+http://supersonictv.live:8080/329474/903964/84977
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: E!
+http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659717
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: ESPN
+http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659718
+#EXTINF:-1 tvg-id="" tvg-name="[BR] ESPN FHD" tvg-logo="" group-title="ESPORTES",[BR] ESPN FHD
+http://supersonictv.live:8080/329474/903964/84981
+#EXTINF:-1 tvg-id="" tvg-name="[BR] ESPN 2 FHD" tvg-logo="" group-title="ESPORTES",[BR] ESPN 2 FHD
+http://supersonictv.live:8080/329474/903964/84978
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 FHD" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="ESPORTES",BR: ESPN 2 H265
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/135
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: ESPN 2
+http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659719
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9c/Logo_ESPN_HD.png/revision/latest?cb=20160113004056" group-title="ESPORTES",BR: ESPN HD 
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/126
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: ESPN 3
+http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659720
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 SD" tvg-logo="https://i.imgur.com/u11qaVb.png" group-title="ESPORTES",BR: ESPN BRASIL SD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/143
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: ESPN 4
+http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659721
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: ESPN 5
+http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659722
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: ESPN 6
+http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659723
+#EXTINF:-1 tvg-id="" tvg-name="[BR] ESPN Brasil FHD" tvg-logo="" group-title="ESPORTES",[BR] ESPN Brasil FHD
+http://supersonictv.live:8080/329474/903964/84979
+#EXTINF:-1 tvg-id="" tvg-name="[BR] ESPN Extra FHD" tvg-logo="" group-title="ESPORTES",[BR] ESPN Extra FHD
+http://supersonictv.live:8080/329474/903964/84980
+#EXTINF:-1 tvg-id="" tvg-name="[BR] ESPORTE INTERATIVO *" tvg-logo="" group-title="ESPORTES",[BR] ESPORTE INTERATIVO *
+http://supersonictv.live:8080/329474/903964/84982
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Fox Sport HD" tvg-logo="" group-title="ESPORTES",[BR] Fox Sport HD
+http://supersonictv.live:8080/329474/903964/84991
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Fox Sports 2 FHD" tvg-logo="" group-title="ESPORTES",[BR] Fox Sports 2 FHD
+http://supersonictv.live:8080/329474/903964/84992
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Fox Sports FHD" tvg-logo="" group-title="ESPORTES",[BR] Fox Sports FHD
+http://supersonictv.live:8080/329474/903964/84993
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Fox Sports SD" tvg-logo="" group-title="ESPORTES",[BR] Fox Sports SD
+http://supersonictv.live:8080/329474/903964/84994
+#EXTINF:-1 tvg-id="" tvg-name="BR: BAND SPORTS HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="ESPORTES",BR: BAND SPORTS HD
 http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659684
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Band Sports FHD" tvg-logo="" group-title="ESPORTES",[BR] Band Sports FHD
+http://supersonictv.live:8080/329474/903964/84942
+
 #EXTINF:-1 tvg-id="" tvg-name="BR: BBC WORLD NEWS" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: BBC WORLD NEWS
 http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659685
-#EXTINF:-1 tvg-id="" tvg-name="BR: AMC HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: AMC HD
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659677
-#EXTINF:-1 tvg-id="" tvg-name="BR: ANIMAL PLANET HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: ANIMAL PLANET HD
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659678
-#EXTINF:-1 tvg-id="" tvg-name="BR: ARTE 1 HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: ARTE 1 HD
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659679
-#EXTINF:-1 tvg-id="" tvg-name="BR: AXN" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: AXN
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659680
-#EXTINF:-1 tvg-id="" tvg-name="BR: A&E" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: A&E
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659674
+#EXTINF:-1 tvg-id="" tvg-name="BR: BAND NEWS" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: BAND NEWS
+http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659683
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Band News FHD" tvg-logo="" group-title="BRAZIL",[BR] Band News FHD
+http://supersonictv.live:8080/329474/903964/84941
+#EXTINF:-1 tvg-id="" tvg-name="BR: BLOOMBERG TV" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: BLOOMBERG TV
+http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659687
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Fox News FHD" tvg-logo="" group-title="BRAZIL",[BR] Fox News FHD
+http://supersonictv.live:8080/329474/903964/84988
+#EXTINF:-1 tvg-id="" tvg-name="BR: CNN INTERNATIONAL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: CNN INTERNATIONAL
+http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659701
+#EXTINF:-1 tvg-id="" tvg-name="[BR] CNN Internacional FHD" tvg-logo="" group-title="BRAZIL",[BR] CNN Internacional FHD
+http://supersonictv.live:8080/329474/903964/84952
+#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD NEWS" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: RECORD NEWS
+http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659786
+#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: RECORD NEWS
+http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/659786
+#EXTINF:-1 tvg-id="" tvg-name="BR: CULTURA HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: CULTURA HD
+http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659704
