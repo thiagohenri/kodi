@@ -4,12 +4,26 @@
 http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659821
 EXTINF:-1 tvg-id="Warner Channel HD" tvg-name="Warner Channel" tvg-logo="http://i.imgur.com/xvZ66AU.png" group-title="Canais | Filmes e Series",Warner Channel
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/783
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Warner Channel DUAL HD" tvg-logo="" group-title=""Canais | Filmes e Series" , Warner Channel DUAL HD
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Warner Channel DUAL HD" tvg-logo="" group-title="Canais | Filmes e Series" , Warner Channel DUAL HD
 http://supersonictv.live:8080/329474/903964/85356
 #EXTINF:-1 group-title="Canais | Filmes e Series" ,Warner ," tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: WARNER CHANNEL
 http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659821
+#EXTINF:-1 tvg-name="Megapix FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/megapix.png" group-title="Canais | Filmes e Séries",Megapix FHD [H265]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72167.ts
+#EXTINF:-1 tvg-name="Megapix FHD [LEG]" tvg-logo="https://acstatic.co/logos/canais/megapix.png" group-title="Canais | Filmes e Séries",Megapix FHD [LEG]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90680.ts
+#EXTINF:-1 tvg-name="Megapix HD" tvg-logo="https://acstatic.co/logos/canais/megapix.png" group-title="Canais | Filmes e Séries",Megapix HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72169.ts
+#EXTINF:-1 tvg-name="Megapix HD [LEG]" tvg-logo="https://acstatic.co/logos/canais/megapix.png" group-title="Canais | Filmes e Séries",Megapix HD [LEG]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/131118.ts
+#EXTINF:-1 tvg-name="Megapix SD" tvg-logo="https://acstatic.co/logos/canais/megapix.png" group-title="Canais | Filmes e Séries",Megapix SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/131204.ts
+#EXTINF:-1 tvg-name="Megapix SD [LEG]" tvg-logo="https://acstatic.co/logos/canais/megapix.png" group-title="Canais | Filmes e Séries",Megapix SD [LEG]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/131171.ts
 #EXTINF:-1 tvg-id="" tvg-name="[BR] A&E FHD" tvg-logo="" group-title= "Canais | Filmes e Series" , A&E FHD
 http://supersonictv.live:8080/329474/903964/84935
+#EXTINF:-1 tvg-name="A&E SD" tvg-logo="https://acstatic.co/logos/canais/a%26e.png" group-title= "Canais | Filmes e Series",A&E SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71763.ts
 #EXTINF:-1 group-title= "Canais | Filmes e Series" A&E, tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: A&E
 http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/659674
 #EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: A&E
@@ -24,12 +38,12 @@ http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659679
 http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659680
 #EXTINF:-1 tvg-id="" tvg-name="[BR] AXN FHD" tvg-logo="" group-title="Canais | Filmes e Series",[BR] AXN FHD
 http://supersonictv.live:8080/329474/903964/84938
-#EXTINF:-1 tvg-id="" tvg-name="BR: AXN" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="Canais | Filmes e Series",BR: AXN
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659680
+#EXTINF:-1 tvg-id="" tvg-name="BR: AXN" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="Canais | Filmes e Series",BR: AXN SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71784.ts
 #EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: AMC HD
 http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659677
-#EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: AMC HD
-http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/659677
+#EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: AMC SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71771.ts
 #EXTINF:-1 tvg-id="" tvg-name="BR: AMC HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="Canais | Filmes e Series",BR: AMC HD
 http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659677
 #EXTINF:-1 group-title="Canais | Filmes e Series" tvg-id="" tvg-name="CSI MIAMI"
@@ -94,6 +108,102 @@ http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659805
 http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659806
 #EXTINF:-1 tvg-id="" tvg-name="BR: TELECINE TOUCH" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="Canais | Filmes e Series",BR: TELECINE TOUCH
 http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659806
+#EXTINF:-1 tvg-name="Telecine Action 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/telecineaction.png" group-title="Canais | Filmes e Series",BR: Telecine Action 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90239.ts
+#EXTINF:-1 tvg-name="Telecine Action FHD" tvg-logo="https://acstatic.co/logos/canais/telecineaction.png" group-title="Canais | Filmes e Series",BR: Telecine Action FHD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72346.ts
+#EXTINF:-1 tvg-name="Telecine Action FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/telecineaction.png" group-title="Canais | Filmes e Series",BR: Telecine Action FHD [H265]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72347.ts
+#EXTINF:-1 tvg-name="Telecine Action FHD [LEG]" tvg-logo="https://acstatic.co/logos/canais/telecineaction.png" group-title="Canais | Filmes e Series",BR: Telecine Action FHD [LEG]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90668.ts
+#EXTINF:-1 tvg-name="Telecine Action HD" tvg-logo="https://acstatic.co/logos/canais/telecineaction.png" group-title="Canais | Filmes e Series",BR: Telecine Action HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72348.ts
+#EXTINF:-1 tvg-name="Telecine Action HD [LEG]" tvg-logo="https://acstatic.co/logos/canais/telecineaction.png" group-title="Canais | Filmes e Series",BR: Telecine Action HD [LEG]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90667.ts
+#EXTINF:-1 tvg-name="Telecine Action SD" tvg-logo="http://static.clubsrv.me/logos/canais/telecineaction.png" group-title="Canais | Filmes e Series",BR: Telecine Action SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72349.ts
+#EXTINF:-1 tvg-name="Telecine Action SD [LEG]" tvg-logo="https://acstatic.co/logos/canais/telecineaction.png" group-title="Canais | Filmes e Series",BR: Telecine Action SD [LEG]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90666.ts
+#EXTINF:-1 tvg-name="Telecine Cult 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/telecinecult.png" group-title="Canais | Filmes e Series",BR: Telecine Cult 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103456.ts
+#EXTINF:-1 tvg-name="Telecine Cult FHD" tvg-logo="https://acstatic.co/logos/canais/telecinecult.png" group-title="Canais | Filmes e Series",BR: Telecine Cult FHD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72350.ts
+#EXTINF:-1 tvg-name="Telecine Cult FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/telecinecult.png" group-title="Canais | Filmes e Series",BR: Telecine Cult FHD [H265]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72351.ts
+#EXTINF:-1 tvg-name="Telecine Cult FHD [LEG]" tvg-logo="https://acstatic.co/logos/canais/telecinecult.png" group-title="Canais | Filmes e Series",BR: Telecine Cult FHD [LEG]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90665.ts
+#EXTINF:-1 tvg-name="Telecine Cult HD" tvg-logo="https://acstatic.co/logos/canais/telecinecult.png" group-title="Canais | Filmes e Series",BR: Telecine Cult HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72352.ts
+#EXTINF:-1 tvg-name="Telecine Cult HD [LEG]" tvg-logo="https://acstatic.co/logos/canais/telecinecult.png" group-title="Canais | Filmes e Series",BR: Telecine Cult HD [LEG]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90664.ts
+#EXTINF:-1 tvg-name="Telecine Cult SD" tvg-logo="https://acstatic.co/logos/canais/telecinecult.png" group-title="Canais | Filmes e Series",BR: Telecine Cult SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72353.ts
+#EXTINF:-1 tvg-name="Telecine Cult SD [LEG]" tvg-logo="https://acstatic.co/logos/canais/telecinecult.png" group-title="Canais | Filmes e Series",BR: Telecine Cult SD [LEG]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90663.ts
+#EXTINF:-1 tvg-name="Telecine Fun 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/telecinefun.png" group-title="Canais | Filmes e Series",BR: Telecine Fun 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103455.ts
+#EXTINF:-1 tvg-name="Telecine Fun FHD" tvg-logo="https://acstatic.co/logos/canais/telecinefun.png" group-title="Canais | Filmes e Series",BR: Telecine Fun FHD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72354.ts
+#EXTINF:-1 tvg-name="Telecine Fun FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/telecinefun.png" group-title="Canais | Filmes e Series",BR: Telecine Fun FHD [H265]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72355.ts
+#EXTINF:-1 tvg-name="Telecine Fun FHD [LEG]" tvg-logo="https://acstatic.co/logos/canais/telecinefun.png" group-title="Canais | Filmes e Series",BR: Telecine Fun FHD [LEG]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90662.ts
+#EXTINF:-1 tvg-name="Telecine Fun HD" tvg-logo="https://acstatic.co/logos/canais/telecinefun.png" group-title="Canais | Filmes e Series",BR: Telecine Fun HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72356.ts
+#EXTINF:-1 tvg-name="Telecine Fun HD [LEG]" tvg-logo="https://acstatic.co/logos/canais/telecinefun.png" group-title="Canais | Filmes e Series",BR: Telecine Fun HD [LEG]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90661.ts
+#EXTINF:-1 tvg-name="Telecine Fun SD" tvg-logo="https://acstatic.co/logos/canais/telecinefun.png" group-title="Canais | Filmes e Series",BR: Telecine Fun SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72357.ts
+#EXTINF:-1 tvg-name="Telecine Fun SD [LEG]" tvg-logo="https://acstatic.co/logos/canais/telecinefun.png" group-title="Canais | Filmes e Series",BR: Telecine Fun SD [LEG]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90660.ts
+#EXTINF:-1 tvg-name="Telecine Pipoca 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/telecinepipoca.png" group-title="Canais | Filmes e Series",BR: Telecine Pipoca 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90238.ts
+#EXTINF:-1 tvg-name="Telecine Pipoca FHD" tvg-logo="https://acstatic.co/logos/canais/telecinepipoca.png" group-title="Canais | Filmes e Series",BR: Telecine Pipoca FHD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72358.ts
+#EXTINF:-1 tvg-name="Telecine Pipoca FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/telecinepipoca.png" group-title="Canais | Filmes e Series",BR: Telecine Pipoca FHD [H265]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72359.ts
+#EXTINF:-1 tvg-name="Telecine Pipoca FHD [LEG]" tvg-logo="https://acstatic.co/logos/canais/telecinepipoca.png" group-title="Canais | Filmes e Series",BR: Telecine Pipoca FHD [LEG]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90659.ts
+#EXTINF:-1 tvg-name="Telecine Pipoca HD" tvg-logo="https://acstatic.co/logos/canais/telecinepipoca.png" group-title="Canais | Filmes e Series",BR: Telecine Pipoca HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72360.ts
+#EXTINF:-1 tvg-name="Telecine Pipoca HD [LEG]" tvg-logo="https://acstatic.co/logos/canais/telecinepipoca.png" group-title="Canais | Filmes e Series",BR: Telecine Pipoca HD [LEG]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90658.ts
+#EXTINF:-1 tvg-name="Telecine Pipoca SD" tvg-logo="https://acstatic.co/logos/canais/telecinepipoca.png" group-title="Canais | Filmes e Series",BR: Telecine Pipoca SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72361.ts
+#EXTINF:-1 tvg-name="Telecine Pipoca SD [LEG]" tvg-logo="https://acstatic.co/logos/canais/telecinepipoca.png" group-title="Canais | Filmes e Series",BR: Telecine Pipoca SD [LEG]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90657.ts
+#EXTINF:-1 tvg-name="Telecine Premium 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/telecinepremium.png" group-title="Canais | Filmes e Series",BR: Telecine Premium 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90237.ts
+#EXTINF:-1 tvg-name="Telecine Premium FHD" tvg-logo="https://acstatic.co/logos/canais/telecinepremium.png" group-title="Canais | Filmes e Series",BR: Telecine Premium FHD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72362.ts
+#EXTINF:-1 tvg-name="Telecine Premium FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/telecinepremium.png" group-title="Canais | Filmes e Series",BR: Telecine Premium FHD [H265]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72363.ts
+#EXTINF:-1 tvg-name="Telecine Premium FHD [LEG]" tvg-logo="https://acstatic.co/logos/canais/telecinepremium.png" group-title="Canais | Filmes e Series",BR: Telecine Premium FHD [LEG]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90656.ts
+#EXTINF:-1 tvg-name="Telecine Premium HD" tvg-logo="https://acstatic.co/logos/canais/telecinepremium.png" group-title="Canais | Filmes e Series",BR: Telecine Premium HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72364.ts
+#EXTINF:-1 tvg-name="Telecine Premium HD [LEG]" tvg-logo="https://acstatic.co/logos/canais/telecinepremium.png" group-title="Canais | Filmes e Series",BR: Telecine Premium HD [LEG]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90655.ts
+#EXTINF:-1 tvg-name="Telecine Premium SD" tvg-logo="https://acstatic.co/logos/canais/telecinepremium.png" group-title="Canais | Filmes e Series",BR: Telecine Premium SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72365.ts
+#EXTINF:-1 tvg-name="Telecine Premium SD [LEG]" tvg-logo="https://acstatic.co/logos/canais/telecinepremium.png" group-title="Canais | Filmes e Series",BR: Telecine Premium SD [LEG]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90654.ts
+#EXTINF:-1 tvg-name="Telecine Touch 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/telecinetouch.png" group-title="Canais | Filmes e Series",BR: Telecine Touch 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/103454.ts
+#EXTINF:-1 tvg-name="Telecine Touch FHD" tvg-logo="https://acstatic.co/logos/canais/telecinetouch.png" group-title="Canais | Filmes e Series",BR: Telecine Touch FHD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72366.ts
+#EXTINF:-1 tvg-name="Telecine Touch FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/telecinetouch.png" group-title="Canais | Filmes e Series",BR: Telecine Touch FHD [H265]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72367.ts
+#EXTINF:-1 tvg-name="Telecine Touch FHD [LEG]" tvg-logo="https://acstatic.co/logos/canais/telecinetouch.png" group-title="Canais | Filmes e Series",BR: Telecine Touch FHD [LEG]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90653.ts
+#EXTINF:-1 tvg-name="Telecine Touch HD" tvg-logo="https://acstatic.co/logos/canais/telecinetouch.png" group-title="Canais | Filmes e Series",BR: Telecine Touch HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72368.ts
+#EXTINF:-1 tvg-name="Telecine Touch HD [LEG]" tvg-logo="https://acstatic.co/logos/canais/telecinetouch.png" group-title="Canais | Filmes e Series",BR: Telecine Touch HD [LEG]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90652.ts
+#EXTINF:-1 tvg-name="Telecine Touch SD" tvg-logo="https://acstatic.co/logos/canais/telecinetouch.png" group-title="Canais | Filmes e Series",BR: Telecine Touch SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72369.ts
+#EXTINF:-1 tvg-name="Telecine Touch SD [LEG]" tvg-logo="https://acstatic.co/logos/canais/telecinetouch.png" group-title="Canais | Filmes e Series",BR: Telecine Touch SD [LEG]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90651.ts
 #EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: TLC HD
 http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659807
 #EXTINF:-1 tvg-id="" tvg-name="BR: TLC HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="Canais | Filmes e Series",BR: TLC HD
@@ -130,26 +240,159 @@ http://supersonictv.live:8080/329474/903964/84949
 http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659791
 #EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: SONY CHANNEL
 http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/659791
+#EXTINF:-1 tvg-name="Canal Sony SD" tvg-logo="http://imagecdn.sh:80/images/117e794f409519d5fd8c54fdf6bf1b37.png" group-title="Canais | Filmes e Séries",[BR] Sony SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71827.ts
 #EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: SPACE HD
 http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/659792
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Fox Premium 1 FHD" tvg-logo="" group-title="Canais | Filmes e Series",[BR] Fox Premium 1 FHD
-http://supersonictv.live:8080/329474/903964/84989
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Fox Premium 2 FHD" tvg-logo="" group-title="Canais | Filmes e Series",[BR] Fox Premium 2 FHD
-http://supersonictv.live:8080/329474/903964/84990
 #EXTINF:-1 tvg-id="" tvg-name="[BR] FOX FHD" tvg-logo="" group-title="Canais | Filmes e Series",[BR] FOX FHD
 http://supersonictv.live:8080/329474/903964/84986
 #EXTINF:-1 tvg-id="" tvg-name="[BR] Fox Life FHD" tvg-logo="" group-title="Canais | Filmes e Series",[BR] Fox Life FHD
 http://supersonictv.live:8080/329474/903964/84987
 #EXTINF:-1 tvg-id="" tvg-name="[BR] FX FHD" tvg-logo="" group-title="Canais | Filmes e Series",[BR] FX FHD
 http://supersonictv.live:8080/329474/903964/84995
-
+#EXTINF:-1 tvg-name="Space HD [LEG]" tvg-logo="https://acstatic.co/logos/canais/space.png" group-title="Canais | Filmes e Series",[BR] Space HD [LEG]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90676.ts
+#EXTINF:-1 tvg-name="Space SD" tvg-logo="https://acstatic.co/logos/canais/space.png" group-title="Canais | Filmes e Series",[BR] Space SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72320.ts
+#EXTINF:-1 tvg-name="[24H] Star Trek Discovery [S01]" tvg-logo="http://24horas.cc:80/images/ae67feb834c60b5404cfc2ef40534706.jpg" group-title="Canais | [24H] Series",[24H] Star Trek Discovery [S01]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/137055.ts
+#EXTINF:-1 tvg-name="[24H] Star Trek Discovery [S02]" tvg-logo="http://24horas.cc:80/images/ae67feb834c60b5404cfc2ef40534706.jpg" group-title="Canais | [24H] Series",[24H] Star Trek Discovery [S02]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/137056.ts
+#EXTINF:-1 tvg-name="[24H] Star Trek Discovery [S03]" tvg-logo="http://24horas.cc:80/images/ae67feb834c60b5404cfc2ef40534706.jpg" group-title="Canais | [24H] Series",[24H] Star Trek Discovery [S03]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/137057.ts
+#EXTINF:-1 tvg-name="[24H] Star Wars A Guerra dos Clones [S01]" tvg-logo="http://24horas.cc:80/images/819d0ad9968d08210e8aa2a21a88bd41.jpg" group-title="Canais | [24H] Outros",[24H] Star Wars A Guerra dos Clones [S01]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/137064.ts
+#EXTINF:-1 tvg-name="[24H] Star Wars A Guerra dos Clones [S02]" tvg-logo="http://24horas.cc:80/images/819d0ad9968d08210e8aa2a21a88bd41.jpg" group-title="Canais | [24H] Outros",[24H] Star Wars A Guerra dos Clones [S02]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/137065.ts
+#EXTINF:-1 tvg-name="[24H] Star Wars A Guerra dos Clones [S03]" tvg-logo="http://24horas.cc:80/images/819d0ad9968d08210e8aa2a21a88bd41.jpg" group-title="Canais | [24H] Outros",[24H] Star Wars A Guerra dos Clones [S03]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/137066.ts
+#EXTINF:-1 tvg-name="[24H] Star Wars A Guerra dos Clones [S04]" tvg-logo="http://24horas.cc:80/images/819d0ad9968d08210e8aa2a21a88bd41.jpg" group-title="Canais | [24H] Outros",[24H] Star Wars A Guerra dos Clones [S04]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/137067.ts
+#EXTINF:-1 tvg-name="[24H] Star Wars A Guerra dos Clones [S05]" tvg-logo="http://24horas.cc:80/images/819d0ad9968d08210e8aa2a21a88bd41.jpg" group-title="Canais | [24H] Outros",[24H] Star Wars A Guerra dos Clones [S05]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/137068.ts
+#EXTINF:-1 tvg-name="[24H] Star Wars A Guerra dos Clones [S06]" tvg-logo="http://24horas.cc:80/images/819d0ad9968d08210e8aa2a21a88bd41.jpg" group-title="Canais | [24H] Outros",[24H] Star Wars A Guerra dos Clones [S06]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/137069.ts
+#EXTINF:-1 tvg-name="[24H] Star Wars A Guerra dos Clones [S07]" tvg-logo="http://24horas.cc:80/images/819d0ad9968d08210e8aa2a21a88bd41.jpg" group-title="Canais | [24H] Outros",[24H] Star Wars A Guerra dos Clones [S07]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/137070.ts
+#EXTINF:-1 tvg-name="[24H] Star Wars Rebels [S01]" tvg-logo="http://24horas.cc:80/images/5f606297563e0123a1c45a3abf6baafe.jpg" group-title="Canais | [24H] Outros",[24H] Star Wars Rebels [S01]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/137072.ts
+#EXTINF:-1 tvg-name="[24H] Star Wars Rebels [S02]" tvg-logo="http://24horas.cc:80/images/5f606297563e0123a1c45a3abf6baafe.jpg" group-title="Canais | [24H] Outros",[24H] Star Wars Rebels [S02]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/137073.ts
+#EXTINF:-1 tvg-name="[24H] Star Wars Rebels [S03]" tvg-logo="http://24horas.cc:80/images/5f606297563e0123a1c45a3abf6baafe.jpg" group-title="Canais | [24H] Outros",[24H] Star Wars Rebels [S03]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/137074.ts
+#EXTINF:-1 tvg-name="[24H] Star Wars Rebels [S04]" tvg-logo="http://24horas.cc:80/images/5f606297563e0123a1c45a3abf6baafe.jpg" group-title="Canais | [24H] Outros",[24H] Star Wars Rebels [S04]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/137075.ts
+#EXTINF:-1 tvg-name="[24H] Star Wars The Bad Batch [S01]" tvg-logo="http://24horas.cc:80/images/46eff89e5460ed2103a0ba46103d451e.jpg" group-title="Canais | [24H] Outros",[24H] Star Wars The Bad Batch [S01]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/137071.ts
+#EXTINF:-1 tvg-name="[24H] Star Wars Visions [S01]" tvg-logo="http://24horas.cc:80/images/a10093759bbca1def49ccec8c6a0f405.jpg" group-title="Canais | [24H] Outros",[24H] Star Wars Visions [S01]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/137076.ts
+#EXTINF:-1 tvg-name="[24H] Supernatural [S01]" tvg-logo="http://24horas.cc:80/images/b092acc65e66b3b6b8db27a7f9b3a5bf.jpg" group-title="Canais | [24H] Series",[24H] Supernatural [S01]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/136726.ts
+#EXTINF:-1 tvg-name="[24H] Supernatural [S01] [L]" tvg-logo="http://24horas.cc:80/images/b092acc65e66b3b6b8db27a7f9b3a5bf.jpg" group-title="Canais | [24H] Series",[24H] Supernatural [S01] [L]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/136741.ts
+#EXTINF:-1 tvg-name="[24H] Supernatural [S02]" tvg-logo="http://24horas.cc:80/images/b092acc65e66b3b6b8db27a7f9b3a5bf.jpg" group-title="Canais | [24H] Series",[24H] Supernatural [S02]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/136727.ts
+#EXTINF:-1 tvg-name="[24H] Supernatural [S02] [L]" tvg-logo="http://24horas.cc:80/images/b092acc65e66b3b6b8db27a7f9b3a5bf.jpg" group-title="Canais | [24H] Series",[24H] Supernatural [S02] [L]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/136742.ts
+#EXTINF:-1 tvg-name="[24H] Supernatural [S03]" tvg-logo="http://24horas.cc:80/images/b092acc65e66b3b6b8db27a7f9b3a5bf.jpg" group-title="Canais | [24H] Series",[24H] Supernatural [S03]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/136728.ts
+#EXTINF:-1 tvg-name="[24H] Supernatural [S03] [L]" tvg-logo="http://24horas.cc:80/images/b092acc65e66b3b6b8db27a7f9b3a5bf.jpg" group-title="Canais | [24H] Series",[24H] Supernatural [S03] [L]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/136743.ts
+#EXTINF:-1 tvg-name="[24H] Supernatural [S04]" tvg-logo="http://24horas.cc:80/images/b092acc65e66b3b6b8db27a7f9b3a5bf.jpg" group-title="Canais | [24H] Series",[24H] Supernatural [S04]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/136729.ts
+#EXTINF:-1 tvg-name="[24H] Supernatural [S04] [L]" tvg-logo="http://24horas.cc:80/images/b092acc65e66b3b6b8db27a7f9b3a5bf.jpg" group-title="Canais | [24H] Series",[24H] Supernatural [S04] [L]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/136744.ts
+#EXTINF:-1 tvg-name="[24H] Supernatural [S05]" tvg-logo="http://24horas.cc:80/images/b092acc65e66b3b6b8db27a7f9b3a5bf.jpg" group-title="Canais | [24H] Series",[24H] Supernatural [S05]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/136730.ts
+#EXTINF:-1 tvg-name="[24H] Supernatural [S05] [L]" tvg-logo="http://24horas.cc:80/images/b092acc65e66b3b6b8db27a7f9b3a5bf.jpg" group-title="Canais | [24H] Series",[24H] Supernatural [S05] [L]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/136745.ts
+#EXTINF:-1 tvg-name="[24H] Supernatural [S06]" tvg-logo="http://24horas.cc:80/images/b092acc65e66b3b6b8db27a7f9b3a5bf.jpg" group-title="Canais | [24H] Series",[24H] Supernatural [S06]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/136731.ts
+#EXTINF:-1 tvg-name="[24H] Supernatural [S06] [L]" tvg-logo="http://24horas.cc:80/images/b092acc65e66b3b6b8db27a7f9b3a5bf.jpg" group-title="Canais | [24H] Series",[24H] Supernatural [S06] [L]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/136746.ts
+#EXTINF:-1 tvg-name="[24H] Supernatural [S07]" tvg-logo="http://24horas.cc:80/images/b092acc65e66b3b6b8db27a7f9b3a5bf.jpg" group-title="Canais | [24H] Series",[24H] Supernatural [S07]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/136732.ts
+#EXTINF:-1 tvg-name="[24H] Supernatural [S07] [L]" tvg-logo="http://24horas.cc:80/images/b092acc65e66b3b6b8db27a7f9b3a5bf.jpg" group-title="Canais | [24H] Series",[24H] Supernatural [S07] [L]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/136747.ts
+#EXTINF:-1 tvg-name="[24H] Supernatural [S08]" tvg-logo="http://24horas.cc:80/images/b092acc65e66b3b6b8db27a7f9b3a5bf.jpg" group-title="Canais | [24H] Series",[24H] Supernatural [S08]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/136733.ts
+#EXTINF:-1 tvg-name="[24H] Supernatural [S08] [L]" tvg-logo="http://24horas.cc:80/images/b092acc65e66b3b6b8db27a7f9b3a5bf.jpg" group-title="Canais | [24H] Series",[24H] Supernatural [S08] [L]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/136748.ts
+#EXTINF:-1 tvg-name="[24H] Supernatural [S09]" tvg-logo="http://24horas.cc:80/images/b092acc65e66b3b6b8db27a7f9b3a5bf.jpg" group-title="Canais | [24H] Series",[24H] Supernatural [S09]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/136734.ts
+#EXTINF:-1 tvg-name="[24H] Supernatural [S09] [L]" tvg-logo="http://24horas.cc:80/images/b092acc65e66b3b6b8db27a7f9b3a5bf.jpg" group-title="Canais | [24H] Series",[24H] Supernatural [S09] [L]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/136749.ts
+#EXTINF:-1 tvg-name="[24H] Supernatural [S10]" tvg-logo="http://24horas.cc:80/images/b092acc65e66b3b6b8db27a7f9b3a5bf.jpg" group-title="Canais | [24H] Series",[24H] Supernatural [S10]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/136735.ts
+#EXTINF:-1 tvg-name="[24H] Supernatural [S10] [L]" tvg-logo="http://24horas.cc:80/images/b092acc65e66b3b6b8db27a7f9b3a5bf.jpg" group-title="Canais | [24H] Series",[24H] Supernatural [S10] [L]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/136750.ts
+#EXTINF:-1 tvg-name="[24H] Supernatural [S11]" tvg-logo="http://24horas.cc:80/images/b092acc65e66b3b6b8db27a7f9b3a5bf.jpg" group-title="Canais | [24H] Series",[24H] Supernatural [S11]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/136736.ts
+#EXTINF:-1 tvg-name="[24H] Supernatural [S11] [L]" tvg-logo="http://24horas.cc:80/images/b092acc65e66b3b6b8db27a7f9b3a5bf.jpg" group-title="Canais | [24H] Series",[24H] Supernatural [S11] [L]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/136751.ts
+#EXTINF:-1 tvg-name="[24H] Supernatural [S12]" tvg-logo="http://24horas.cc:80/images/b092acc65e66b3b6b8db27a7f9b3a5bf.jpg" group-title="Canais | [24H] Series",[24H] Supernatural [S12]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/136737.ts
+#EXTINF:-1 tvg-name="[24H] Supernatural [S12] [L]" tvg-logo="http://24horas.cc:80/images/b092acc65e66b3b6b8db27a7f9b3a5bf.jpg" group-title="Canais | [24H] Series",[24H] Supernatural [S12] [L]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/136752.ts
+#EXTINF:-1 tvg-name="[24H] Supernatural [S13]" tvg-logo="http://24horas.cc:80/images/b092acc65e66b3b6b8db27a7f9b3a5bf.jpg" group-title="Canais | [24H] Series",[24H] Supernatural [S13]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/136738.ts
+#EXTINF:-1 tvg-name="[24H] Supernatural [S13] [L]" tvg-logo="http://24horas.cc:80/images/b092acc65e66b3b6b8db27a7f9b3a5bf.jpg" group-title="Canais | [24H] Series",[24H] Supernatural [S13] [L]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/136753.ts
+#EXTINF:-1 tvg-name="[24H] Supernatural [S14]" tvg-logo="http://24horas.cc:80/images/b092acc65e66b3b6b8db27a7f9b3a5bf.jpg" group-title="Canais | [24H] Series",[24H] Supernatural [S14]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/136739.ts
+#EXTINF:-1 tvg-name="[24H] Supernatural [S14] [L]" tvg-logo="http://24horas.cc:80/images/b092acc65e66b3b6b8db27a7f9b3a5bf.jpg" group-title="Canais | [24H] Series",[24H] Supernatural [S14] [L]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/136754.ts
+#EXTINF:-1 tvg-name="[24H] Supernatural [S15]" tvg-logo="http://24horas.cc:80/images/b092acc65e66b3b6b8db27a7f9b3a5bf.jpg" group-title="Canais | [24H] Series",[24H] Supernatural [S15]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/136740.ts
+#EXTINF:-1 tvg-name="[24H] Supernatural [S15] [L]" tvg-logo="http://24horas.cc:80/images/b092acc65e66b3b6b8db27a7f9b3a5bf.jpg" group-title="Canais | [24H] Series",[24H] Supernatural [S15] [L]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/136755.ts
+#EXTINF:-1 tvg-name="[24H] The Big Bang Theory [S01]" tvg-logo="http://24horas.cc:80/images/c0171aeb6aef301892834b590d8a5025.jpg" group-title="Canais | [24H] Series",[24H] The Big Bang Theory [S01]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135456.ts
+#EXTINF:-1 tvg-name="[24H] The Big Bang Theory [S02]" tvg-logo="http://24horas.cc:80/images/c0171aeb6aef301892834b590d8a5025.jpg" group-title="Canais | [24H] Series",[24H] The Big Bang Theory [S02]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135457.ts
+#EXTINF:-1 tvg-name="[24H] The Big Bang Theory [S03]" tvg-logo="http://24horas.cc:80/images/c0171aeb6aef301892834b590d8a5025.jpg" group-title="Canais | [24H] Series",[24H] The Big Bang Theory [S03]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135458.ts
+#EXTINF:-1 tvg-name="[24H] The Big Bang Theory [S04]" tvg-logo="http://24horas.cc:80/images/c0171aeb6aef301892834b590d8a5025.jpg" group-title="Canais | [24H] Series",[24H] The Big Bang Theory [S04]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135459.ts
+#EXTINF:-1 tvg-name="[24H] The Big Bang Theory [S05]" tvg-logo="http://24horas.cc:80/images/c0171aeb6aef301892834b590d8a5025.jpg" group-title="Canais | [24H] Series",[24H] The Big Bang Theory [S05]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135460.ts
+#EXTINF:-1 tvg-name="[24H] The Big Bang Theory [S06]" tvg-logo="http://24horas.cc:80/images/c0171aeb6aef301892834b590d8a5025.jpg" group-title="Canais | [24H] Series",[24H] The Big Bang Theory [S06]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135461.ts
+#EXTINF:-1 tvg-name="[24H] The Big Bang Theory [S07]" tvg-logo="http://24horas.cc:80/images/c0171aeb6aef301892834b590d8a5025.jpg" group-title="Canais | [24H] Series",[24H] The Big Bang Theory [S07]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135462.ts
+#EXTINF:-1 tvg-name="[24H] The Big Bang Theory [S08]" tvg-logo="http://24horas.cc:80/images/c0171aeb6aef301892834b590d8a5025.jpg" group-title="Canais | [24H] Series",[24H] The Big Bang Theory [S08]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135463.ts
+#EXTINF:-1 tvg-name="[24H] The Big Bang Theory [S09]" tvg-logo="http://24horas.cc:80/images/c0171aeb6aef301892834b590d8a5025.jpg" group-title="Canais | [24H] Series",[24H] The Big Bang Theory [S09]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135464.ts
+#EXTINF:-1 tvg-name="[24H] The Big Bang Theory [S10]" tvg-logo="http://24horas.cc:80/images/c0171aeb6aef301892834b590d8a5025.jpg" group-title="Canais | [24H] Series",[24H] The Big Bang Theory [S10]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135465.ts
+#EXTINF:-1 tvg-name="[24H] The Big Bang Theory [S11]" tvg-logo="http://24horas.cc:80/images/c0171aeb6aef301892834b590d8a5025.jpg" group-title="Canais | [24H] Series",[24H] The Big Bang Theory [S11]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135466.ts
+#EXTINF:-1 tvg-name="[24H] The Big Bang Theory [S12]" tvg-logo="http://24horas.cc:80/images/c0171aeb6aef301892834b590d8a5025.jpg" group-title="Canais | [24H] Series",[24H] The Big Bang Theory [S12]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135467.ts
+#EXTINF:-1 tvg-name="[24H] The O.C. Um Estranho no Paraiso [S01]" tvg-logo="http://24horas.cc:80/images/75cb845c40dff806ca1f2a34f8489891.jpg" group-title="Canais | [24H] Series",[24H] The O.C. Um Estranho no Paraiso [S01]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/137087.ts
+#EXTINF:-1 tvg-name="[24H] The O.C. Um Estranho no Paraiso [S02]" tvg-logo="http://24horas.cc:80/images/75cb845c40dff806ca1f2a34f8489891.jpg" group-title="Canais | [24H] Series",[24H] The O.C. Um Estranho no Paraiso [S02]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/137088.ts
+#EXTINF:-1 tvg-name="[24H] The O.C. Um Estranho no Paraiso [S03]" tvg-logo="http://24horas.cc:80/images/75cb845c40dff806ca1f2a34f8489891.jpg" group-title="Canais | [24H] Series",[24H] The O.C. Um Estranho no Paraiso [S03]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/137089.ts
+#EXTINF:-1 tvg-name="[24H] The O.C. Um Estranho no Paraiso [S04]" tvg-logo="http://24horas.cc:80/images/75cb845c40dff806ca1f2a34f8489891.jpg" group-title="Canais | [24H] Series",[24H] The O.C. Um Estranho no Paraiso [S04]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/137090.ts
+#EXTINF:-1 tvg-name="[24H] Todo Mundo Odeia o Chris [S01]" tvg-logo="http://24horas.cc:80/images/f2ef4ead91aa3054bb879a3a0814bbc8.jpg" group-title="Canais | [24H] Series",[24H] Todo Mundo Odeia o Chris [S01]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135469.ts
+#EXTINF:-1 tvg-name="[24H] Todo Mundo Odeia o Chris [S02]" tvg-logo="http://24horas.cc:80/images/f2ef4ead91aa3054bb879a3a0814bbc8.jpg" group-title="Canais | [24H] Series",[24H] Todo Mundo Odeia o Chris [S02]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135470.ts
+#EXTINF:-1 tvg-name="[24H] Todo Mundo Odeia o Chris [S03]" tvg-logo="http://24horas.cc:80/images/f2ef4ead91aa3054bb879a3a0814bbc8.jpg" group-title="Canais | [24H] Series",[24H] Todo Mundo Odeia o Chris [S03]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135471.ts
+#EXTINF:-1 tvg-name="[24H] Todo Mundo Odeia o Chris [S04]" tvg-logo="http://24horas.cc:80/images/f2ef4ead91aa3054bb879a3a0814bbc8.jpg" group-title="Canais | [24H] Series",[24H] Todo Mundo Odeia o Chris [S04]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135472.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="[BR] Animal Planet FHD" tvg-logo="" group-title="BRAZIL",[BR] Animal Planet FHD
 http://supersonictv.live:8080/329474/903964/84936
 #EXTINF:-1 tvg-id="" tvg-name="BR: ANIMAL PLANET HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: ANIMAL PLANET HD
 http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659678
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: ANIMAL PLANET HD
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659678
+#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: ANIMAL PLANET SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71776.ts
 #EXTINF:-1 tvg-id="" tvg-name="Smithsonian Channel HD" tvg-logo="http://urlcurta.ml/c2BIn" group-title="BRAZIL",[BR] Smithsonian Channel HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6298bd10d88ef000073f16b7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="" tvg-name="MasterChef PlutoTV" group-title="BRAZIL",[BR] MasterChef PlutoTV
@@ -184,27 +427,224 @@ http://supersonictv.live:8080/329474/903964/84971
 http://supersonictv.live:8080/329474/903964/84972
 #EXTINF:-1 tvg-id="" tvg-name="[BR] NatGeO" tvg-logo="" group-title="BRAZIL",[BR] NatGeO
 http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659761
-
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="https://i.imgur.com/Jx7AFvA.png" group-title="BRAZIL",[BR] NATIONAL GEOGRAPHIC HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191361.ts
+#EXTINF:-1 tvg-name="National Geographic SD" tvg-logo="http://imagecdn.sh:80/images/9a5e6af569e7b3600bad7c9dcf77a721.png" group-title="BRAZIL",[BR] National Geographic FD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72200.ts
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC SD" tvg-logo="https://i.imgur.com/Jx7AFvA.png" group-title="BRAZIL",[BR] NATIONAL GEOGRAPHIC SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191360.ts
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC WILD FHD" tvg-logo="https://i.imgur.com/emG4pHK.png" group-title="BRAZIL",[BR] NATIONAL GEOGRAPHIC WILD FHD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191359.ts
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC WILD HD" tvg-logo="https://i.imgur.com/emG4pHK.png" group-title="BRAZIL",[BR] NATIONAL GEOGRAPHIC WILD HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191358.ts
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC WILD SD" tvg-logo="https://i.imgur.com/emG4pHK.png" group-title="BRAZIL",[BR] NATIONAL GEOGRAPHIC WILD SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191357.ts
 
 
 #EXTINF:-1 tvg-id="" tvg-name="BR: CARTOON HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="DESENHOS",BR: CARTOON HD
 http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659693
 #EXTINF:-1 tvg-id="" tvg-name="[BR] Cartoon Network FHD" tvg-logo="" group-title="DESENHOS",BR: Cartoon Network FHD
 http://supersonictv.live:8080/329474/903964/84946
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Cartoon Network SD" tvg-logo="" group-title="DESENHOS",BR: Cartoon Network SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191392.ts
 #EXTINF:-1 tvg-id="" tvg-name="BR: CARTOONITO" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="DESENHOS",BR: CARTOONITO
 http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659694
+#EXTINF:-1 tvg-id="" tvg-name="BR: CARTOONITO SD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="DESENHOS",BR: CARTOONITO SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71815.ts
 #EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY KIDS HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="DESENHOS",BR: DISCOVERY KIDS HD
 http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659709
 #EXTINF:-1 tvg-id="" tvg-name="[BR] Discovery Kids FHD" tvg-logo="" group-title="DESENHOS",BR: Discovery Kids FHD
 http://supersonictv.live:8080/329474/903964/84969
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png", group-title="DESENHOS",BR: NICK JR
 http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/659762
-#EXTINF:-1 tvg-id="" tvg-name="BR: NICKELODEON HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="DESENHOS",BR: NICKELODEON HD
+#EXTINF:-1 tvg-name="Nick Jr HD" tvg-logo="https://acstatic.co/logos/canais/nickjr.png" group-title="DESENHOS",BR: Nick Jr HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72203.ts
+#EXTINF:-1 tvg-name="Nick Jr SD" tvg-logo="https://acstatic.co/logos/canais/nickjr.png" group-title="DESENHOS",BR: Nick Jr SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72204.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: NICKELODEON FD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="DESENHOS",BR: NICKELODEON HD
 http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659763
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="DESENHOS",BR: NICKELODEON HD
 http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/659763
+#EXTINF:-1 tvg-name="Nickelodeon FHD [H265]" tvg-logo="http://static.clubsrv.me/logos/canais/nick.png" group-title="DESENHOS",[BR] Nickelodeon FHD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72206.ts
 #EXTINF:-1 tvg-id="" tvg-name="[BR] Disney JR FHD" tvg-logo="" group-title="DESENHOS",[BR] Disney JR FHD
 http://supersonictv.live:8080/329474/903964/84975
+#EXTINF:-1 tvg-name="[24h] 101 Dalmatas" tvg-logo="http://24horas.cc:80/images/9c6a2f33abeeef86c653c2cfb53e30b3.jpg" group-title="Canais | [24H] Desenhos",[24h] 101 Dalmatas
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/137614.ts
+#EXTINF:-1 tvg-name="[24H] 3 Palavrinhas" tvg-logo="http://24horas.cc:80/images/6ffade7e04c100216dd44af113cd1740.jpg" group-title="Canais | [24H] Desenhos",[24H] 3 Palavrinhas
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/138711.ts
+#EXTINF:-1 tvg-name="[24H] 44 Gatos" tvg-logo="http://24horas.cc:80/images/b8bd681531128f4045756649267bb0fd.jpg" group-title="Canais | [24H] Desenhos",[24H] 44 Gatos
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/137410.ts
+#EXTINF:-1 tvg-name="[24H] A Beleza Secreta dos Animais" tvg-logo="http://24horas.cc:80/images/841daa83c5587e962d6922d8d873a7e3.jpg" group-title="Canais | [24H] Series",[24H] A Beleza Secreta dos Animais
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/138011.ts
+#EXTINF:-1 tvg-name="[24H] A Bruxinha Sabrina" tvg-logo="http://24horas.cc:80/images/d2fbaba85cf896e0ae2fa0a23380fa25.jpg" group-title="Canais | [24H] Desenhos",[24H] A Bruxinha Sabrina
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/138935.ts
+#EXTINF:-1 tvg-name="[24H] A Casa da Coruja" tvg-logo="http://imagecdn.sh:80/images/28cda78d0e5f72916a5e5dd8431a9499.jpg" group-title="Canais | [24H] Desenhos",[24H] A Casa da Coruja
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/137411.ts
+#EXTINF:-1 tvg-name="[24H] A Casa da Coruja" tvg-logo="http://imagecdn.sh:80/images/28cda78d0e5f72916a5e5dd8431a9499.jpg" group-title="Canais | [24H] Desenhos",[24H] A Casa da Coruja
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/151948.ts
+#EXTINF:-1 tvg-name="[24H] A Casa do Mickey Mouse" tvg-logo="http://24horas.cc:80/images/58ca41a6eb561bbe5d5f6c94150a736a.jpg" group-title="Canais | [24H] Desenhos",[24H] A Casa do Mickey Mouse
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/137412.ts
+#EXTINF:-1 tvg-name="[24H] A Casa Magica da Gabby" tvg-logo="http://24horas.cc:80/images/a92b8be8e85a8138e62c55b7b7b3be1b.jpg" group-title="Canais | [24H] Desenhos",[24H] A Casa Magica da Gabby
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/137137.ts
+#EXTINF:-1 tvg-name="[24H] A Cegonha da Perna Fina" tvg-logo="http://24horas.cc:80/images/d5659a9f8c9d035f846112351933e474.jpg" group-title="Canais | [24H] Desenhos",[24H] A Cegonha da Perna Fina
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/138936.ts
+#EXTINF:-1 tvg-name="[24H] A Familia Addams" tvg-logo="http://24horas.cc:80/images/ae9207c30633d7237a1d493554fda351.jpg" group-title="Canais | [24H] Desenhos",[24H] A Familia Addams
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/138937.ts
+#EXTINF:-1 tvg-name="[24H] A Formiga e O Tamandua" tvg-logo="http://24horas.cc:80/images/2cf6b3017a5c0765556f6bda139fda89.jpg" group-title="Canais | [24H] Desenhos",[24H] A Formiga e O Tamandua
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135535.ts
+#EXTINF:-1 tvg-name="[24H] Os Padrinhos Magicos" tvg-logo="http://24horas.cc:80/images/0e8515b81340f328f4fb962042f41c17.jpg" group-title="Canais | [24H] Desenhos",[24H] Os Padrinhos Magicos
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135546.ts
+#EXTINF:-1 tvg-name="[24H] O Marinheiro Popeye [S01]" tvg-logo="http://24horas.cc:80/images/292cb3546f2e5f3d19d8409aced392e0.jpg" group-title="Canais | [24H] Desenhos",[24H] O Marinheiro Popeye [S01]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/145943.ts
+#EXTINF:-1 tvg-name="[24H] O Marinheiro Popeye [S02]" tvg-logo="http://24horas.cc:80/images/292cb3546f2e5f3d19d8409aced392e0.jpg" group-title="Canais | [24H] Desenhos",[24H] O Marinheiro Popeye [S02]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/145944.ts
+#EXTINF:-1 tvg-name="[24H] O Marinheiro Popeye [S03]" tvg-logo="http://24horas.cc:80/images/292cb3546f2e5f3d19d8409aced392e0.jpg" group-title="Canais | [24H] Desenhos",[24H] O Marinheiro Popeye [S03]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/145945.ts
+#EXTINF:-1 tvg-name="[24H] O Marinheiro Popeye [S04]" tvg-logo="http://24horas.cc:80/images/292cb3546f2e5f3d19d8409aced392e0.jpg" group-title="Canais | [24H] Desenhos",[24H] O Marinheiro Popeye [S04]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/145946.ts
+#EXTINF:-1 tvg-name="[24H] O Maskara" tvg-logo="http://24horas.cc:80/images/82216aa32f85f763bb831e8c05e6c37c.jpg" group-title="Canais | [24H] Desenhos",[24H] O Maskara
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/145380.ts
+#EXTINF:-1 tvg-name="[24H] Os Simpsons [S01]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Series",[24H] Os Simpsons [S01]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135601.ts
+#EXTINF:-1 tvg-name="[24H] Os Simpsons [S02]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Series",[24H] Os Simpsons [S02]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135600.ts
+#EXTINF:-1 tvg-name="[24H] Os Simpsons [S03]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Series",[24H] Os Simpsons [S03]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135599.ts
+#EXTINF:-1 tvg-name="[24H] Os Simpsons [S04]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Series",[24H] Os Simpsons [S04]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135598.ts
+#EXTINF:-1 tvg-name="[24H] Os Simpsons [S05]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Series",[24H] Os Simpsons [S05]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135597.ts
+#EXTINF:-1 tvg-name="[24H] Os Simpsons [S06]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Series",[24H] Os Simpsons [S06]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135596.ts
+#EXTINF:-1 tvg-name="[24H] Os Simpsons [S07]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Series",[24H] Os Simpsons [S07]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135595.ts
+#EXTINF:-1 tvg-name="[24H] Os Simpsons [S08]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Series",[24H] Os Simpsons [S08]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135594.ts
+#EXTINF:-1 tvg-name="[24H] Os Simpsons [S09]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Series",[24H] Os Simpsons [S09]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135593.ts
+#EXTINF:-1 tvg-name="[24H] Os Simpsons [S10]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Series",[24H] Os Simpsons [S10]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135592.ts
+#EXTINF:-1 tvg-name="[24H] Os Simpsons [S11]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Series",[24H] Os Simpsons [S11]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135591.ts
+#EXTINF:-1 tvg-name="[24H] Os Simpsons [S12]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Series",[24H] Os Simpsons [S12]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135590.ts
+#EXTINF:-1 tvg-name="[24H] Os Simpsons [S13]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Series",[24H] Os Simpsons [S13]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135589.ts
+#EXTINF:-1 tvg-name="[24H] Os Simpsons [S14]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Series",[24H] Os Simpsons [S14]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135588.ts
+#EXTINF:-1 tvg-name="[24H] Os Simpsons [S15]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Series",[24H] Os Simpsons [S15]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135587.ts
+#EXTINF:-1 tvg-name="[24H] Os Simpsons [S16]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Series",[24H] Os Simpsons [S16]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135586.ts
+#EXTINF:-1 tvg-name="[24H] Os Simpsons [S17]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Series",[24H] Os Simpsons [S17]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135585.ts
+#EXTINF:-1 tvg-name="[24H] Os Simpsons [S18]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Series",[24H] Os Simpsons [S18]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135584.ts
+#EXTINF:-1 tvg-name="[24H] Os Simpsons [S19]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Series",[24H] Os Simpsons [S19]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135583.ts
+#EXTINF:-1 tvg-name="[24H] Os Simpsons [S20]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Series",[24H] Os Simpsons [S20]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135582.ts
+#EXTINF:-1 tvg-name="[24H] Os Simpsons [S21]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Series",[24H] Os Simpsons [S21]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135581.ts
+#EXTINF:-1 tvg-name="[24H] Os Simpsons [S22]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Series",[24H] Os Simpsons [S22]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135580.ts
+#EXTINF:-1 tvg-name="[24H] Os Simpsons [S23]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Series",[24H] Os Simpsons [S23]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135579.ts
+#EXTINF:-1 tvg-name="[24H] Os Simpsons [S24]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Series",[24H] Os Simpsons [S24]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135578.ts
+#EXTINF:-1 tvg-name="[24H] Os Simpsons [S25]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Series",[24H] Os Simpsons [S25]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135577.ts
+#EXTINF:-1 tvg-name="[24H] Os Simpsons [S26]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Series",[24H] Os Simpsons [S26]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135576.ts
+#EXTINF:-1 tvg-name="[24H] Os Simpsons [S27]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Series",[24H] Os Simpsons [S27]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135575.ts
+#EXTINF:-1 tvg-name="[24H] Os Simpsons [S28]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Series",[24H] Os Simpsons [S28]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135574.ts
+#EXTINF:-1 tvg-name="[24H] Os Simpsons [S29]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Series",[24H] Os Simpsons [S29]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135573.ts
+#EXTINF:-1 tvg-name="[24H] Os Simpsons [S30]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Series",[24H] Os Simpsons [S30]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135572.ts
+#EXTINF:-1 tvg-name="[24H] Os Simpsons [S31]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Series",[24H] Os Simpsons [S31]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135571.ts
+#EXTINF:-1 tvg-name="[24H] Os Simpsons [S32]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Series",[24H] Os Simpsons [S32]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135570.ts
+#EXTINF:-1 tvg-name="[24H] Pokemon [S01]" tvg-logo="http://24horas.cc:80/images/f71cde6285b43fb9846df83a3a9f06a4.jpg" group-title="Canais | [24H] Desenhos",[24H] Pokemon [S01]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/138791.ts
+#EXTINF:-1 tvg-name="[24H] Pokemon [S02]" tvg-logo="http://24horas.cc:80/images/f71cde6285b43fb9846df83a3a9f06a4.jpg" group-title="Canais | [24H] Desenhos",[24H] Pokemon [S02]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/138792.ts
+#EXTINF:-1 tvg-name="[24H] Pokemon [S03]" tvg-logo="http://24horas.cc:80/images/f71cde6285b43fb9846df83a3a9f06a4.jpg" group-title="Canais | [24H] Desenhos",[24H] Pokemon [S03]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/138793.ts
+#EXTINF:-1 tvg-name="[24H] Pokemon [S04]" tvg-logo="http://24horas.cc:80/images/f71cde6285b43fb9846df83a3a9f06a4.jpg" group-title="Canais | [24H] Desenhos",[24H] Pokemon [S04]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/138794.ts
+#EXTINF:-1 tvg-name="[24H] Pokemon [S05]" tvg-logo="http://24horas.cc:80/images/f71cde6285b43fb9846df83a3a9f06a4.jpg" group-title="Canais | [24H] Desenhos",[24H] Pokemon [S05]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/138795.ts
+#EXTINF:-1 tvg-name="[24H] Pokemon [S06]" tvg-logo="http://24horas.cc:80/images/f71cde6285b43fb9846df83a3a9f06a4.jpg" group-title="Canais | [24H] Desenhos",[24H] Pokemon [S06]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/138796.ts
+#EXTINF:-1 tvg-name="[24H] Pokemon [S07]" tvg-logo="http://24horas.cc:80/images/f71cde6285b43fb9846df83a3a9f06a4.jpg" group-title="Canais | [24H] Desenhos",[24H] Pokemon [S07]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/138797.ts
+#EXTINF:-1 tvg-name="[24H] Pokemon [S08]" tvg-logo="http://24horas.cc:80/images/f71cde6285b43fb9846df83a3a9f06a4.jpg" group-title="Canais | [24H] Desenhos",[24H] Pokemon [S08]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/138798.ts
+#EXTINF:-1 tvg-name="[24H] Pokemon [S09]" tvg-logo="http://24horas.cc:80/images/f71cde6285b43fb9846df83a3a9f06a4.jpg" group-title="Canais | [24H] Desenhos",[24H] Pokemon [S09]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/138799.ts
+#EXTINF:-1 tvg-name="[24H] Pokemon [S10]" tvg-logo="http://24horas.cc:80/images/f71cde6285b43fb9846df83a3a9f06a4.jpg" group-title="Canais | [24H] Desenhos",[24H] Pokemon [S10]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/138800.ts
+#EXTINF:-1 tvg-name="[24H] Pokemon [S11]" tvg-logo="http://24horas.cc:80/images/f71cde6285b43fb9846df83a3a9f06a4.jpg" group-title="Canais | [24H] Desenhos",[24H] Pokemon [S11]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/138801.ts
+#EXTINF:-1 tvg-name="[24H] Pokemon [S12]" tvg-logo="http://24horas.cc:80/images/f71cde6285b43fb9846df83a3a9f06a4.jpg" group-title="Canais | [24H] Desenhos",[24H] Pokemon [S12]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/138802.ts
+#EXTINF:-1 tvg-name="[24H] Pokemon [S13]" tvg-logo="http://24horas.cc:80/images/f71cde6285b43fb9846df83a3a9f06a4.jpg" group-title="Canais | [24H] Desenhos",[24H] Pokemon [S13]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/138803.ts
+#EXTINF:-1 tvg-name="[24H] Pokemon [S14]" tvg-logo="http://24horas.cc:80/images/f71cde6285b43fb9846df83a3a9f06a4.jpg" group-title="Canais | [24H] Desenhos",[24H] Pokemon [S14]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/138804.ts
+#EXTINF:-1 tvg-name="[24H] Pokemon [S15]" tvg-logo="http://24horas.cc:80/images/f71cde6285b43fb9846df83a3a9f06a4.jpg" group-title="Canais | [24H] Desenhos",[24H] Pokemon [S15]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/138805.ts
+#EXTINF:-1 tvg-name="[24H] Pokemon [S16]" tvg-logo="http://24horas.cc:80/images/f71cde6285b43fb9846df83a3a9f06a4.jpg" group-title="Canais | [24H] Desenhos",[24H] Pokemon [S16]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/138806.ts
+#EXTINF:-1 tvg-name="[24H] Pokemon [S17]" tvg-logo="http://24horas.cc:80/images/f71cde6285b43fb9846df83a3a9f06a4.jpg" group-title="Canais | [24H] Desenhos",[24H] Pokemon [S17]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/138807.ts
+#EXTINF:-1 tvg-name="[24H] Pokemon [S18]" tvg-logo="http://24horas.cc:80/images/f71cde6285b43fb9846df83a3a9f06a4.jpg" group-title="Canais | [24H] Desenhos",[24H] Pokemon [S18]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/138808.ts
+#EXTINF:-1 tvg-name="[24H] Pokemon [S19]" tvg-logo="http://24horas.cc:80/images/f71cde6285b43fb9846df83a3a9f06a4.jpg" group-title="Canais | [24H] Desenhos",[24H] Pokemon [S19]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/138809.ts
+#EXTINF:-1 tvg-name="[24H] Pokemon [S20]" tvg-logo="http://24horas.cc:80/images/f71cde6285b43fb9846df83a3a9f06a4.jpg" group-title="Canais | [24H] Desenhos",[24H] Pokemon [S20]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/138810.ts
+#EXTINF:-1 tvg-name="[24H] Pokemon [S21]" tvg-logo="http://24horas.cc:80/images/f71cde6285b43fb9846df83a3a9f06a4.jpg" group-title="Canais | [24H] Desenhos",[24H] Pokemon [S21]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/138811.ts
+#EXTINF:-1 tvg-name="[24H] Os Smurfs" tvg-logo="http://24horas.cc:80/images/3268421e5f7a6d716d9b29f0a688edd4.jpg" group-title="Canais | [24H] Desenhos",[24H] Os Smurfs
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/136817.ts
+#EXTINF:-1 tvg-name="[24H] Os Incriveis Espioes" tvg-logo="http://24horas.cc:80/images/42328002e26a63d990d79b254a20cc92.jpg" group-title="Canais | [24H] Desenhos",[24H] Os Incriveis Espioes
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/140744.ts
+#EXTINF:-1 tvg-name="[24H] Os Jetsons" tvg-logo="http://24horas.cc:80/images/7fb3281f1452aeeec851ae03a1272be9.jpg" group-title="Canais | [24H] Desenhos",[24H] Os Jetsons
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/137165.ts
+#EXTINF:-1 tvg-name="[24H] Os Cavaleiros do Zodíaco Saint Seiya" tvg-logo="http://24horas.cc:80/images/17e9742e7addedb1da426ab7bc5b23a0.jpg" group-title="Canais | [24H] Desenhos",[24H] Os Cavaleiros do Zodíaco Saint Seiya
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/137136.ts
+#EXTINF:-1 tvg-name="[24H] Os Cavaleiros do Zodiaco - Saga do Santuario [S01]" tvg-logo="http://24horas.cc:80/images/1797eb7ec2af74c46155f01bee90071a.jpg" group-title="Canais | [24H] Desenhos",[24H] Os Cavaleiros do Zodiaco - Saga do Santuario [S01]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/137130.ts
+#EXTINF:-1 tvg-name="[24H] Os Cavaleiros do Zodiaco - Saga de Asgard [S02]" tvg-logo="http://24horas.cc:80/images/1797eb7ec2af74c46155f01bee90071a.jpg" group-title="Canais | [24H] Desenhos",[24H] Os Cavaleiros do Zodiaco - Saga de Asgard [S02]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/137131.ts
+#EXTINF:-1 tvg-name="[24H] Os Cavaleiros do Zodiaco - Saga de Poseidon [S03]" tvg-logo="http://24horas.cc:80/images/1797eb7ec2af74c46155f01bee90071a.jpg" group-title="Canais | [24H] Desenhos",[24H] Os Cavaleiros do Zodiaco - Saga de Poseidon [S03]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/137132.ts
+#EXTINF:-1 tvg-name="[24H] Os Cavaleiros do Zodiaco - Saga de Hades [S04]" tvg-logo="http://24horas.cc:80/images/1797eb7ec2af74c46155f01bee90071a.jpg" group-title="Canais | [24H] Desenhos",[24H] Os Cavaleiros do Zodiaco - Saga de Hades [S04]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/137133.ts
+#EXTINF:-1 tvg-name="[24H] Os Cavaleiros do Zodiaco - The Lost Canvas" tvg-logo="http://24horas.cc:80/images/9f1aee7c3e06dbe29b0739b5593a57b8.jpg" group-title="Canais | [24H] Desenhos",[24H] Os Cavaleiros do Zodiaco - The Lost Canvas
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/137134.ts
+#EXTINF:-1 tvg-name="[24H] Os Cavaleiros do Zodiaco - Alma de Ouro" tvg-logo="http://24horas.cc:80/images/9f1aee7c3e06dbe29b0739b5593a57b8.jpg" group-title="Canais | [24H] Desenhos",[24H] Os Cavaleiros do Zodiaco - Alma de Ouro
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/137135.ts
+#EXTINF:-1 tvg-name="[24H] Os Cavaleiros do Zodiaco - Omega" tvg-logo="http://24horas.cc:80/images/d2191aad1b6d986467dbea8c523902f6.jpg" group-title="Canais | [24H] Desenhos",[24H] Os Cavaleiros do Zodiaco - Omega
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/138954.ts
+#EXTINF:-1 tvg-name="[24H] Yu-Gi-Oh - Duel Monsters [S01]" tvg-logo="http://24horas.cc:80/images/2697605ab03a5a6901e41709858ea641.jpg" group-title="Canais | [24H] Desenhos",[24H] Yu-Gi-Oh - Duel Monsters [S01]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/138012.ts
+#EXTINF:-1 tvg-name="[24H] Yu-Gi-Oh - Duel Monsters [S02]" tvg-logo="http://24horas.cc:80/images/2697605ab03a5a6901e41709858ea641.jpg" group-title="Canais | [24H] Desenhos",[24H] Yu-Gi-Oh - Duel Monsters [S02]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/138013.ts
+#EXTINF:-1 tvg-name="[24H] Yu-Gi-Oh - Duel Monsters [S03]" tvg-logo="http://24horas.cc:80/images/2697605ab03a5a6901e41709858ea641.jpg" group-title="Canais | [24H] Desenhos",[24H] Yu-Gi-Oh - Duel Monsters [S03]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/138014.ts
+#EXTINF:-1 tvg-name="[24H] Yu-Gi-Oh - Duel Monsters [S04]" tvg-logo="http://24horas.cc:80/images/2697605ab03a5a6901e41709858ea641.jpg" group-title="Canais | [24H] Desenhos",[24H] Yu-Gi-Oh - Duel Monsters [S04]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/138015.ts
+#EXTINF:-1 tvg-name="[24H] Yu-Gi-Oh - Duel Monsters [S05]" tvg-logo="http://24horas.cc:80/images/2697605ab03a5a6901e41709858ea641.jpg" group-title="Canais | [24H] Desenhos",[24H] Yu-Gi-Oh - Duel Monsters [S05]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/138016.ts
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="BR: COMBATE HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="ESPORTES",BR: COMBATE HD
 http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659702
@@ -212,6 +652,10 @@ http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659702
 http://supersonictv.live:8080/329474/903964/84953
 #EXTINF:-1 tvg-id="" tvg-name="COMBATE SD" tvg-logo="http://i.imgur.com/5qo1Dyc.png" group-title="ESPORTES",[BR] COMBATE SD
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/1
+#EXTINF:-1 tvg-name="Premiere Clubes HD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="ESPORTES",BR: Premiere Clubes HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72265.ts
+#EXTINF:-1 tvg-name="Premiere Clubes SD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="ESPORTES",BR: Premiere Clubes SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72266.ts
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES SD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="ESPORTES",BR: PREMIERE CLUBES SD 
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/9
 #EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE CLUBES HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="ESPORTES",BR: PREMIERE CLUBES HD
@@ -222,14 +666,30 @@ http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/659776
 http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659777
 #EXTINF:-1 group-title="ESPORTES" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: PREMIERE2 HD
 http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/659777
+#EXTINF:-1 tvg-name="Premiere 2 HD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="ESPORTES",Premiere 2 HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72239.ts
+#EXTINF:-1 tvg-name="Premiere 2 SD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="ESPORTES",Premiere 2 SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72240.ts
 #EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE3 HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="ESPORTES",BR: PREMIERE3 HD
 http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659778
 #EXTINF:-1 group-title="ESPORTES" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: PREMIERE3 HD
 http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/659778
+#EXTINF:-1 tvg-name="Premiere 3 HD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="ESPORTES",Premiere 3 HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72243.ts
+#EXTINF:-1 tvg-name="Premiere 3 SD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="ESPORTES",Premiere 3 SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72244.ts
 #EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE4 HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="ESPORTES",BR: PREMIERE4 HD
 http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659779
 #EXTINF:-1 group-title="ESPORTES" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: PREMIERE4 HD
 http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/659779
+#EXTINF:-1 tvg-name="Premiere 4 HD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="ESPORTES",Premiere 4 HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72247.ts
+#EXTINF:-1 tvg-name="Premiere 4 SD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="ESPORTES",Premiere 4 SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72248.ts
+#EXTINF:-1 tvg-name="Premiere 8 HD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="ESPORTES",Premiere 8 HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/180159.ts
+#EXTINF:-1 tvg-name="Premiere 8 SD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="ESPORTES",Premiere 8 SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/180160.ts
 #EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="ESPORTESL",BR: SPORTV
 http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659793
 #EXTINF:-1 group-title="ESPORTES" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: SPORTV
