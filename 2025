@@ -1,13 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="BR: WARNER CHANNEL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="Canais | Filmes e Series" ,WARNER CHANNEL SD
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659821
 EXTINF:-1 tvg-id="Warner Channel HD" tvg-name="Warner Channel" tvg-logo="http://i.imgur.com/xvZ66AU.png" group-title="Canais | Filmes e Series",Warner Channel
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/783
 #EXTINF:-1 tvg-id="" tvg-name="[BR] Warner Channel DUAL HD" tvg-logo="" group-title="Canais | Filmes e Series" , Warner Channel DUAL HD
 http://supersonictv.live:8080/329474/903964/85356
-#EXTINF:-1 group-title="Canais | Filmes e Series" ,Warner ," tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: WARNER CHANNEL
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659821
 #EXTINF:-1 tvg-name="Megapix FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/megapix.png" group-title="Canais | Filmes e Séries",Megapix FHD [H265]
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72167.ts
 #EXTINF:-1 tvg-name="Megapix FHD [LEG]" tvg-logo="https://acstatic.co/logos/canais/megapix.png" group-title="Canais | Filmes e Séries",Megapix FHD [LEG]
@@ -26,88 +22,26 @@ http://supersonictv.live:8080/329474/903964/84935
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71763.ts
 #EXTINF:-1 group-title= "Canais | Filmes e Series" A&E, tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: A&E
 http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/659674
-#EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: A&E
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659674
-#EXTINF:-1 tvg-id="" tvg-name="BR: A&E" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="Canais | Filmes e Series",BR: A&E
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659674
 #EXTINF:-1 tvg-id="" tvg-name="[BR] Arte 1 FHD" tvg-logo="" group-title="Canais | Filmes e Series",[BR] Arte 1 FHD
 http://supersonictv.live:8080/329474/903964/84937
-#EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: ARTE 1 HD
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659679
-#EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: AXN
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659680
 #EXTINF:-1 tvg-id="" tvg-name="[BR] AXN FHD" tvg-logo="" group-title="Canais | Filmes e Series",[BR] AXN FHD
 http://supersonictv.live:8080/329474/903964/84938
 #EXTINF:-1 tvg-id="" tvg-name="BR: AXN" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="Canais | Filmes e Series",BR: AXN SD
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71784.ts
-#EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: AMC HD
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659677
 #EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: AMC SD
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71771.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR: AMC HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="Canais | Filmes e Series",BR: AMC HD
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659677
 #EXTINF:-1 group-title="Canais | Filmes e Series" tvg-id="" tvg-name="CSI MIAMI"
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9c5351f5d000085e8d7e/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: PARAMOUNT NETWORK
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659770
-#EXTINF:-1 tvg-id="" tvg-name="BR: PARAMOUNT NETWORK" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="Canais | Filmes e Series",BR: PARAMOUNT NETWORK
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659770
-#EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: PARAMOUNT NETWORK
 http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/659770
-#EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: SPACE HD
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659792
-#EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: STAR CHANNEL HD
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659796
-#EXTINF:-1 tvg-id="" tvg-name="BR: STAR CHANNEL HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="Canais | Filmes e Series",BR: STAR CHANNEL HD
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659796
 #EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: STAR CHANNEL HD
 http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/659796
-#EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: STUDIO UNIVERSAL HD
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659797
-#EXTINF:-1 tvg-id="" tvg-name="BR: STUDIO UNIVERSAL HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="Canais | Filmes e Series",BR: STUDIO UNIVERSAL HD
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659797
 #EXTINF:-1 tvg-id="" tvg-name="[BR] Universal TV DUAL HD" tvg-logo="" group-title="Canais | Filmes e Series",[BR] Universal TV DUAL HD
 http://supersonictv.live:8080/329474/903964/85354
-#EXTINF:-1 tvg-id="" tvg-name="BR: SYFY HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="Canais | Filmes e Series",BR: SYFY HD
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659798
 #EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: SYFY HD
 http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/659798
-#EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: SYFY HD
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659798
-#EXTINF:-1 tvg-id="" tvg-name="BR: TBS" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="Canais | Filmes e Series",BR: TBS
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659799
 #EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: TBS
 http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/659799
-#EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: TBS
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659799
-#EXTINF:-1 tvg-id="" tvg-name="BR: TCM BR" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="Canais | Filmes e Series",BR: TCM BR
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659800
-#EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: TCM BR
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659800
-#EXTINF:-1 tvg-id="" tvg-name="BR: TELECINE ACTION" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="Canais | Filmes e Series",BR: TELECINE ACTION
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659801
-#EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: TELECINE ACTION
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659801
-#EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: TELECINE CULT
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659802
-#EXTINF:-1 tvg-id="" tvg-name="BR: TELECINE CULT" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="Canais | Filmes e Series",BR: TELECINE CULT
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659802
-#EXTINF:-1 tvg-id="" tvg-name="BR: TELECINE FUN" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="Canais | Filmes e Series",BR: TELECINE FUN
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659803
-#EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: TELECINE FUN
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659803
-#EXTINF:-1 tvg-id="" tvg-name="BR: TELECINE PIPOCA" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="Canais | Filmes e Series",BR: TELECINE PIPOCA
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659804
-#EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: TELECINE PIPOCA
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659804
-#EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: TELECINE PREMIUM
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659805
-#EXTINF:-1 tvg-id="" tvg-name="BR: TELECINE PREMIUM" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="Canais | Filmes e Series",BR: TELECINE PREMIUM
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659805
-#EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: TELECINE TOUCH
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659806
-#EXTINF:-1 tvg-id="" tvg-name="BR: TELECINE TOUCH" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="Canais | Filmes e Series",BR: TELECINE TOUCH
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659806
 #EXTINF:-1 tvg-name="Telecine Action 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/telecineaction.png" group-title="Canais | Filmes e Series",BR: Telecine Action 4K FHDR
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90239.ts
 #EXTINF:-1 tvg-name="Telecine Action FHD" tvg-logo="https://acstatic.co/logos/canais/telecineaction.png" group-title="Canais | Filmes e Series",BR: Telecine Action FHD
@@ -204,40 +138,12 @@ http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90652.ts
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72369.ts
 #EXTINF:-1 tvg-name="Telecine Touch SD [LEG]" tvg-logo="https://acstatic.co/logos/canais/telecinetouch.png" group-title="Canais | Filmes e Series",BR: Telecine Touch SD [LEG]
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90651.ts
-#EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: TLC HD
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659807
-#EXTINF:-1 tvg-id="" tvg-name="BR: TLC HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="Canais | Filmes e Series",BR: TLC HD
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659807
-#EXTINF:-1 tvg-id="" tvg-name="BR: TNT HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="Canais | Filmes e Series",BR: TNT HD
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659808
-#EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: TNT HD
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659808
-#EXTINF:-1 tvg-id="" tvg-name="BR: TNT NOVELAS" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="Canais | Filmes e Series",BR: TNT NOVELAS
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659809
-#EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: TNT NOVELAS
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659809
-#EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: TNT SERIES HD
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659810
-#EXTINF:-1 tvg-id="" tvg-name="BR: TNT SERIES HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="Canais | Filmes e Series",BR: TNT SERIES HD
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659810
-#EXTINF:-1 tvg-id="" tvg-name="BR: SONY CHANNEL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="Canais | Filmes e Series",BR: SONY CHANNEL
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659791
-#EXTINF:-1 tvg-id="" tvg-name="BR: SPACE HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="Canais | Filmes e Series",BR: SPACE HD
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659792
-#EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: UNIVERSAL TV HD
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659818
-#EXTINF:-1 tvg-id="" tvg-name="BR: COMEDY CENTRAL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="Canais | Filmes e Series",BR: COMEDY CENTRAL
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659703
 #EXTINF:-1 tvg-id="" tvg-name="[BR] Comedy Central FHD" tvg-logo="" group-title="BRAZIL",[BR] Comedy Central FHD
 http://supersonictv.live:8080/329474/903964/84954
-#EXTINF:-1 tvg-id="" tvg-name="BR: CINEMAX HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="Canais | Filmes e Series",BR: CINEMAX HD
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659698
 #EXTINF:-1 tvg-id="" tvg-name="[BR] Cinemax FHD" tvg-logo="" group-title="Canais | Filmes e Series",[BR] Cinemax FHD
 http://supersonictv.live:8080/329474/903964/84948
 #EXTINF:-1 tvg-id="" tvg-name="[BR] Cinemax HD" tvg-logo="" group-title="Canais | Filmes e Series",[BR] Cinemax HD
 http://supersonictv.live:8080/329474/903964/84949
-#EXTINF:-1 tvg-id="" tvg-name="BR: SONY CHANNEL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="Canais | Filmes e Series",BR: SONY CHANNEL
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659791
 #EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: SONY CHANNEL
 http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/659791
 #EXTINF:-1 tvg-name="Canal Sony SD" tvg-logo="http://imagecdn.sh:80/images/117e794f409519d5fd8c54fdf6bf1b37.png" group-title="Canais | Filmes e Séries",[BR] Sony SD
@@ -254,6 +160,33 @@ http://supersonictv.live:8080/329474/903964/84995
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90676.ts
 #EXTINF:-1 tvg-name="Space SD" tvg-logo="https://acstatic.co/logos/canais/space.png" group-title="Canais | Filmes e Series",[BR] Space SD
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72320.ts
+#EXTINF:-1 tvg-id="" tvg-name="[BR] HBO 2 DUAL FHD" tvg-logo="" group-title="Canais | Filmes e Series",[BR] HBO 2 DUAL FHD
+http://supersonictv.live:8080/329474/903964/85211
+#EXTINF:-1 tvg-id="" tvg-name="[BR] HBO 2 DUAL HD" tvg-logo="" group-title="Canais | Filmes e Series",[BR] HBO 2 DUAL HD
+http://supersonictv.live:8080/329474/903964/85212
+#EXTINF:-1 tvg-id="" tvg-name="[BR] HBO 4K" tvg-logo="" group-title="Canais | Filmes e Series",[BR] HBO 4K
+http://supersonictv.live:8080/329474/903964/85213
+#EXTINF:-1 tvg-id="" tvg-name="[BR] HBO DUAL FHD" tvg-logo="" group-title="Canais | Filmes e Series",[BR] HBO DUAL FHD
+http://supersonictv.live:8080/329474/903964/85214
+#EXTINF:-1 tvg-id="" tvg-name="[BR] HBO DUAL HD" tvg-logo="" group-title="Canais | Filmes e Series",[BR] HBO DUAL HD
+http://supersonictv.live:8080/329474/903964/85215
+#EXTINF:-1 tvg-id="" tvg-name="[BR] HBO Family DUAL FHD" tvg-logo="" group-title="Canais | Filmes e Series",[BR] HBO Family DUAL FHD
+http://supersonictv.live:8080/329474/903964/85216
+#EXTINF:-1 tvg-id="" tvg-name="[BR] HBO Family DUAL HD" tvg-logo="" group-title="Canais | Filmes e Series",[BR] HBO Family DUAL HD
+http://supersonictv.live:8080/329474/903964/85217
+#EXTINF:-1 tvg-id="" tvg-name="[BR] HBO Mundi DUAL FHD" tvg-logo="" group-title="Canais | Filmes e Series",[BR] HBO Mundi DUAL FHD
+http://supersonictv.live:8080/329474/903964/85218
+#EXTINF:-1 tvg-id="" tvg-name="[BR] HBO Mundi DUAL HD" tvg-logo="" group-title="Canais | Filmes e Series",[BR] HBO Mundi DUAL HD
+http://supersonictv.live:8080/329474/903964/85219
+#EXTINF:-1 tvg-id="" tvg-name="[BR] HBO Pop DUAL HD" tvg-logo="" group-title="Canais | Filmes e Series",[BR] HBO Pop DUAL HD
+http://supersonictv.live:8080/329474/903964/85220
+#EXTINF:-1 tvg-id="" tvg-name="[BR] HBO XTREME 4K" tvg-logo="" group-title="Canais | Filmes e Series",[BR] HBO XTREME 4K
+http://supersonictv.live:8080/329474/903964/85221
+#EXTINF:-1 tvg-id="" tvg-name="[BR] HBO Xtreme DUAL FHD" tvg-logo="" group-title="Canais | Filmes e Series",[BR] HBO Xtreme DUAL FHD
+http://supersonictv.live:8080/329474/903964/85222
+#EXTINF:-1 tvg-id="" tvg-name="[BR] HBO Xtreme DUAL HD" tvg-logo="" group-title="Canais | Filmes e Series",[BR] HBO Xtreme DUAL HD
+http://supersonictv.live:8080/329474/903964/85223
+
 #EXTINF:-1 tvg-name="[24H] Star Trek Discovery [S01]" tvg-logo="http://24horas.cc:80/images/ae67feb834c60b5404cfc2ef40534706.jpg" group-title="Canais | [24H] Series",[24H] Star Trek Discovery [S01]
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/137055.ts
 #EXTINF:-1 tvg-name="[24H] Star Trek Discovery [S02]" tvg-logo="http://24horas.cc:80/images/ae67feb834c60b5404cfc2ef40534706.jpg" group-title="Canais | [24H] Series",[24H] Star Trek Discovery [S02]
@@ -387,46 +320,58 @@ http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135471.ts
 #EXTINF:-1 tvg-name="[24H] Todo Mundo Odeia o Chris [S04]" tvg-logo="http://24horas.cc:80/images/f2ef4ead91aa3054bb879a3a0814bbc8.jpg" group-title="Canais | [24H] Series",[24H] Todo Mundo Odeia o Chris [S04]
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135472.ts
 
+#EXTINF:-1 tvg-name="CANAL HISTÓRIA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png" group-title="BRAZIL",[BR] CANAL HISTÓRIA SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191366.ts
+#EXTINF:-1 tvg-id="" tvg-name="[BR] The History FHD" tvg-logo="" group-title="BRAZIL",[BR] The History FHD
+http://supersonictv.live:8080/329474/903964/85106
+#EXTINF:-1 tvg-name="History 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/history.png" group-title="BRAZIL",[BR] History 4K FHDR
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90244.ts
+#EXTINF:-1 tvg-name="History FHD" tvg-logo="https://acstatic.co/logos/canais/history.png" group-title="BRAZIL",[BR] History FHD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72146.ts
+#EXTINF:-1 tvg-name="History FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/history.png" group-title=""BRAZIL",[BR] History FHD [H265]
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72147.ts
+#EXTINF:-1 tvg-name="History HD" tvg-logo="https://acstatic.co/logos/canais/history.png" group-title="BRAZIL",[BR] History HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72148.ts
+#EXTINF:-1 tvg-name="History SD" tvg-logo="https://acstatic.co/logos/canais/history.png" group-title="BRAZIL",[BR] History SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72149.ts
 #EXTINF:-1 tvg-id="" tvg-name="[BR] Animal Planet FHD" tvg-logo="" group-title="BRAZIL",[BR] Animal Planet FHD
 http://supersonictv.live:8080/329474/903964/84936
-#EXTINF:-1 tvg-id="" tvg-name="BR: ANIMAL PLANET HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: ANIMAL PLANET HD
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659678
 #EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: ANIMAL PLANET SD
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71776.ts
 #EXTINF:-1 tvg-id="" tvg-name="Smithsonian Channel HD" tvg-logo="http://urlcurta.ml/c2BIn" group-title="BRAZIL",[BR] Smithsonian Channel HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6298bd10d88ef000073f16b7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="" tvg-name="MasterChef PlutoTV" group-title="BRAZIL",[BR] MasterChef PlutoTV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6077045b6031bd00078de127/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65aaf550-f9bd-11eb-8aa4-9fbe6c9efd24&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=236636d2-5215-4c91-960b-a0fdf5d55119&userId=&serverSideAds=true
+#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: CURTA
+http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/659705
+#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: DISCOVERY HD
+http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/659706
+#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: DISCOVERY HOME&HEALTH HD
+http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/659707
+#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: DISCOVERY ID
+http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/659708
+#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: DISCOVERY SCIENCE HD
+http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/659710
+#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: DISCOVERY SCIENCE
+http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/659761
 #EXTINF:-1 tvg-id="" tvg-name="[BR] Discovery Channel FHD" tvg-logo="" group-title="BRAZIL",[BR] Discovery Channel FHD
 http://supersonictv.live:8080/329474/903964/84966
-#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: DISCOVERY HD
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659706
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: DISCOVERY HD
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659706
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD HD [Alternativo]" tvg-logo="https://i.imgur.com/hGhgbMQ.png" group-title="BRAZIL",[BR] DISCOVERY WORLD HD
 https://cdn-5.nxplay.com.br/DISCOVERY_WORLD_NX/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[BR] Discovery World FHD" tvg-logo="" group-title="BRAZIL",[BR] Discovery World FHD
 http://supersonictv.live:8080/329474/903964/84973
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HOME & HEALTH SD  [Alternativo]" tvg-logo="http://i.imgur.com/FJgwtT5.png" group-title="BRAZIL",[BR] DISCOVERY HOME & HELTH SD  
 https://cdn-5.nxplay.com.br/DISCOVERY_HH_NX/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY HOME&HEALTH HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: DISCOVERY HOME&HEALTH HD
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659707
 #EXTINF:-1 tvg-id="" tvg-name="[BR] Discovery Home & Health FHD" tvg-logo="" group-title="BRAZIL",[BR] Discovery Home & Health FHD
 http://supersonictv.live:8080/329474/903964/84967
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: DISCOVERY HOME&HEALTH HD
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659707
 #EXTINF:-1 tvg-id="Discovery Science" tvg-name="DISCOVERY SCIENCE" tvg-logo="http://urlcurta.ml/qyAyP" group-title="BRAZIL",[BR] DISCOVERY SCIENCE
 https://cdn-5.nxplay.com.br/DISCOVERY_SCIENCE_NX/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[BR] Discovery Science FHD" tvg-logo="" group-title="BRAZIL",[BR] Discovery Science FHD
 http://supersonictv.live:8080/329474/903964/84970
-#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY SCIENCE HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: DISCOVERY SCIENCE HD
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659710
 #EXTINF:-1 tvg-id="" tvg-name="[BR] Discovery Theather FHD" tvg-logo="" group-title="BRAZIL",[BR] Discovery Theather FHD
 http://supersonictv.live:8080/329474/903964/84971
 #EXTINF:-1 tvg-id="" tvg-name="[BR] Discovery Turbo FHD" tvg-logo="" group-title="BRAZIL",[BR] Discovery Turbo FHD
 http://supersonictv.live:8080/329474/903964/84972
-#EXTINF:-1 tvg-id="" tvg-name="[BR] NatGeO" tvg-logo="" group-title="BRAZIL",[BR] NatGeO
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659761
 #EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="https://i.imgur.com/Jx7AFvA.png" group-title="BRAZIL",[BR] NATIONAL GEOGRAPHIC HD
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191361.ts
 #EXTINF:-1 tvg-name="National Geographic SD" tvg-logo="http://imagecdn.sh:80/images/9a5e6af569e7b3600bad7c9dcf77a721.png" group-title="BRAZIL",[BR] National Geographic FD
@@ -439,36 +384,32 @@ http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191359.ts
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191358.ts
 #EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC WILD SD" tvg-logo="https://i.imgur.com/emG4pHK.png" group-title="BRAZIL",[BR] NATIONAL GEOGRAPHIC WILD SD
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191357.ts
+#EXTINF:-1 tvg-id="" tvg-name="[BR] E! FHD" tvg-logo="" group-title="BRAZIL",[BR] E! FHD
+http://supersonictv.live:8080/329474/903964/84977
 
-
-#EXTINF:-1 tvg-id="" tvg-name="BR: CARTOON HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="DESENHOS",BR: CARTOON HD
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659693
+#EXTINF:-1 tvg-name="Cartoon Net" tvg-logo="https://acstatic.co/logos/canais/cartoon.png" group-title="DESENHOS",BR: Cartoon Net
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71832.ts
 #EXTINF:-1 tvg-id="" tvg-name="[BR] Cartoon Network FHD" tvg-logo="" group-title="DESENHOS",BR: Cartoon Network FHD
 http://supersonictv.live:8080/329474/903964/84946
 #EXTINF:-1 tvg-id="" tvg-name="[BR] Cartoon Network SD" tvg-logo="" group-title="DESENHOS",BR: Cartoon Network SD
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191392.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR: CARTOONITO" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="DESENHOS",BR: CARTOONITO
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659694
 #EXTINF:-1 tvg-id="" tvg-name="BR: CARTOONITO SD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="DESENHOS",BR: CARTOONITO SD
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71815.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY KIDS HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="DESENHOS",BR: DISCOVERY KIDS HD
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659709
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Discovery Kids FHD" tvg-logo="" group-title="DESENHOS",BR: Discovery Kids FHD
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Discovery Kids FHD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="DESENHOS",BR: Discovery Kids FHD
 http://supersonictv.live:8080/329474/903964/84969
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",group-title="DESENHOS",BR: DISCOVERY KIDS HD
+http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/659709
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png", group-title="DESENHOS",BR: NICK JR
 http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/659762
 #EXTINF:-1 tvg-name="Nick Jr HD" tvg-logo="https://acstatic.co/logos/canais/nickjr.png" group-title="DESENHOS",BR: Nick Jr HD
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72203.ts
 #EXTINF:-1 tvg-name="Nick Jr SD" tvg-logo="https://acstatic.co/logos/canais/nickjr.png" group-title="DESENHOS",BR: Nick Jr SD
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72204.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR: NICKELODEON FD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="DESENHOS",BR: NICKELODEON HD
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659763
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="DESENHOS",BR: NICKELODEON HD
 http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/659763
 #EXTINF:-1 tvg-name="Nickelodeon FHD [H265]" tvg-logo="http://static.clubsrv.me/logos/canais/nick.png" group-title="DESENHOS",[BR] Nickelodeon FHD
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72206.ts
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Disney JR FHD" tvg-logo="" group-title="DESENHOS",[BR] Disney JR FHD
-http://supersonictv.live:8080/329474/903964/84975
+
 #EXTINF:-1 tvg-name="[24h] 101 Dalmatas" tvg-logo="http://24horas.cc:80/images/9c6a2f33abeeef86c653c2cfb53e30b3.jpg" group-title="Canais | [24H] Desenhos",[24h] 101 Dalmatas
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/137614.ts
 #EXTINF:-1 tvg-name="[24H] 3 Palavrinhas" tvg-logo="http://24horas.cc:80/images/6ffade7e04c100216dd44af113cd1740.jpg" group-title="Canais | [24H] Desenhos",[24H] 3 Palavrinhas
@@ -505,69 +446,69 @@ http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/145945.ts
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/145946.ts
 #EXTINF:-1 tvg-name="[24H] O Maskara" tvg-logo="http://24horas.cc:80/images/82216aa32f85f763bb831e8c05e6c37c.jpg" group-title="Canais | [24H] Desenhos",[24H] O Maskara
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/145380.ts
-#EXTINF:-1 tvg-name="[24H] Os Simpsons [S01]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Series",[24H] Os Simpsons [S01]
+#EXTINF:-1 tvg-name="[24H] Os Simpsons [S01]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Desenhos",[24H] Os Simpsons [S01]
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135601.ts
-#EXTINF:-1 tvg-name="[24H] Os Simpsons [S02]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Series",[24H] Os Simpsons [S02]
+#EXTINF:-1 tvg-name="[24H] Os Simpsons [S02]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Desenhos",[24H] Os Simpsons [S02]
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135600.ts
-#EXTINF:-1 tvg-name="[24H] Os Simpsons [S03]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Series",[24H] Os Simpsons [S03]
+#EXTINF:-1 tvg-name="[24H] Os Simpsons [S03]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Desenhos",[24H] Os Simpsons [S03]
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135599.ts
-#EXTINF:-1 tvg-name="[24H] Os Simpsons [S04]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Series",[24H] Os Simpsons [S04]
+#EXTINF:-1 tvg-name="[24H] Os Simpsons [S04]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Desenhos",[24H] Os Simpsons [S04]
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135598.ts
-#EXTINF:-1 tvg-name="[24H] Os Simpsons [S05]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Series",[24H] Os Simpsons [S05]
+#EXTINF:-1 tvg-name="[24H] Os Simpsons [S05]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Desenhos",[24H] Os Simpsons [S05]
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135597.ts
-#EXTINF:-1 tvg-name="[24H] Os Simpsons [S06]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Series",[24H] Os Simpsons [S06]
+#EXTINF:-1 tvg-name="[24H] Os Simpsons [S06]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Desenhos",[24H] Os Simpsons [S06]
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135596.ts
-#EXTINF:-1 tvg-name="[24H] Os Simpsons [S07]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Series",[24H] Os Simpsons [S07]
+#EXTINF:-1 tvg-name="[24H] Os Simpsons [S07]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Desenhos",[24H] Os Simpsons [S07]
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135595.ts
-#EXTINF:-1 tvg-name="[24H] Os Simpsons [S08]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Series",[24H] Os Simpsons [S08]
+#EXTINF:-1 tvg-name="[24H] Os Simpsons [S08]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Desenhos",[24H] Os Simpsons [S08]
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135594.ts
-#EXTINF:-1 tvg-name="[24H] Os Simpsons [S09]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Series",[24H] Os Simpsons [S09]
+#EXTINF:-1 tvg-name="[24H] Os Simpsons [S09]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Desenhos",[24H] Os Simpsons [S09]
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135593.ts
-#EXTINF:-1 tvg-name="[24H] Os Simpsons [S10]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Series",[24H] Os Simpsons [S10]
+#EXTINF:-1 tvg-name="[24H] Os Simpsons [S10]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Desenhos",[24H] Os Simpsons [S10]
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135592.ts
-#EXTINF:-1 tvg-name="[24H] Os Simpsons [S11]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Series",[24H] Os Simpsons [S11]
+#EXTINF:-1 tvg-name="[24H] Os Simpsons [S11]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Desenhos",[24H] Os Simpsons [S11]
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135591.ts
-#EXTINF:-1 tvg-name="[24H] Os Simpsons [S12]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Series",[24H] Os Simpsons [S12]
+#EXTINF:-1 tvg-name="[24H] Os Simpsons [S12]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Desenhos",[24H] Os Simpsons [S12]
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135590.ts
-#EXTINF:-1 tvg-name="[24H] Os Simpsons [S13]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Series",[24H] Os Simpsons [S13]
+#EXTINF:-1 tvg-name="[24H] Os Simpsons [S13]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Desenhos",[24H] Os Simpsons [S13]
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135589.ts
-#EXTINF:-1 tvg-name="[24H] Os Simpsons [S14]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Series",[24H] Os Simpsons [S14]
+#EXTINF:-1 tvg-name="[24H] Os Simpsons [S14]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Desenhos",[24H] Os Simpsons [S14]
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135588.ts
-#EXTINF:-1 tvg-name="[24H] Os Simpsons [S15]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Series",[24H] Os Simpsons [S15]
+#EXTINF:-1 tvg-name="[24H] Os Simpsons [S15]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Desenhos",[24H] Os Simpsons [S15]
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135587.ts
-#EXTINF:-1 tvg-name="[24H] Os Simpsons [S16]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Series",[24H] Os Simpsons [S16]
+#EXTINF:-1 tvg-name="[24H] Os Simpsons [S16]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [[24H] Desenhos",[24H] Os Simpsons [S16]
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135586.ts
-#EXTINF:-1 tvg-name="[24H] Os Simpsons [S17]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Series",[24H] Os Simpsons [S17]
+#EXTINF:-1 tvg-name="[24H] Os Simpsons [S17]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Desenhos",[24H] Os Simpsons [S17]
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135585.ts
-#EXTINF:-1 tvg-name="[24H] Os Simpsons [S18]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Series",[24H] Os Simpsons [S18]
+#EXTINF:-1 tvg-name="[24H] Os Simpsons [S18]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Desenhos",[24H] Os Simpsons [S18]
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135584.ts
-#EXTINF:-1 tvg-name="[24H] Os Simpsons [S19]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Series",[24H] Os Simpsons [S19]
+#EXTINF:-1 tvg-name="[24H] Os Simpsons [S19]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Desenhos",[24H] Os Simpsons [S19]
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135583.ts
-#EXTINF:-1 tvg-name="[24H] Os Simpsons [S20]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Series",[24H] Os Simpsons [S20]
+#EXTINF:-1 tvg-name="[24H] Os Simpsons [S20]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Desenhoss",[24H] Os Simpsons [S20]
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135582.ts
-#EXTINF:-1 tvg-name="[24H] Os Simpsons [S21]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Series",[24H] Os Simpsons [S21]
+#EXTINF:-1 tvg-name="[24H] Os Simpsons [S21]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Desenhos",[24H] Os Simpsons [S21]
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135581.ts
-#EXTINF:-1 tvg-name="[24H] Os Simpsons [S22]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Series",[24H] Os Simpsons [S22]
+#EXTINF:-1 tvg-name="[24H] Os Simpsons [S22]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Desenhos",[24H] Os Simpsons [S22]
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135580.ts
-#EXTINF:-1 tvg-name="[24H] Os Simpsons [S23]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Series",[24H] Os Simpsons [S23]
+#EXTINF:-1 tvg-name="[24H] Os Simpsons [S23]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Desenhos",[24H] Os Simpsons [S23]
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135579.ts
-#EXTINF:-1 tvg-name="[24H] Os Simpsons [S24]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Series",[24H] Os Simpsons [S24]
+#EXTINF:-1 tvg-name="[24H] Os Simpsons [S24]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Desenhos",[24H] Os Simpsons [S24]
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135578.ts
-#EXTINF:-1 tvg-name="[24H] Os Simpsons [S25]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Series",[24H] Os Simpsons [S25]
+#EXTINF:-1 tvg-name="[24H] Os Simpsons [S25]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Desenhos",[24H] Os Simpsons [S25]
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135577.ts
-#EXTINF:-1 tvg-name="[24H] Os Simpsons [S26]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Series",[24H] Os Simpsons [S26]
+#EXTINF:-1 tvg-name="[24H] Os Simpsons [S26]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Desenhos",[24H] Os Simpsons [S26]
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135576.ts
-#EXTINF:-1 tvg-name="[24H] Os Simpsons [S27]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Series",[24H] Os Simpsons [S27]
+#EXTINF:-1 tvg-name="[24H] Os Simpsons [S27]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Desenhos",[24H] Os Simpsons [S27]
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135575.ts
-#EXTINF:-1 tvg-name="[24H] Os Simpsons [S28]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Series",[24H] Os Simpsons [S28]
+#EXTINF:-1 tvg-name="[24H] Os Simpsons [S28]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Desenhos",[24H] Os Simpsons [S28]
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135574.ts
-#EXTINF:-1 tvg-name="[24H] Os Simpsons [S29]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Series",[24H] Os Simpsons [S29]
+#EXTINF:-1 tvg-name="[24H] Os Simpsons [S29]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Desenhos",[24H] Os Simpsons [S29]
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135573.ts
-#EXTINF:-1 tvg-name="[24H] Os Simpsons [S30]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Series",[24H] Os Simpsons [S30]
+#EXTINF:-1 tvg-name="[24H] Os Simpsons [S30]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Desenhos",[24H] Os Simpsons [S30]
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135572.ts
-#EXTINF:-1 tvg-name="[24H] Os Simpsons [S31]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Series",[24H] Os Simpsons [S31]
+#EXTINF:-1 tvg-name="[24H] Os Simpsons [S31]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Desenhos",[24H] Os Simpsons [S31]
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135571.ts
-#EXTINF:-1 tvg-name="[24H] Os Simpsons [S32]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Series",[24H] Os Simpsons [S32]
+#EXTINF:-1 tvg-name="[24H] Os Simpsons [S32]" tvg-logo="http://24horas.cc:80/images/a7ade7c2466aa4339c87b9a858b4ace0.jpg" group-title="Canais | [24H] Desenhos",[24H] Os Simpsons [S32]
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135570.ts
 #EXTINF:-1 tvg-name="[24H] Pokemon [S01]" tvg-logo="http://24horas.cc:80/images/f71cde6285b43fb9846df83a3a9f06a4.jpg" group-title="Canais | [24H] Desenhos",[24H] Pokemon [S01]
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/138791.ts
@@ -646,8 +587,7 @@ http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/138016.ts
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="BR: COMBATE HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="ESPORTES",BR: COMBATE HD
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659702
+
 #EXTINF:-1 tvg-id="" tvg-name="[BR] Combate FHD" tvg-logo="" group-title="ESPORTES",[BR] Combate FHD
 http://supersonictv.live:8080/329474/903964/84953
 #EXTINF:-1 tvg-id="" tvg-name="COMBATE SD" tvg-logo="http://i.imgur.com/5qo1Dyc.png" group-title="ESPORTES",[BR] COMBATE SD
@@ -658,28 +598,20 @@ http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72265.ts
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72266.ts
 #EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES SD" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="ESPORTES",BR: PREMIERE CLUBES SD 
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/9
-#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE CLUBES HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="ESPORTES",BR: PREMIERE CLUBES HD
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659776
 #EXTINF:-1 group-title="ESPORTES" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: PREMIERE CLUBES HD
 http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/659776
-#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE2 HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="ESPORTES",BR: PREMIERE2 HD
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659777
 #EXTINF:-1 group-title="ESPORTES" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: PREMIERE2 HD
 http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/659777
 #EXTINF:-1 tvg-name="Premiere 2 HD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="ESPORTES",Premiere 2 HD
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72239.ts
 #EXTINF:-1 tvg-name="Premiere 2 SD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="ESPORTES",Premiere 2 SD
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72240.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE3 HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="ESPORTES",BR: PREMIERE3 HD
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659778
 #EXTINF:-1 group-title="ESPORTES" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: PREMIERE3 HD
 http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/659778
 #EXTINF:-1 tvg-name="Premiere 3 HD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="ESPORTES",Premiere 3 HD
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72243.ts
 #EXTINF:-1 tvg-name="Premiere 3 SD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="ESPORTES",Premiere 3 SD
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72244.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE4 HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="ESPORTES",BR: PREMIERE4 HD
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659779
 #EXTINF:-1 group-title="ESPORTES" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: PREMIERE4 HD
 http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/659779
 #EXTINF:-1 tvg-name="Premiere 4 HD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="ESPORTES",Premiere 4 HD
@@ -690,50 +622,27 @@ http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72248.ts
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/180159.ts
 #EXTINF:-1 tvg-name="Premiere 8 SD" tvg-logo="https://acstatic.co/logos/canais/premiere.png" group-title="ESPORTES",Premiere 8 SD
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/180160.ts
-#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="ESPORTESL",BR: SPORTV
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659793
 #EXTINF:-1 group-title="ESPORTES" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: SPORTV
 http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/659793
 #EXTINF:-1 group-title="ESPORTES" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: SPORTV 2
 http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/659794
-#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 2" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="ESPORTES",BR: SPORTV 2
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659794
-#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 3" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="ESPORTES",BR: SPORTV 3
-http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659795
 #EXTINF:-1 group-title="ESPORTES" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: SPORTV 3
 http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/659795
-#EXTINF:-1 tvg-id="" tvg-name="[BR] E! FHD" tvg-logo="" group-title="BRAZIL",[BR] E! FHD
-http://supersonictv.live:8080/329474/903964/84977
-#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: E!
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659717
-#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: ESPN
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659718
+
 #EXTINF:-1 tvg-id="" tvg-name="[BR] ESPN FHD" tvg-logo="" group-title="ESPORTES",[BR] ESPN FHD
 http://supersonictv.live:8080/329474/903964/84981
 #EXTINF:-1 tvg-id="" tvg-name="[BR] ESPN 2 FHD" tvg-logo="" group-title="ESPORTES",[BR] ESPN 2 FHD
 http://supersonictv.live:8080/329474/903964/84978
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 2 FHD" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="ESPORTES",BR: ESPN 2 H265
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/135
-#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: ESPN 2
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659719
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 3" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9c/Logo_ESPN_HD.png/revision/latest?cb=20160113004056" group-title="ESPORTES",BR: ESPN HD 
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/126
-#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: ESPN 3
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659720
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 4 SD" tvg-logo="https://i.imgur.com/u11qaVb.png" group-title="ESPORTES",BR: ESPN BRASIL SD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/143
-#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: ESPN 4
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659721
-#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: ESPN 5
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659722
-#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: ESPN 6
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659723
 #EXTINF:-1 tvg-id="" tvg-name="[BR] ESPN Brasil FHD" tvg-logo="" group-title="ESPORTES",[BR] ESPN Brasil FHD
 http://supersonictv.live:8080/329474/903964/84979
 #EXTINF:-1 tvg-id="" tvg-name="[BR] ESPN Extra FHD" tvg-logo="" group-title="ESPORTES",[BR] ESPN Extra FHD
 http://supersonictv.live:8080/329474/903964/84980
-#EXTINF:-1 tvg-id="" tvg-name="[BR] ESPORTE INTERATIVO *" tvg-logo="" group-title="ESPORTES",[BR] ESPORTE INTERATIVO *
-http://supersonictv.live:8080/329474/903964/84982
 #EXTINF:-1 tvg-id="" tvg-name="[BR] Fox Sport HD" tvg-logo="" group-title="ESPORTES",[BR] Fox Sport HD
 http://supersonictv.live:8080/329474/903964/84991
 #EXTINF:-1 tvg-id="" tvg-name="[BR] Fox Sports 2 FHD" tvg-logo="" group-title="ESPORTES",[BR] Fox Sports 2 FHD
