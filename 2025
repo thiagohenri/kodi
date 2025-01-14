@@ -324,11 +324,9 @@ http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135472.ts
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191366.ts
 #EXTINF:-1 tvg-id="" tvg-name="[BR] The History FHD" tvg-logo="" group-title="BRAZIL",[BR] The History FHD
 http://supersonictv.live:8080/329474/903964/85106
-#EXTINF:-1 tvg-name="History 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/history.png" group-title="BRAZIL",[BR] History 4K FHDR
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90244.ts
 #EXTINF:-1 tvg-name="History FHD" tvg-logo="https://acstatic.co/logos/canais/history.png" group-title="BRAZIL",[BR] History FHD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72146.ts
-#EXTINF:-1 tvg-name="History FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/history.png" group-title=""BRAZIL",[BR] History FHD [H265]
+http://supersonictv.live:8080/329474/903964/85033
+#EXTINF:-1 tvg-name="History FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/history.png" group-title=""BRAZIL",[BR] History H265
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72147.ts
 #EXTINF:-1 tvg-name="History HD" tvg-logo="https://acstatic.co/logos/canais/history.png" group-title="BRAZIL",[BR] History HD
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72148.ts
