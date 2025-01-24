@@ -320,69 +320,69 @@ http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135471.ts
 #EXTINF:-1 tvg-name="[24H] Todo Mundo Odeia o Chris [S04]" tvg-logo="http://24horas.cc:80/images/f2ef4ead91aa3054bb879a3a0814bbc8.jpg" group-title="Canais | [24H] Series",[24H] Todo Mundo Odeia o Chris [S04]
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/135472.ts
 
-#EXTINF:-1 tvg-name="CANAL HISTÓRIA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png" group-title="BRAZIL",[BR] CANAL HISTÓRIA SD
+#EXTINF:-1 tvg-name="CANAL HISTÓRIA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png" group-title="DOCS 2 OPÇAO",[BR] CANAL HISTÓRIA SD
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191366.ts
-#EXTINF:-1 tvg-id="" tvg-name="[BR] The History FHD" tvg-logo="" group-title="BRAZIL",[BR] The History FHD
+#EXTINF:-1 tvg-id="" tvg-name="[BR] The History FHD" tvg-logo="" group-title="DOCS 2 OPÇAO",[BR] The History FHD
 http://supersonictv.live:8080/329474/903964/85106
-#EXTINF:-1 tvg-name="History FHD" tvg-logo="https://acstatic.co/logos/canais/history.png" group-title="BRAZIL",[BR] History FHD
+#EXTINF:-1 tvg-name="History FHD" tvg-logo="https://acstatic.co/logos/canais/history.png" group-title="DOCS 2 OPÇAO",[BR] History FHD
 http://supersonictv.live:8080/329474/903964/85033
-#EXTINF:-1 tvg-name="History FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/history.png" group-title=""BRAZIL",[BR] History H265
+#EXTINF:-1 tvg-name="History FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/history.png" group-title="DOCS 2 OPÇAO",[BR] History H265
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72147.ts
-#EXTINF:-1 tvg-name="History HD" tvg-logo="https://acstatic.co/logos/canais/history.png" group-title="BRAZIL",[BR] History HD
+#EXTINF:-1 tvg-name="History HD" tvg-logo="https://acstatic.co/logos/canais/history.png" group-title="DOCS 2 OPÇAO",[BR] History HD
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72148.ts
-#EXTINF:-1 tvg-name="History SD" tvg-logo="https://acstatic.co/logos/canais/history.png" group-title="BRAZIL",[BR] History SD
+#EXTINF:-1 tvg-name="History SD" tvg-logo="https://acstatic.co/logos/canais/history.png" group-title="DOCS 2 OPÇAO",[BR] History SD
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72149.ts
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Animal Planet FHD" tvg-logo="" group-title="BRAZIL",[BR] Animal Planet FHD
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Animal Planet FHD" tvg-logo="" group-title="DOCS 2 OPÇAO",[BR] Animal Planet FHD
 http://supersonictv.live:8080/329474/903964/84936
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: ANIMAL PLANET SD
+#EXTINF:-1 group-title="DOCS 2 OPÇAO" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: ANIMAL PLANET SD
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71776.ts
-#EXTINF:-1 tvg-id="" tvg-name="Smithsonian Channel HD" tvg-logo="http://urlcurta.ml/c2BIn" group-title="BRAZIL",[BR] Smithsonian Channel HD
+#EXTINF:-1 tvg-id="" tvg-name="Smithsonian Channel HD" tvg-logo="http://urlcurta.ml/c2BIn" group-title="DOCS 2 OPÇAO",[BR] Smithsonian Channel HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6298bd10d88ef000073f16b7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" tvg-name="MasterChef PlutoTV" group-title="BRAZIL",[BR] MasterChef PlutoTV
+#EXTINF:-1 tvg-id="" tvg-name="MasterChef PlutoTV" group-title="DOCS 2 OPÇAO",[BR] MasterChef PlutoTV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6077045b6031bd00078de127/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65aaf550-f9bd-11eb-8aa4-9fbe6c9efd24&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=236636d2-5215-4c91-960b-a0fdf5d55119&userId=&serverSideAds=true
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: CURTA
+#EXTINF:-1 group-title="DOCS 2 OPÇAO" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: CURTA
 http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/659705
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: DISCOVERY HD
+#EXTINF:-1 group-title="DOCS 2 OPÇAO" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: DISCOVERY HD
 http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/659706
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: DISCOVERY HOME&HEALTH HD
+#EXTINF:-1 group-title="DOCS 2 OPÇAO" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: DISCOVERY HOME&HEALTH HD
 http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/659707
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: DISCOVERY ID
+#EXTINF:-1 group-title="DOCS 2 OPÇAO" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: DISCOVERY ID
 http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/659708
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: DISCOVERY SCIENCE HD
+#EXTINF:-1 group-title="DOCS 2 OPÇAO" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: DISCOVERY SCIENCE HD
 http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/659710
-#EXTINF:-1 group-title="BRAZIL" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: DISCOVERY SCIENCE
+#EXTINF:-1 group-title="DOCS 2 OPÇAO" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png",BR: DISCOVERY SCIENCE
 http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/659761
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Discovery Channel FHD" tvg-logo="" group-title="BRAZIL",[BR] Discovery Channel FHD
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Discovery Channel FHD" tvg-logo="" group-title="DOCS 2 OPÇAO",[BR] Discovery Channel FHD
 http://supersonictv.live:8080/329474/903964/84966
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD HD [Alternativo]" tvg-logo="https://i.imgur.com/hGhgbMQ.png" group-title="BRAZIL",[BR] DISCOVERY WORLD HD
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD HD [Alternativo]" tvg-logo="https://i.imgur.com/hGhgbMQ.png" group-title="DOCS 2 OPÇAO",[BR] DISCOVERY WORLD HD
 https://cdn-5.nxplay.com.br/DISCOVERY_WORLD_NX/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Discovery World FHD" tvg-logo="" group-title="BRAZIL",[BR] Discovery World FHD
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Discovery World FHD" tvg-logo="" group-title="DOCS 2 OPÇAO",[BR] Discovery World FHD
 http://supersonictv.live:8080/329474/903964/84973
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HOME & HEALTH SD  [Alternativo]" tvg-logo="http://i.imgur.com/FJgwtT5.png" group-title="BRAZIL",[BR] DISCOVERY HOME & HELTH SD  
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HOME & HEALTH SD  [Alternativo]" tvg-logo="http://i.imgur.com/FJgwtT5.png" group-title="DOCS 2 OPÇAO",[BR] DISCOVERY HOME & HELTH SD  
 https://cdn-5.nxplay.com.br/DISCOVERY_HH_NX/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Discovery Home & Health FHD" tvg-logo="" group-title="BRAZIL",[BR] Discovery Home & Health FHD
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Discovery Home & Health FHD" tvg-logo="" group-title="DOCS 2 OPÇAO",[BR] Discovery Home & Health FHD
 http://supersonictv.live:8080/329474/903964/84967
-#EXTINF:-1 tvg-id="Discovery Science" tvg-name="DISCOVERY SCIENCE" tvg-logo="http://urlcurta.ml/qyAyP" group-title="BRAZIL",[BR] DISCOVERY SCIENCE
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="DISCOVERY SCIENCE" tvg-logo="http://urlcurta.ml/qyAyP" group-title="DOCS 2 OPÇAO",[BR] DISCOVERY SCIENCE
 https://cdn-5.nxplay.com.br/DISCOVERY_SCIENCE_NX/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Discovery Science FHD" tvg-logo="" group-title="BRAZIL",[BR] Discovery Science FHD
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Discovery Science FHD" tvg-logo="" group-title="DOCS 2 OPÇAO",[BR] Discovery Science FHD
 http://supersonictv.live:8080/329474/903964/84970
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Discovery Theather FHD" tvg-logo="" group-title="BRAZIL",[BR] Discovery Theather FHD
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Discovery Theather FHD" tvg-logo="" group-title="DOCS 2 OPÇAO",[BR] Discovery Theather FHD
 http://supersonictv.live:8080/329474/903964/84971
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Discovery Turbo FHD" tvg-logo="" group-title="BRAZIL",[BR] Discovery Turbo FHD
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Discovery Turbo FHD" tvg-logo="" group-title="DOCS 2 OPÇAO",[BR] Discovery Turbo FHD
 http://supersonictv.live:8080/329474/903964/84972
-#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="https://i.imgur.com/Jx7AFvA.png" group-title="BRAZIL",[BR] NATIONAL GEOGRAPHIC HD
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="https://i.imgur.com/Jx7AFvA.png" group-title="DOCS 2 OPÇAO",[BR] NATIONAL GEOGRAPHIC HD
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191361.ts
-#EXTINF:-1 tvg-name="National Geographic SD" tvg-logo="http://imagecdn.sh:80/images/9a5e6af569e7b3600bad7c9dcf77a721.png" group-title="BRAZIL",[BR] National Geographic FD
+#EXTINF:-1 tvg-name="National Geographic SD" tvg-logo="http://imagecdn.sh:80/images/9a5e6af569e7b3600bad7c9dcf77a721.png" group-title="DOCS 2 OPÇAO",[BR] National Geographic FD
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72200.ts
-#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC SD" tvg-logo="https://i.imgur.com/Jx7AFvA.png" group-title="BRAZIL",[BR] NATIONAL GEOGRAPHIC SD
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC SD" tvg-logo="https://i.imgur.com/Jx7AFvA.png" group-title="DOCS 2 OPÇAO",[BR] NATIONAL GEOGRAPHIC SD
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191360.ts
-#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC WILD FHD" tvg-logo="https://i.imgur.com/emG4pHK.png" group-title="BRAZIL",[BR] NATIONAL GEOGRAPHIC WILD FHD
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC WILD FHD" tvg-logo="https://i.imgur.com/emG4pHK.png" group-title="DOCS 2 OPÇAO",[BR] NATIONAL GEOGRAPHIC WILD FHD
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191359.ts
-#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC WILD HD" tvg-logo="https://i.imgur.com/emG4pHK.png" group-title="BRAZIL",[BR] NATIONAL GEOGRAPHIC WILD HD
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC WILD HD" tvg-logo="https://i.imgur.com/emG4pHK.png" group-title="DOCS 2 OPÇAO",[BR] NATIONAL GEOGRAPHIC WILD HD
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191358.ts
-#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC WILD SD" tvg-logo="https://i.imgur.com/emG4pHK.png" group-title="BRAZIL",[BR] NATIONAL GEOGRAPHIC WILD SD
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC WILD SD" tvg-logo="https://i.imgur.com/emG4pHK.png" group-title="DOCS 2 OPÇAO",[BR] NATIONAL GEOGRAPHIC WILD SD
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191357.ts
-#EXTINF:-1 tvg-id="" tvg-name="[BR] E! FHD" tvg-logo="" group-title="BRAZIL",[BR] E! FHD
+#EXTINF:-1 tvg-id="" tvg-name="[BR] E! FHD" tvg-logo="" group-title="DOCS 2 OPÇAO",[BR] E! FHD
 http://supersonictv.live:8080/329474/903964/84977
 
 #EXTINF:-1 tvg-name="Cartoon Net" tvg-logo="https://acstatic.co/logos/canais/cartoon.png" group-title="Canais | INFANTIL",BR: Cartoon Net
@@ -897,22 +897,22 @@ http://dzcdn.vood.top/live/ottplayerchannel/JFYQWKNbCUe5/695.m3u8
 #EXTINF:-1 tvg-id="PARAMOUNT" tvg-name="PARAMOUNT" tvg-logo="https://imgur.com/GPcKZ2i.png" group-title="Canais | SERIES 2 OPÇÃO",Paramount Network FHD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/276
 
-#EXTINF:-1 tvg-logo="https://imgur.com/bytVf9x.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",USA Network HD
+#EXTINF:-1 tvg-logo="https://imgur.com/bytVf9x.png" group-title="Canais | SERIES 2 OPÇÃO",USA Network HD
 http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/147
 
-#EXTINF:-1 tvg-logo="https://imgur.com/oj2sWRk.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",Syfy HD
+#EXTINF:-1 tvg-logo="https://imgur.com/oj2sWRk.png" group-title="Canais | SERIES 2 OPÇÃO",Syfy HD
 
 
-#EXTINF:-1 tvg-id="Lifetime HD" tvg-name="Lifetime HD" tvg-logo="https://i.imgur.com/lAPINbh.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",Lifetime SD
+#EXTINF:-1 tvg-id="Lifetime HD" tvg-name="Lifetime HD" tvg-logo="https://i.imgur.com/lAPINbh.png" group-title="Canais | SERIES 2 OPÇÃO",Lifetime SD
 https://cdn-1.nxplay.com.br/LIFE_TIME_TK/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/faV3eZx.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",Telecine Action HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/faV3eZx.png" group-title="Canais | SERIES 2 OPÇÃO",Telecine Action HD
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/faV3eZx.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",Telecine Action HD 
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/faV3eZx.png" group-title="Canais | SERIES 2 OPÇÃO",Telecine Action HD 
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/295
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/cPTZMTo.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",Telecine Pipoca HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/cPTZMTo.png" group-title="Canais | SERIES 2 OPÇÃO",Telecine Pipoca HD
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/cPTZMTo.png" group-title="Canais | SERIES 2 OPÇÃO",Telecine Pipoca HD
@@ -924,7 +924,7 @@ https://abrir.me/CDHPY?ManoTV
 #EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-name="TELECINE PREMIUM" tvg-logo="https://imgur.com/SGr7sdL.png" group-title="Canais | SERIES 2 OPÇÃO",Telecine Premium FHD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/307
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/viw732w.png" group-title="Canais |SERIES 2 OPÇÃO",Telecine Touch HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/viw732w.png" group-title="Canais | SERIES 2 OPÇÃO",Telecine Touch HD
 http://15.235.50.113:14010/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/viw732w.png" group-title="Canais | SERIES 2 OPÇÃO",Telecine Touch FHD
@@ -1081,34 +1081,34 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9fdda
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63eb9c5351f5d000085e8d7e/colorLogoPNG.png" group-title="Canais | SERIES 2 OPÇÃO",CSI: Miami
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9c5351f5d000085e8d7e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/624b1c8d4321e200073ee421/colorLogoPNG.png" group-title="Canais | ANIMES & GEEK"",One Piece
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/624b1c8d4321e200073ee421/colorLogoPNG.png" group-title="Canais | ANIMES",One Piece
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/624b1c8d4321e200073ee421/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f6df5a173d7340007c559f7/colorLogoPNG.png" group-title="Canais | ANIMES & GEEK"",Naruto
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f6df5a173d7340007c559f7/colorLogoPNG.png" group-title="Canais | ANIMES",Naruto
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64c92f965580090008084968/colorLogoPNG.png" group-title="Canais | ANIMES & GEEK"",Naruto Shippuden
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64c92f965580090008084968/colorLogoPNG.png" group-title="Canais | ANIMES",Naruto Shippuden
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64c92f965580090008084968/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/656f389c3944b60008e5bdab/colorLogoPNG.png" group-title="Canais | ANIMES & GEEK"",Boruto: Naruto Next Generations
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/656f389c3944b60008e5bdab/colorLogoPNG.png" group-title="Canais | ANIMES",Boruto: Naruto Next Generations
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/656f389c3944b60008e5bdab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65d9167818036500080e8780/colorLogoPNG.png" group-title="Canais | ANIMES & GEEK"",Hunter x Hunter
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65d9167818036500080e8780/colorLogoPNG.png" group-title="Canais | ANIMES",Hunter x Hunter
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65d9167818036500080e8780/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/646663b01593940008990a57/colorLogoPNG.png" group-title="Canais | ANIMES & GEEK"",Captain Tsubasa
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/646663b01593940008990a57/colorLogoPNG.png" group-title="Canais | ANIMES",Captain Tsubasa
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/646663b01593940008990a57/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/633dc392e0282400071b0d39/colorLogoPNG.png" group-title="Canais | ANIMES & GEEK"",Beyblade
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/633dc392e0282400071b0d39/colorLogoPNG.png" group-title="Canais | ANIMES",Beyblade
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/633dc392e0282400071b0d39/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://imgur.com/Athwean.png" group-title="Canais | ANIMES & GEEK"",Tokusato
+#EXTINF:-1 tvg-logo="https://imgur.com/Athwean.png" group-title="Canais | ANIMES",Tokusato
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff609de50ab210008025c1b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=967d46f0-96bd-11eb-b493-ab25b5b88dc0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e8619d5a-ac5a-4804-8d5e-84812ad7686b&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/625464a945b6a200079257d1/solidLogoPNG.png" group-title="Canais | ANIMES & GEEK"",Death Note
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/625464a945b6a200079257d1/solidLogoPNG.png" group-title="Canais | ANIMES",Death Note
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/625464a945b6a200079257d1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/C5nMqAf.png" group-title="Canais | ANIMES & GEEK"",WORDING TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C5nMqAf.png" group-title="Canais | ANIMES",WORDING TV
 https://tv02.zas.media:1936/wordingtv/wordingtv/chunklist_w1264551258.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/62d969fd8451a30007f0fd94/colorLogoPNG.png" group-title="Canais | INFANTIL",Cocoricó
