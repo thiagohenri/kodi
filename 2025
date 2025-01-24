@@ -1,20 +1,20 @@
 #EXTM3U
 
-EXTINF:-1 tvg-id="Warner Channel HD" tvg-name="Warner Channel" tvg-logo="http://i.imgur.com/xvZ66AU.png" group-title="Canais | Filmes e Series",Warner Channel
+EXTINF:-1 tvg-id="Warner Channel" tvg-name="Warner Channel" tvg-logo="http://i.imgur.com/xvZ66AU.png" group-title="Canais | Filmes e Series",Warner Channel
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/783
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Warner Channel DUAL HD" tvg-logo="" group-title="Canais | Filmes e Series" , Warner Channel DUAL HD
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Warner Channel DUAL HD" tvg-logo="http://i.imgur.com/xvZ66AU.png" group-title="Canais | Filmes e Series", Warner Channel DUAL HD
 http://supersonictv.live:8080/329474/903964/85356
-#EXTINF:-1 tvg-name="Megapix FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/megapix.png" group-title="Canais | Filmes e Séries",Megapix FHD [H265]
+#EXTINF:-1 tvg-name="Megapix FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/megapix.png" group-title="Canais | Filmes e Series",Megapix FHD [H265]
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72167.ts
-#EXTINF:-1 tvg-name="Megapix FHD [LEG]" tvg-logo="https://acstatic.co/logos/canais/megapix.png" group-title="Canais | Filmes e Séries",Megapix FHD [LEG]
+#EXTINF:-1 tvg-name="Megapix FHD [LEG]" tvg-logo="https://acstatic.co/logos/canais/megapix.png" group-title="Canais | Filmes e Series",Megapix FHD [LEG]
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90680.ts
-#EXTINF:-1 tvg-name="Megapix HD" tvg-logo="https://acstatic.co/logos/canais/megapix.png" group-title="Canais | Filmes e Séries",Megapix HD
+#EXTINF:-1 tvg-name="Megapix HD" tvg-logo="https://acstatic.co/logos/canais/megapix.png" group-title="Canais | Filmes e Series",Megapix HD
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72169.ts
-#EXTINF:-1 tvg-name="Megapix HD [LEG]" tvg-logo="https://acstatic.co/logos/canais/megapix.png" group-title="Canais | Filmes e Séries",Megapix HD [LEG]
+#EXTINF:-1 tvg-name="Megapix HD [LEG]" tvg-logo="https://acstatic.co/logos/canais/megapix.png" group-title="Canais | Filmes e Series",Megapix HD [LEG]
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/131118.ts
-#EXTINF:-1 tvg-name="Megapix SD" tvg-logo="https://acstatic.co/logos/canais/megapix.png" group-title="Canais | Filmes e Séries",Megapix SD
+#EXTINF:-1 tvg-name="Megapix SD" tvg-logo="https://acstatic.co/logos/canais/megapix.png" group-title="Canais | Filmes e Series",Megapix SD
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/131204.ts
-#EXTINF:-1 tvg-name="Megapix SD [LEG]" tvg-logo="https://acstatic.co/logos/canais/megapix.png" group-title="Canais | Filmes e Séries",Megapix SD [LEG]
+#EXTINF:-1 tvg-name="Megapix SD [LEG]" tvg-logo="https://acstatic.co/logos/canais/megapix.png" group-title="Canais | Filmes e Series",Megapix SD [LEG]
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/131171.ts
 #EXTINF:-1 tvg-id="" tvg-name="[BR] A&E FHD" tvg-logo="" group-title= "Canais | Filmes e Series" , A&E FHD
 http://supersonictv.live:8080/329474/903964/84935
@@ -193,31 +193,31 @@ http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/137055.ts
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/137056.ts
 #EXTINF:-1 tvg-name="[24H] Star Trek Discovery [S03]" tvg-logo="http://24horas.cc:80/images/ae67feb834c60b5404cfc2ef40534706.jpg" group-title="Canais | [24H] Series",[24H] Star Trek Discovery [S03]
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/137057.ts
-#EXTINF:-1 tvg-name="[24H] Star Wars A Guerra dos Clones [S01]" tvg-logo="http://24horas.cc:80/images/819d0ad9968d08210e8aa2a21a88bd41.jpg" group-title="Canais | [24H] Outros",[24H] Star Wars A Guerra dos Clones [S01]
+#EXTINF:-1 tvg-name="[24H] Star Wars A Guerra dos Clones [S01]" tvg-logo="http://24horas.cc:80/images/819d0ad9968d08210e8aa2a21a88bd41.jpg" group-title="Canais | [24H] Series",[24H] Star Wars A Guerra dos Clones [S01]
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/137064.ts
-#EXTINF:-1 tvg-name="[24H] Star Wars A Guerra dos Clones [S02]" tvg-logo="http://24horas.cc:80/images/819d0ad9968d08210e8aa2a21a88bd41.jpg" group-title="Canais | [24H] Outros",[24H] Star Wars A Guerra dos Clones [S02]
+#EXTINF:-1 tvg-name="[24H] Star Wars A Guerra dos Clones [S02]" tvg-logo="http://24horas.cc:80/images/819d0ad9968d08210e8aa2a21a88bd41.jpg" group-title="Canais | [24H] Series",[24H] Star Wars A Guerra dos Clones [S02]
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/137065.ts
-#EXTINF:-1 tvg-name="[24H] Star Wars A Guerra dos Clones [S03]" tvg-logo="http://24horas.cc:80/images/819d0ad9968d08210e8aa2a21a88bd41.jpg" group-title="Canais | [24H] Outros",[24H] Star Wars A Guerra dos Clones [S03]
+#EXTINF:-1 tvg-name="[24H] Star Wars A Guerra dos Clones [S03]" tvg-logo="http://24horas.cc:80/images/819d0ad9968d08210e8aa2a21a88bd41.jpg" group-title="Canais | [24H] Series",[24H] Star Wars A Guerra dos Clones [S03]
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/137066.ts
-#EXTINF:-1 tvg-name="[24H] Star Wars A Guerra dos Clones [S04]" tvg-logo="http://24horas.cc:80/images/819d0ad9968d08210e8aa2a21a88bd41.jpg" group-title="Canais | [24H] Outros",[24H] Star Wars A Guerra dos Clones [S04]
+#EXTINF:-1 tvg-name="[24H] Star Wars A Guerra dos Clones [S04]" tvg-logo="http://24horas.cc:80/images/819d0ad9968d08210e8aa2a21a88bd41.jpg" group-title="Canais | [24H] Series",[24H] Star Wars A Guerra dos Clones [S04]
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/137067.ts
-#EXTINF:-1 tvg-name="[24H] Star Wars A Guerra dos Clones [S05]" tvg-logo="http://24horas.cc:80/images/819d0ad9968d08210e8aa2a21a88bd41.jpg" group-title="Canais | [24H] Outros",[24H] Star Wars A Guerra dos Clones [S05]
+#EXTINF:-1 tvg-name="[24H] Star Wars A Guerra dos Clones [S05]" tvg-logo="http://24horas.cc:80/images/819d0ad9968d08210e8aa2a21a88bd41.jpg" group-title="Canais | [24H] Series",[24H] Star Wars A Guerra dos Clones [S05]
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/137068.ts
-#EXTINF:-1 tvg-name="[24H] Star Wars A Guerra dos Clones [S06]" tvg-logo="http://24horas.cc:80/images/819d0ad9968d08210e8aa2a21a88bd41.jpg" group-title="Canais | [24H] Outros",[24H] Star Wars A Guerra dos Clones [S06]
+#EXTINF:-1 tvg-name="[24H] Star Wars A Guerra dos Clones [S06]" tvg-logo="http://24horas.cc:80/images/819d0ad9968d08210e8aa2a21a88bd41.jpg" group-title="Canais | [24H] Series",[24H] Star Wars A Guerra dos Clones [S06]
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/137069.ts
-#EXTINF:-1 tvg-name="[24H] Star Wars A Guerra dos Clones [S07]" tvg-logo="http://24horas.cc:80/images/819d0ad9968d08210e8aa2a21a88bd41.jpg" group-title="Canais | [24H] Outros",[24H] Star Wars A Guerra dos Clones [S07]
+#EXTINF:-1 tvg-name="[24H] Star Wars A Guerra dos Clones [S07]" tvg-logo="http://24horas.cc:80/images/819d0ad9968d08210e8aa2a21a88bd41.jpg" group-title="Canais | [24H] Series",[24H] Star Wars A Guerra dos Clones [S07]
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/137070.ts
-#EXTINF:-1 tvg-name="[24H] Star Wars Rebels [S01]" tvg-logo="http://24horas.cc:80/images/5f606297563e0123a1c45a3abf6baafe.jpg" group-title="Canais | [24H] Outros",[24H] Star Wars Rebels [S01]
+#EXTINF:-1 tvg-name="[24H] Star Wars Rebels [S01]" tvg-logo="http://24horas.cc:80/images/5f606297563e0123a1c45a3abf6baafe.jpg" group-title="Canais | [24H] Series",[24H] Star Wars Rebels [S01]
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/137072.ts
-#EXTINF:-1 tvg-name="[24H] Star Wars Rebels [S02]" tvg-logo="http://24horas.cc:80/images/5f606297563e0123a1c45a3abf6baafe.jpg" group-title="Canais | [24H] Outros",[24H] Star Wars Rebels [S02]
+#EXTINF:-1 tvg-name="[24H] Star Wars Rebels [S02]" tvg-logo="http://24horas.cc:80/images/5f606297563e0123a1c45a3abf6baafe.jpg" group-title="Canais | [24H] Series",[24H] Star Wars Rebels [S02]
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/137073.ts
-#EXTINF:-1 tvg-name="[24H] Star Wars Rebels [S03]" tvg-logo="http://24horas.cc:80/images/5f606297563e0123a1c45a3abf6baafe.jpg" group-title="Canais | [24H] Outros",[24H] Star Wars Rebels [S03]
+#EXTINF:-1 tvg-name="[24H] Star Wars Rebels [S03]" tvg-logo="http://24horas.cc:80/images/5f606297563e0123a1c45a3abf6baafe.jpg" group-title="Canais | [24H] Series",[24H] Star Wars Rebels [S03]
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/137074.ts
-#EXTINF:-1 tvg-name="[24H] Star Wars Rebels [S04]" tvg-logo="http://24horas.cc:80/images/5f606297563e0123a1c45a3abf6baafe.jpg" group-title="Canais | [24H] Outros",[24H] Star Wars Rebels [S04]
+#EXTINF:-1 tvg-name="[24H] Star Wars Rebels [S04]" tvg-logo="http://24horas.cc:80/images/5f606297563e0123a1c45a3abf6baafe.jpg" group-title="Canais | [24H] Series",[24H] Star Wars Rebels [S04]
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/137075.ts
-#EXTINF:-1 tvg-name="[24H] Star Wars The Bad Batch [S01]" tvg-logo="http://24horas.cc:80/images/46eff89e5460ed2103a0ba46103d451e.jpg" group-title="Canais | [24H] Outros",[24H] Star Wars The Bad Batch [S01]
+#EXTINF:-1 tvg-name="[24H] Star Wars The Bad Batch [S01]" tvg-logo="http://24horas.cc:80/images/46eff89e5460ed2103a0ba46103d451e.jpg" group-title="Canais | [24H] Series",[24H] Star Wars The Bad Batch [S01]
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/137071.ts
-#EXTINF:-1 tvg-name="[24H] Star Wars Visions [S01]" tvg-logo="http://24horas.cc:80/images/a10093759bbca1def49ccec8c6a0f405.jpg" group-title="Canais | [24H] Outros",[24H] Star Wars Visions [S01]
+#EXTINF:-1 tvg-name="[24H] Star Wars Visions [S01]" tvg-logo="http://24horas.cc:80/images/a10093759bbca1def49ccec8c6a0f405.jpg" group-title="Canais | [24H] Series",[24H] Star Wars Visions [S01]
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/137076.ts
 #EXTINF:-1 tvg-name="[24H] Supernatural [S01]" tvg-logo="http://24horas.cc:80/images/b092acc65e66b3b6b8db27a7f9b3a5bf.jpg" group-title="Canais | [24H] Series",[24H] Supernatural [S01]
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/136726.ts
@@ -674,3 +674,746 @@ http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659786
 http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/659786
 #EXTINF:-1 tvg-id="" tvg-name="BR: CULTURA HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/012/071/450/original/brazil-flag-with-grunge-texture-png.png" group-title="BRAZIL",BR: CULTURA HD
 http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659704
+
+#EXTINF:- 1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | ESPORTES",SporTV HD 
+https://cr7v.short.gy/manoitv/sptv/75991634025/index.m3u8
+
+#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | ESPORTES",SporTV HD²
+https://cr7v.short.gy/manoitv/sptvextra/75991634025/index.m3u8
+
+#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | ESPORTES",SporTV HD³
+https://cr7v.short.gy/manoitv/sptvxtra2/75991634025/index.m3u8
+
+#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | ESPORTES",SporTV FHD 
+https://cr7v.short.gy/manoitv/sptvFHD/75991634025/index.m3u8
+
+#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | ESPORTES",SporTV 4k 
+https://cr7v.short.gy/manoitv/sptv4k/75991634025/index.m3u8
+
+#EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV 2" tvg-logo="https://imgur.com/ZpjPkqS.png" group-title="Canais | ESPORTES",SporTV 2 HD
+https://super-cdn.link/sportv2/index.m3u8
+
+#EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV 2" tvg-logo="https://imgur.com/ZpjPkqS.png" group-title="Canais | ESPORTES",SporTV 2 FHD 
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/172 
+
+#EXTINF:-1 tvg-id="SporTV3" tvg-name="SporTV 3" tvg-logo="https://imgur.com/ttHpdGp.png" group-title= "Canais | ESPORTES",SporTV 3 HD
+https://super-cdn.link/sportv3/index.m3u8
+
+#EXTINF:-1 tvg-id="SporTV3" tvg-name="SporTV 3" tvg-logo="https://imgur.com/ttHpdGp.png" group-title= "Canais | ESPORTES",SporTV 3 FHD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/175
+
+############################################################################ CANAIS ESPN
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPORTES",ESPN HD 
+https://cr7v.short.gy/manoitv/spnHD/ZAP075991634025/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPORTES",ESPN HD²
+https://cr7v.short.gy/manoitv/spnHD²/Index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPORTES",ESPN HD³
+https://cr7v.short.gy/manoitv/spneHD³/Index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPORTES",ESPN FHD 
+https://cr7v.short.gy/manoitv/ESPFHD/Index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name= "ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPORTES",ESPN FHD [Alterar] 
+https://cr7v.short.gy/manoitv/ESPNFHDAL/Index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="Canais | ESPORTES",ESPN 2 HD 
+http://tv.fazoeli.co.za/m3u8/espn2.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="Canais | ESPORTES",ESPN 2 HD
+https://super-cdn.link/espn2/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo= "https://i.imgur.com/ZAHnoPh.png" group-title="Canais | ESPORTES",ESPN 2 FHD 
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/135 
+
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="Canais | ESPORTES",ESPN 2 4k 
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/129 
+
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://imgur.com/VCPTlBD.png" group-title="Canais | ESPORTES",ESPN 3 HD 
+http://tv.fazoeli.co.za/m3u8/espn3.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://imgur.com/VCPTlBD.png" group-title="Canais | ESPORTES",ESPN 3 UHD
+https://super-cdn.link/espn3/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://imgur.com/VCPTlBD.png" group-title="Canais | ESPORTES",ESPN 3 FHD 
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/126
+
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://imgur.com/VCPTlBD.png" group-title="Canais | ESPORTES",ESPN 3 4k 
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/127  
+
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://imgur.com/ErWFVO3.png" group-title="Canais | ESPORTES",ESPN 4 HD 
+http://tv.fazoeli.co.za/m3u8/espn4.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://imgur.com/ErWFVO3.png" group-title="Canais | ESPORTES",ESPN 4 HD²
+http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/143
+
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://imgur.com/ErWFVO3.png" group-title="Canais | ESPORTES",ESPN 4 HD³
+https://super-cdn.link/espn4/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://imgur.com/ErWFVO3.png" group-title="Canais | ESPORTES",ESPN FHD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/142 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="Canais | ESPORTES",ESPN 5 HD 
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/140 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" grupo-title="Canais | ESPORTES",ESPN 6 HD 
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/134
+
+############################################################################ CANAIS ESPORTES
+
+#EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="Canais | ESPORTES",Band Sports SD
+https://stream1.freetv.fun/band-sports-3.m3u8
+
+#EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="Canais | ESPORTES",Band Sports HD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/121
+
+#EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="Canais | ESPORTES",Band Sports HD²
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/120
+
+#EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="Canais | ESPORTES",Band Sports HD³
+http://tv.fazoeli.co.za/m3u8/bandsports.m3u8
+
+
+############################################################################ CANAIS LUTAS
+
+#EXTINF:-1 tvg-id="Combate HD" tvg-name="CombateHD" tvg-logo="https://imgur.com/HIiZUQN.png" group-title="Canais | ESPORTES",Combate HD
+http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/1
+
+#EXTINF:-1 tvg-id="Combate HD" tvg-name="CombateHD" tvg-logo="https://imgur.com/HIiZUQN.png" group-title="Canais | ESPORTES",Combate FHD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/123
+
+#EXTINF:-1 tvg-id="Combate HD" tvg-name="CombateHD" tvg-logo="https://imgur.com/HIiZUQN.png" group-title="Canais | ESPORTES",Combate FHD²
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/1122
+
+#EXTINF:-1 tvg-logo="https://imgur.com/AvV9rW9.png" group-title="Canais | ESPORTES",UFC Fightpass HD
+http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/134
+
+#EXTINF:-1 tvg-logo="https://imgur.com/AvV9rW9.png" group-title="Canais | ESPORTES",UFC Fightpass FHD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/1121
+
+############################################################################ CANAIS PREMIERE
+
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Canais | ESPORTES",Premiere Clubes HD
+https://cr7v.short.gy/M/Clube/Index.m3u8
+
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Canais | ESPORTES",Premiere Clubes HD²
+https://cr7v.short.gy/M/CLUBE1HD/Index.m3u8
+
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Canais | ESPORTES",Premiere Clubes HD³
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/148
+
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Canais | ESPORTES",Premiere Clubes 4k
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/1003
+
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="https://imgur.com/jcgv2zs.png" group-title="Canais | VARIEDADES",Comedy Central HD²
+http://hzcdn.vood.top:80/hls/685_.m3u8
+
+#EXTINF:-1 tvg-id="TBS HD" tvg-logo="https://imgur.com/xnGAZOr.png" group-title="Canais | VARIEDADES",TBS HD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/291
+
+#EXTINF:-1 tvg-logo="https://imgur.com/5lGDNDo.png" group-title="Canais | VARIEDADES",Canal Brasil 
+http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/175
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yGT50Kk.png" group-title="Canais | VARIEDADES",E! HD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/103
+
+#EXTINF:-1 tvg-id="Pluto TV Investigação" tvg-name="Pluto TV Investigação" tvg-logo="https://images.pluto.tv/channels/5f32cf37c9ff2b00082adbc8/colorLogoPNG.png" group-title="Canais | VARIEDADES",Pluto tv Investigação
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?advertisingId=&appName=web&appVersion=5.103.1-8fad9f5523fef57dce06179da605682c035afe99&app_name=web&clientDeviceType=0&clientID=3878c229-195a-4843-9847-d066d964e2de&clientModelNumber=1.0.0&country=BR&deviceDNT=false&deviceId=3878c229-195a-4843-9847-d066d964e2de&deviceLat=-10.4017&deviceLon=-39.0337&deviceMake=chromium-webview&deviceModel=web&deviceType=web&deviceVersion=93.0.4577&marketingRegion=BR&serverSideAds=true&sessionID=f85e9ccf-0cae-11ec-8588-0242ac110003&sid=f85e9ccf-0cae-11ec-8588-0242ac110003&userId=
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/620d12a82e8ac50007c269c3/colorLogoPNG.png" group-title="Canais | VARIEDADES",Os Arquivos do FBI
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620d12a82e8ac50007c269c3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="Pluto TV MISTÉRIOS" tvg-name="Pluto TV MISTÉRIOS" tvg-logo="https://imgur.com/NhguLFB.png" group-title="Canais | VARIEDADES",Pluto TV Mistérios
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fac52f142044f00078e2a51/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=469630a0-acb8-11eb-b9c5-c167fdadbada&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8e6159be-c98a-4ef4-89d8-635378b7761d&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1ef1a8cec6be00072a7ac9/colorLogoPNG.png" group-title="Canais | VARIEDADES",Pluto TV Documentários
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ef1a8cec6be00072a7ac9/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/61843f5e491af10007f7eefa/colorLogoPNG.png" group-title="Canais | VARIEDADES",Pluto TV Minha Obsessão Favorita
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61843f5e491af10007f7eefa/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6474aa984cfc2c0008883a92/colorLogoPNG.png" group-title="Canais | VARIEDADES",Pluto TV Animais
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6474aa984cfc2c0008883a92/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",SPACE SD
+
+
+#EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",SPACE HD
+https://super-cdn.link/space/index.m3u8
+
+#EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",SPACE FHD
+http://fzcdn.vood.top:80/hls/705_.m3u8
+
+#EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",SPACE FHD [Alter]
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/278
+
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",TNT HD
+http://super-cdn.link/tnt/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",TNT HD [Alter]
+
+
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",TNT FHD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/1004
+
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",TNT FHD [Alter]
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/313
+
+#EXTINF:-1  tvg-logo="https://imgur.com/vH2tkQt.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",TNT Séries HD
+http://zea2.top/live/Tourobox1-50vVlq5nkc/dpMB637Lg8/311.ts
+
+#EXTINF:-1  tvg-logo="https://imgur.com/vH2tkQt.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",TNT Séries HD²
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/314
+
+#EXTINF:-1  tvg-logo="https://imgur.com/vH2tkQt.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",TNT Séries HD [Alter]
+https://abrir.me/ZAMGd?ManoTV
+
+#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",Warner Channel HD
+https://super-cdn.link/warnerchannel/index.m3u8
+
+#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",Warner Channel FHD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/320
+
+#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",Warner Channel 4k
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/783
+
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://imgur.com/EYAmbe4.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",A&E SD
+https://cdn-1.nxplay.com.br/AeE_BRASIL_TK/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://imgur.com/EYAmbe4.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",A&E HD
+https://cdn-1.nxplay.com.br/AeE_BRASIL_TK/index.m3u8
+
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://imgur.com/IaxysZJ.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",AXN SD
+https://cdn-1.nxplay.com.br/AXN_TK/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://imgur.com/IaxysZJ.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",AXN HD 
+https://cdn-1.nxplay.com.br/AXN_TK/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="PARAMOUNT" tvg-name="PARAMOUNT" tvg-logo="https://imgur.com/GPcKZ2i.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",Paramount Network HD
+http://dzcdn.vood.top/live/ottplayerchannel/JFYQWKNbCUe5/695.m3u8
+
+#EXTINF:-1 tvg-id="PARAMOUNT" tvg-name="PARAMOUNT" tvg-logo="https://imgur.com/GPcKZ2i.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",Paramount Network FHD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/276
+
+#EXTINF:-1 tvg-logo="https://imgur.com/bytVf9x.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",USA Network HD
+http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/147
+
+#EXTINF:-1 tvg-logo="https://imgur.com/oj2sWRk.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",Syfy HD
+
+
+#EXTINF:-1 tvg-id="Lifetime HD" tvg-name="Lifetime HD" tvg-logo="https://i.imgur.com/lAPINbh.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",Lifetime SD
+https://cdn-1.nxplay.com.br/LIFE_TIME_TK/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/faV3eZx.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",Telecine Action HD
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/faV3eZx.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",Telecine Action HD 
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/295
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/cPTZMTo.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",Telecine Pipoca HD
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/cPTZMTo.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",Telecine Pipoca HD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/304
+
+#EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-name="TELECINE PREMIUM" tvg-logo="https://imgur.com/SGr7sdL.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",Telecine Premium HD
+https://abrir.me/CDHPY?ManoTV
+
+#EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-name="TELECINE PREMIUM" tvg-logo="https://imgur.com/SGr7sdL.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",Telecine Premium FHD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/307
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/viw732w.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",Telecine Touch HD
+http://15.235.50.113:14010/
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/viw732w.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",Telecine Touch FHD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/310
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tavo4Zl.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",Telecine Cult HD
+http://15.235.50.113:14014/
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tavo4Zl.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",Telecine Cult FHD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/298
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eo6Js8D.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",Telecine Fun HD
+https://abrir.me/iNKKX?ManoTV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eo6Js8D.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",Telecine Fun FHD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/301
+
+#EXTINF:-1 tvg-id="AMC BRASIL" tvg-name="AMC BRASIL" tvg-logo="https://imgur.com/2lr4rvX.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",AMC HD
+https://abrir.me/wjCTK?ManoTV
+
+#EXTINF:-1 tvg-id="AMC BRASIL" tvg-name="AMC BRASIL" tvg-logo="https://imgur.com/2lr4rvX.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",AMC HD [Alter]
+http://dzcdn.vood.top/live/ottplayerchannel/JFYQWKNbCUe5/669.m3u8
+
+#EXTINF:-1 tvg-id="AMC BRASIL" tvg-name="AMC BRASIL" tvg-logo="https://imgur.com/2lr4rvX.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",AMC FHD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/229
+
+#EXTINF:-1 tvg-id="STAR CHANNEL" tvg-name="STAR CHANNEL" tvg-logo="https://imgur.com/TCrKgcu.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",STAR CHANNEL HD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/282
+
+#EXTINF:-1 tvg-id="STAR CHANNEL" tvg-name="STAR CHANNEL" tvg-logo="https://imgur.com/TCrKgcu.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",STAR CHANNEL HDR
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/281
+
+#EXTINF:-1 tvg-id="STAR CHANNEL" tvg-name="STAR CHANNEL" tvg-logo="https://imgur.com/TCrKgcu.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",STAR CHANNEL FHD
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/18X62CK.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",Sony Channel HD
+https://cdn-1.nxplay.com.br/SONY_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/18X62CK.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",Sony Channel FHD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/238
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Bv0MLFU.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",Sony Movies HD
+https://cdn-3.nxplay.com.br/SONY_MOVIES/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/szGH75G.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",FX FHD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/244
+
+#EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://imgur.com/v3a4Afr.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",CINEMAX HD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/240
+
+#EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://imgur.com/v3a4Afr.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",CINEMAX FHD
+http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/43
+
+#EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX" tvg-logo="https://imgur.com/H03jUu1.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",MEGAPIX HD
+
+
+#EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX" tvg-logo="https://imgur.com/H03jUu1.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",MEGAPIX HD [Alter]
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/998
+
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",HBO HD
+https://abrir.me/bAGcS?ManoTV
+
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",HBO FHD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/251
+
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",HBO FHD [Alter]
+http://authxplus-2.xyz:2082/live/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/255.m3u8
+
+#EXTINF:-1 tvg-id="HBO+" tvg-name="HBO+" tvg-logo="https://imgur.com/VGBP9wj.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",HBO+ HD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/245
+
+#EXTINF:-1 tvg-id="HBO+" tvg-name="HBO+" tvg-logo="https://imgur.com/VGBP9wj.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",HBO+ FHD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/246
+
+#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2" tvg-logo="https://imgur.com/smM7mYc.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",HBO 2 FHD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/248
+
+#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://imgur.com/OzINH3M.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",HBO SIGNATURE HD
+
+
+#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://imgur.com/OzINH3M.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",HBO SIGNATURE FHD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/262
+
+#EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://imgur.com/2dINPFY.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",HBO Family FHD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/253
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mkxd6PK.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",HBO Xtreme FHD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/267
+
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="https://imgur.com/mMLZhgP.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",Studio Universal HD
+http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/157
+
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="https://imgur.com/mMLZhgP.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",Studio Universal FHD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/289
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VwFjFMO.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",Universal Channel HD
+https://abrir.me/gncXj?ManoTV
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VwFjFMO.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",Universal Channel HD [Alter]
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/319
+
+#EXTINF:-1 tvg-name="Disney Channel" tvg-logo="https://imgur.com/20h0JkN.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",Disney Channel HD
+http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/3
+
+#EXTINF:-1 tvg-name="Disney Channel" tvg-logo="https://imgur.com/20h0JkN.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",Disney Channel HD [Alter]
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/352
+
+#EXTINF:-1 tvg-name="Disney Channel" tvg-logo="https://imgur.com/20h0JkN.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",Disney Channel FHD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/351
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/c66e37_a7fc789f6df244b09d8e33fcbb22b2bc~mv2.png/v1/fill/w_86,h_84,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/c66e37_a7fc789f6df244b09d8e33fcbb22b2bc~mv2.png" group-title="Canais | FILMES E SERIES",Tela Brasil TV
+https://stmv3.webtvninjas.com.br/mailson6054/mailson6054/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yrzQyEu.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",Cine Brasil HD
+https://cdn-2.nxplay.com.br/Cinebrasil/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://imgur.com/9lqxeLR.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",Dark Matter
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_darkmatter_002.m3u8
+
+#EXTINF:-1  tvg-logo="https://imgur.com/f35UF5q.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",MyTime Movies
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://imgur.com/92rUCKL.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",MOVIE SPHERE
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://imgur.com/CsC9aG5.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",SONY ONE EMOCOES
+https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://imgur.com/9xo2bJt.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",Sony One Classics
+https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Rrc1oee.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",Bora Filmes
+http://cdn.connectbr.com.br/Bora_Filmes/tracks-v1a1/mono.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dpat1CH.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",Cine Monde
+https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N4W3VoB.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",EuropaPlay Nacional 
+https://cdn-2.nxplay.com.br/europaplay/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/x13Zoz1.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",Dark Flix
+https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://imgur.com/IFcA4UO.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",TV NOVA PLAY
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8?ManoTV
+
+#EXTINF:-1  tvg-logo="https://imgur.com/u8XN65I.png" group-title="Canais | FILMES E SERIES 2 OPÇÃO",CHANNEL ONE 
+https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoPNG.png" group-title="Canais | SÉRIES",NCIS
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9fdda995710008991c54/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63eb9c5351f5d000085e8d7e/colorLogoPNG.png" group-title="Canais | SÉRIES",CSI: Miami
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9c5351f5d000085e8d7e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/624b1c8d4321e200073ee421/colorLogoPNG.png" group-title="Canais | ANIMES & GEEK"",One Piece
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/624b1c8d4321e200073ee421/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f6df5a173d7340007c559f7/colorLogoPNG.png" group-title="Canais | ANIMES & GEEK"",Naruto
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64c92f965580090008084968/colorLogoPNG.png" group-title="Canais | ANIMES & GEEK"",Naruto Shippuden
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64c92f965580090008084968/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/656f389c3944b60008e5bdab/colorLogoPNG.png" group-title="Canais | ANIMES & GEEK"",Boruto: Naruto Next Generations
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/656f389c3944b60008e5bdab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65d9167818036500080e8780/colorLogoPNG.png" group-title="Canais | ANIMES & GEEK"",Hunter x Hunter
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65d9167818036500080e8780/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/646663b01593940008990a57/colorLogoPNG.png" group-title="Canais | ANIMES & GEEK"",Captain Tsubasa
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/646663b01593940008990a57/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/633dc392e0282400071b0d39/colorLogoPNG.png" group-title="Canais | ANIMES & GEEK"",Beyblade
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/633dc392e0282400071b0d39/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Athwean.png" group-title="Canais | ANIMES & GEEK"",Tokusato
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff609de50ab210008025c1b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=967d46f0-96bd-11eb-b493-ab25b5b88dc0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e8619d5a-ac5a-4804-8d5e-84812ad7686b&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/625464a945b6a200079257d1/solidLogoPNG.png" group-title="Canais | ANIMES & GEEK"",Death Note
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/625464a945b6a200079257d1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C5nMqAf.png" group-title="Canais | ANIMES & GEEK"",WORDING TV
+https://tv02.zas.media:1936/wordingtv/wordingtv/chunklist_w1264551258.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/62d969fd8451a30007f0fd94/colorLogoPNG.png" group-title="Canais | INFANTIL",Cocoricó
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d969fd8451a30007f0fd94/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/62545c0b002f4b0007688b61/colorLogoPNG.png" group-title="Canais | INFANTIL",Bob Esponja Calça Quadrada
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62545c0b002f4b0007688b61/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="Nick Teen" tvg-logo="https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/colorLogoPNG.png" group-title="Canais | INFANTIL",Nick Teen
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60f5fabf0721880007cd50e3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c1c56030-1b34-11ec-b13b-f726df667295&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f7b86a23-4b64-4f9c-9c4c-bedb3edcc1b1&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12141b146d760007934ea7/colorLogoPNG.png" group-title="Canais | INFANTIL",Pluto TV Junior
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12141b146d760007934ea7/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-id="O Reino Infantil" tvg-logo="https://imgur.com/ElG7z3z.png" group-title="Canais | INFANTIL",O Reino Infantil
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5c216df68f920007888315/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a5765170-77db-11eb-bfcd-e755c619a901&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b976462f-c9ea-4e8b-bbf6-df21635438ff&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1214a637c6fd00079c652f/colorLogoPNG.png" group-title="Canais | INFANTIL",Pluto TV Kids
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-logo="https://imgur.com/vYFZ98f.png" group-title="Canais | INFANTIL",Nickelodeon HD
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/vYFZ98f.png" group-title="Canais | INFANTIL",Nickelodeon FHD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/768
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f121460b73ac6000719fbaf/colorLogoPNG.png" group-title="Canais | INFANTIL",Nick Jr. Club
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=706&deviceId=5f121460b73ac6000719fbaf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f997e44949bc70007a6941e/colorLogoPNG.png" group-title="Canais | INFANTIL",Turma da Mônica
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12151794c1800007a8ae63/colorLogoPNG.png" group-title="Canais | INFANTIL",NICK CLÁSSICO
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12141b146d760007934ea7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://images.pluto.tv/channels/63221e41af69b500076f84e7/colorLogoPNG.png" group-title="Canais | INFANTIL",Os Padrinhos Mágicos
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63221e41af69b500076f84e7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://images.pluto.tv/channels/6202a7fcfb1b100008811f54/colorLogoPNG.png" group-title="Canais | INFANTIL",Nickelodeon Rocket Power
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6202a7fcfb1b100008811f54/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/63da6bcd60bc8f0008a5d364/colorLogoPNG.png" group-title="Canais | INFANTIL",Baby Shark
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63da6bcd60bc8f0008a5d364/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/63dd5c904e83e700088fb68a/colorLogoPNG.png" group-title="Canais | INFANTIL",AS Tartarugas Ninja
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63dd5c904e83e700088fb68a/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/63eba189c111bc0008ff59c5/colorLogoPNG.png" group-title="Canais | INFANTIL",Moranguinho
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eba189c111bc0008ff59c5/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-logo="https://imgur.com/t5RZzN7.png" group-title="Canais | INFANTIL",TELETUBBIES
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64e50055286f6b000838c067/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://imgur.com/q7Jadd8.png" group-title="Canais | INFANTIL",PAW Patrol Patrulha Canina
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6495c7ad115d060008bf6df0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NICKJR.png" group-title="Canais | INFANTIL",Nick jr. HD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/364
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NICKJR.png" group-title="Canais | INFANTIL",Nick jr. HD
+https://stream1.freetv.fun/nick-jr-19.ctv
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/dlTmblr.png" group-title="Canais | INFANTIL",Cartoon Network HD
+https://cdn-3.nxplay.com.br/CARTOON_NETWORK_TK/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/cEE3Bv1.png" group-title="Canais | INFANTIL",CARTOONITO HD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/345
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/cEE3Bv1.png" group-title="Canais | INFANTIL",CARTOONITO FHD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/344
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/YX13GV0.png" group-title="Canais | INFANTIL",Baby TV HD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/342
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/YX13GV0.png" group-title="Canais | INFANTIL",Baby TV FHD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/767
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/OISSYsj.png" group-title="Canais | INFANTIL",TRU TV
+http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/148
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/9X7XBlD.png" group-title="Canais | INFANTIL",Fox Kids
+https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TRu90uI.png" group-title="Canais | INFANTIL",Tooncast HD
+https://cdn-1.nxplay.com.br/TOONCAST_TK/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TRu90uI.png" group-title="Canais | INFANTIL",Tooncast HD
+http://xciptv.8888play.one:80/228463308/r576049x/367331
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TRu90uI.png" group-title="Canais | INFANTIL",Tooncast HD [Alter]
+http://xciptv.8888play.one:80/228463308/r576049x/367331
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TRu90uI.png" group-title="Canais | INFANTIL",Tooncast FHD
+http://xciptv.8888play.one:80/228463308/r576049x/367330
+
+#EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-logo="https://imgur.com/WxKCkhL.png" group-title="Canais | INFANTIL",DISCOVERY KIDS HD
+https://cdn-1.nxplay.com.br/DISCOVERY_KIDS_NX/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/WHmHmUH.png" group-title="Canais | INFANTIL",Zoomoo HD
+https://cdn-1.nxplay.com.br/ZOOMOO_HD_NX_TK/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://nxplay-images.comets.com.br/resize/65ba3aa6b33fa_e87fab2ab503a0032691e607098fb9e8.png" group-title="Canais | INFANTIL",Léo e Lully
+https://cdn-5.nxplay.com.br/LEO_E_LULLY/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/x33MwPN.png" group-title="Canais | INFANTIL",RETRO CARTOON
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BmmsPO8.png" group-title="Canais | INFANTIL",TVZYN
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5w3mfvzg9saoi/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/oBo-NVXMmfaCLcjiWM2G8mIxFw-LIEck0w_RAZ5Ciawsi-7duneoEQ3qcmR4R6jAkVPaxOrqig" group-title="Canais | INFANTIL",A Casa Mágica da Gabby YT
+https://ythls.armelin.one/channel/UC4bG4HsFDLpm1qTPDqZFRgA.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/MdTw4GF.png" group-title="Canais | INFANTIL",Talking Tom & Amigos YT
+https://ythls.armelin.one/channel/UCY9xIaF8CIdS23e0W6nHAmg.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/hrBA4dU.png" group-title="Canais | INFANTIL",Universo Kids
+https://srv3.zcast.com.br/universo3/universo3/playlist_w554522056.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zDbdnwu.png" group-title="Canais | INFANTIL", DREAM WORKS
+https://cdn-1.nxplay.com.br/DREAMWORKS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NQG19uf.png" group-title="Canais | INFANTIL",DCPC Infantil 
+https://cdn-1.nxplay.com.br/dcpc/index.m3u8
+
+#EXTINF:-1 tvg-id="BR - Animal Planet" tvg-name="ANIMAL PLANET [FHD]" tvg-logo="http://p6.vc/AKY" group-title="Canais | Documentários",ANIMAL PLANET [FHD]
+http://pfsv.io:80/6705646555/60670/164.ts
+#EXTINF:-1 tvg-id="BR - Animal Planet" tvg-name="ANIMAL PLANET [FHD][H265]" tvg-logo="http://p6.vc/WHO" group-title="Canais | Documentários",ANIMAL PLANET [FHD][H265]
+http://pfsv.io:80/6705646555/60670/30248.ts
+#EXTINF:-1 tvg-id="BR - Animal Planet" tvg-name="ANIMAL PLANET [HD]" tvg-logo="http://p6.vc/ALM" group-title="Canais | Documentários",ANIMAL PLANET [HD]
+http://pfsv.io:80/6705646555/60670/179.ts
+#EXTINF:-1 tvg-id="BR - Animal Planet" tvg-name="ANIMAL PLANET [SD]" tvg-logo="http://p6.vc/AMA" group-title="Canais | Documentários",ANIMAL PLANET [SD]
+http://pfsv.io:80/6705646555/60670/194.ts
+#EXTINF:-1 tvg-id="BR - Arte 1" tvg-name="ARTE 1 [FHD]" tvg-logo="http://p6.vc/AKZ" group-title="Canais | Documentários",ARTE 1 [FHD]
+http://pfsv.io:80/6705646555/60670/165.ts
+#EXTINF:-1 tvg-id="BR - Arte 1" tvg-name="ARTE 1 [FHD][H265]" tvg-logo="http://p6.vc/WHP" group-title="Canais | Documentários",ARTE 1 [FHD][H265]
+http://pfsv.io:80/6705646555/60670/30249.ts
+#EXTINF:-1 tvg-id="BR - Arte 1" tvg-name="ARTE 1 [HD]" tvg-logo="http://p6.vc/ALN" group-title="Canais | Documentários",ARTE 1 [HD]
+http://pfsv.io:80/6705646555/60670/180.ts
+#EXTINF:-1 tvg-id="BR - Arte 1" tvg-name="ARTE 1 [SD]" tvg-logo="http://p6.vc/AMB" group-title="Canais | Documentários",ARTE 1 [SD]
+http://pfsv.io:80/6705646555/60670/195.ts
+#EXTINF:-1 tvg-id="BR - Discovery Science" tvg-name="DISCOVERY SCIENCE [FHD]" tvg-logo="http://p6.vc/WJU" group-title="Canais | Documentários",DISCOVERY SCIENCE [FHD]
+http://pfsv.io:80/6705646555/60670/169.ts
+#EXTINF:-1 tvg-id="BR - Discovery Science" tvg-name="DISCOVERY SCIENCE [FHD][H265]" tvg-logo="http://p6.vc/WJU" group-title="Canais | Documentários",DISCOVERY SCIENCE [FHD][H265]
+http://pfsv.io:80/6705646555/60670/30255.ts
+#EXTINF:-1 tvg-id="BR - Discovery Science" tvg-name="DISCOVERY SCIENCE [HD]" tvg-logo="http://p6.vc/WJU" group-title="Canais | Documentários",DISCOVERY SCIENCE [HD]
+http://pfsv.io:80/6705646555/60670/184.ts
+#EXTINF:-1 tvg-id="BR - Discovery Science" tvg-name="DISCOVERY SCIENCE [SD]" tvg-logo="http://p6.vc/WJU" group-title="Canais | Documentários",DISCOVERY SCIENCE [SD]
+http://pfsv.io:80/6705646555/60670/199.ts
+#EXTINF:-1 tvg-id="São Paulo/SP  Canal do Boi" tvg-name="DISCOVERY THEATER [FHD]" tvg-logo="http://p6.vc/ALE" group-title="Canais | Documentários",DISCOVERY THEATER [FHD]
+http://pfsv.io:80/6705646555/60670/170.ts
+#EXTINF:-1 tvg-id="BR - Discovery HD Theater" tvg-name="DISCOVERY THEATER [FHD][H265]" tvg-logo="http://p6.vc/WHR" group-title="Canais | Documentários",DISCOVERY THEATER [FHD][H265]
+http://pfsv.io:80/6705646555/60670/30256.ts
+#EXTINF:-1 tvg-id="São Paulo/SP  Canal do Boi" tvg-name="DISCOVERY THEATER [HD]" tvg-logo="http://p6.vc/ALR" group-title="Canais | Documentários",DISCOVERY THEATER [HD]
+http://pfsv.io:80/6705646555/60670/185.ts
+#EXTINF:-1 tvg-id="São Paulo/SP  Canal do Boi" tvg-name="DISCOVERY THEATER [SD]" tvg-logo="http://p6.vc/AMF" group-title="Canais | Documentários",DISCOVERY THEATER [SD]
+http://pfsv.io:80/6705646555/60670/200.ts
+#EXTINF:-1 tvg-id="São Paulo/SP  Canal do Boi" tvg-name="Discovery Turbo [4K]" tvg-logo="http://p6.vc/WJV" group-title="Canais | 4K",Discovery Turbo [4K]
+http://pfsv.io:80/6705646555/60670/50869.ts
+#EXTINF:-1 tvg-id="BR - Discovery Turbo" tvg-name="DISCOVERY TURBO [FHD]" tvg-logo="http://p6.vc/WJV" group-title="Canais | Documentários",DISCOVERY TURBO [FHD]
+http://pfsv.io:80/6705646555/60670/171.ts
+#EXTINF:-1 tvg-id="BR - Discovery Turbo" tvg-name="DISCOVERY TURBO [FHD][H265]" tvg-logo="http://p6.vc/WJV" group-title="Canais | Documentários",DISCOVERY TURBO [FHD][H265]
+http://pfsv.io:80/6705646555/60670/30257.ts
+#EXTINF:-1 tvg-id="BR - Discovery Turbo" tvg-name="DISCOVERY TURBO [HD]" tvg-logo="http://p6.vc/WJV" group-title="Canais | Documentários",DISCOVERY TURBO [HD]
+http://pfsv.io:80/6705646555/60670/186.ts
+#EXTINF:-1 tvg-id="BR - Discovery Turbo" tvg-name="DISCOVERY TURBO [SD]" tvg-logo="http://p6.vc/WJV" group-title="Canais | Documentários",DISCOVERY TURBO [SD]
+http://pfsv.io:80/6705646555/60670/201.ts
+#EXTINF:-1 tvg-id="BR - DISCOVERY WORLD" tvg-name="DISCOVERY WORLD [FHD]" tvg-logo="http://p6.vc/ALG" group-title="Canais | Documentários",DISCOVERY WORLD [FHD]
+http://pfsv.io:80/6705646555/60670/172.ts
+#EXTINF:-1 tvg-id="BR - DISCOVERY WORLD" tvg-name="DISCOVERY WORLD [FHD][H265]" tvg-logo="http://p6.vc/VYW" group-title="Canais | Documentários",DISCOVERY WORLD [FHD][H265]
+http://pfsv.io:80/6705646555/60670/30258.ts
+#EXTINF:-1 tvg-id="BR - DISCOVERY WORLD" tvg-name="DISCOVERY WORLD [HD]" tvg-logo="http://p6.vc/ALT" group-title="Canais | Documentários",DISCOVERY WORLD [HD]
+http://pfsv.io:80/6705646555/60670/187.ts
+#EXTINF:-1 tvg-id="BR - DISCOVERY WORLD" tvg-name="DISCOVERY WORLD [SD]" tvg-logo="http://p6.vc/AMH" group-title="Canais | Documentários",DISCOVERY WORLD [SD]
+http://pfsv.io:80/6705646555/60670/202.ts
+#EXTINF:-1 tvg-id="History 2" tvg-name="HISTORY CHANNEL 2 [FHD]" tvg-logo="http://p6.vc/ALH" group-title="Canais | Documentários",HISTORY CHANNEL 2 [FHD]
+http://pfsv.io:80/6705646555/60670/173.ts
+#EXTINF:-1 tvg-id="History 2" tvg-name="HISTORY CHANNEL 2 [HD]" tvg-logo="http://p6.vc/ALU" group-title="Canais | Documentários",HISTORY CHANNEL 2 [HD]
+http://pfsv.io:80/6705646555/60670/188.ts
+#EXTINF:-1 tvg-id="History 2" tvg-name="HISTORY CHANNEL 2 [SD]" tvg-logo="http://p6.vc/AMI" group-title="Canais | Documentários",HISTORY CHANNEL 2 [SD]
+http://pfsv.io:80/6705646555/60670/203.ts
+#EXTINF:-1 tvg-id="BR - History Channel" tvg-name="HISTORY CHANNEL [FHD]" tvg-logo="http://p6.vc/WJS" group-title="Canais | Documentários",HISTORY CHANNEL [FHD]
+http://pfsv.io:80/6705646555/60670/174.ts
+#EXTINF:-1 tvg-id="BR - History Channel" tvg-name="HISTORY CHANNEL [FHD][H265]" tvg-logo="http://p6.vc/WJS" group-title="Canais | Documentários",HISTORY CHANNEL [FHD][H265]
+http://pfsv.io:80/6705646555/60670/30250.ts
+#EXTINF:-1 tvg-id="BR - History Channel" tvg-name="HISTORY CHANNEL [HD]" tvg-logo="http://p6.vc/WJS" group-title="Canais | Documentários",HISTORY CHANNEL [HD]
+http://pfsv.io:80/6705646555/60670/189.ts
+#EXTINF:-1 tvg-id="BR - History Channel" tvg-name="HISTORY CHANNEL [SD]" tvg-logo="http://p6.vc/WJS" group-title="Canais | Documentários",HISTORY CHANNEL [SD]
+http://pfsv.io:80/6705646555/60670/204.ts
+#EXTINF:-1 tvg-id="ID.HD.br" tvg-name="INVESTIGACAO DISCOVERY CHANNEL [FHD][H265]" tvg-logo="http://p6.vc/WJW" group-title="Canais | Documentários",INVESTIGACAO DISCOVERY CHANNEL [FHD][H265]
+http://pfsv.io:80/6705646555/60670/30259.ts
+#EXTINF:-1 tvg-id="ID.HD.br" tvg-name="INVESTIGACAO DISCOVERY [FHD]" tvg-logo="http://p6.vc/WJJ" group-title="Canais | Documentários",INVESTIGACAO DISCOVERY [FHD]
+http://pfsv.io:80/6705646555/60670/175.ts
+#EXTINF:-1 tvg-id="ID.HD.br" tvg-name="INVESTIGACAO DISCOVERY [HD]" tvg-logo="http://p6.vc/WJW" group-title="Canais | Documentários",INVESTIGACAO DISCOVERY [HD]
+http://pfsv.io:80/6705646555/60670/190.ts
+#EXTINF:-1 tvg-id="ID.HD.br" tvg-name="INVESTIGACAO DISCOVERY [SD]" tvg-logo="http://p6.vc/WJW" group-title="Canais | Documentários",INVESTIGACAO DISCOVERY [SD]
+http://pfsv.io:80/6705646555/60670/205.ts
+#EXTINF:-1 tvg-id="HGTV HD" tvg-name="HGTV [FHD]" tvg-logo="http://p6.vc/ALB" group-title="Canais | Documentários",HGTV [FHD]
+http://pfsv.io:80/6705646555/60670/167.ts
+#EXTINF:-1 tvg-id="HGTV HD" tvg-name="HGTV [FHD][H265]" tvg-logo="http://p6.vc/WJT" group-title="Canais | Documentários",HGTV [FHD][H265]
+http://pfsv.io:80/6705646555/60670/30253.ts
+#EXTINF:-1 tvg-id="HGTV HD" tvg-name="HGTV [HD]" tvg-logo="http://p6.vc/ALP" group-title="Canais | Documentários",HGTV [HD]
+http://pfsv.io:80/6705646555/60670/182.ts
+#EXTINF:-1 tvg-id="HGTV HD" tvg-name="HGTV [SD]" tvg-logo="http://p6.vc/AMC" group-title="Canais | Documentários",HGTV [SD]
+http://pfsv.io:80/6705646555/60670/197.ts
+#EXTINF:-1 tvg-id="BR - National Geographic" tvg-name="NATIONAL GEOGRAPHIC [FHD]" tvg-logo="http://p6.vc/ALJ" group-title="Canais | Documentários",NATIONAL GEOGRAPHIC [FHD]
+http://pfsv.io:80/6705646555/60670/176.ts
+#EXTINF:-1 tvg-id="BR - National Geographic" tvg-name="NATIONAL GEOGRAPHIC [FHD][H265]" tvg-logo="http://p6.vc/WHQ" group-title="Canais | Documentários",NATIONAL GEOGRAPHIC [FHD][H265]
+http://pfsv.io:80/6705646555/60670/30251.ts
+#EXTINF:-1 tvg-id="BR - National Geographic" tvg-name="NATIONAL GEOGRAPHIC [HD]" tvg-logo="http://p6.vc/ALX" group-title="Canais | Documentários",NATIONAL GEOGRAPHIC [HD]
+http://pfsv.io:80/6705646555/60670/191.ts
+#EXTINF:-1 tvg-id="BR - National Geographic" tvg-name="NATIONAL GEOGRAPHIC [SD]" tvg-logo="http://p6.vc/AML" group-title="Canais | Documentários",NATIONAL GEOGRAPHIC [SD]
+http://pfsv.io:80/6705646555/60670/206.ts
+#EXTINF:-1 tvg-id="BR - HBO 2" tvg-name="HBO 2 [FHD]" tvg-logo="http://p6.vc/AVK" group-title="Canais | HBO",HBO 2 [FHD]
+http://pfsv.io:80/6705646555/60670/470.ts
+#EXTINF:-1 tvg-id="BR - HBO 2" tvg-name="HBO 2 [FHD][H265]" tvg-logo="http://p6.vc/VSK" group-title="Canais | HBO",HBO 2 [FHD][H265]
+http://pfsv.io:80/6705646555/60670/30234.ts
+#EXTINF:-1 tvg-id="BR - HBO 2" tvg-name="HBO 2 [HD]" tvg-logo="http://p6.vc/AVM" group-title="Canais | HBO",HBO 2 [HD]
+http://pfsv.io:80/6705646555/60670/472.ts
+#EXTINF:-1 tvg-id="BR - HBO 2" tvg-name="HBO 2 [SD]" tvg-logo="http://p6.vc/VSE" group-title="Canais | HBO",HBO 2 [SD]
+http://pfsv.io:80/6705646555/60670/481.ts
+#EXTINF:-1 tvg-id="BR - HBO Family HD" tvg-name="HBO FAMILY [FHD]" tvg-logo="http://p6.vc/AVE" group-title="Canais | HBO",HBO FAMILY [FHD]
+http://pfsv.io:80/6705646555/60670/464.ts
+#EXTINF:-1 tvg-id="BR - HBO Family HD" tvg-name="HBO FAMILY [FHD][H265]" tvg-logo="http://p6.vc/VSL" group-title="Canais | HBO",HBO FAMILY [FHD][H265]
+http://pfsv.io:80/6705646555/60670/30235.ts
+#EXTINF:-1 tvg-id="BR - HBO Family HD" tvg-name="HBO FAMILY [HD]" tvg-logo="http://p6.vc/VSD" group-title="Canais | HBO",HBO FAMILY [HD]
+http://pfsv.io:80/6705646555/60670/473.ts
+#EXTINF:-1 tvg-id="BR - HBO Family HD" tvg-name="HBO FAMILY [SD]" tvg-logo="http://p6.vc/AVV" group-title="Canais | HBO",HBO FAMILY [SD]
+http://pfsv.io:80/6705646555/60670/483.ts
+#EXTINF:-1 tvg-id="HBO.Mundi.HD.br" tvg-name="HBO MUNDI [FHD]" tvg-logo="http://p6.vc/AVH" group-title="Canais | HBO",HBO MUNDI [FHD]
+http://pfsv.io:80/6705646555/60670/467.ts
+#EXTINF:-1 tvg-id="HBO Mundi HD" tvg-name="HBO MUNDI [FHD] LEG" tvg-logo="http://p6.vc/VWN" group-title="Canais | Legendados",HBO MUNDI [FHD] LEG
+http://pfsv.io:80/6705646555/60670/123557.ts
+#EXTINF:-1 tvg-id="HBO.Mundi.HD.br" tvg-name="HBO MUNDI [FHD][H265]" tvg-logo="http://p6.vc/VSP" group-title="Canais | HBO",HBO MUNDI [FHD][H265]
+http://pfsv.io:80/6705646555/60670/30239.ts
+#EXTINF:-1 tvg-id="HBO.Mundi.HD.br" tvg-name="HBO MUNDI [HD]" tvg-logo="http://p6.vc/AVQ" group-title="Canais | HBO",HBO MUNDI [HD]
+http://pfsv.io:80/6705646555/60670/477.ts
+#EXTINF:-1 tvg-id="HBO Mundi HD" tvg-name="HBO MUNDI [HD] LEG" tvg-logo="http://p6.vc/VWO" group-title="Canais | Legendados",HBO MUNDI [HD] LEG
+http://pfsv.io:80/6705646555/60670/123558.ts
+#EXTINF:-1 tvg-id="HBO.Mundi.HD.br" tvg-name="HBO MUNDI [SD]" tvg-logo="http://p6.vc/AVX" group-title="Canais | HBO",HBO MUNDI [SD]
+http://pfsv.io:80/6705646555/60670/485.ts
+#EXTINF:-1 tvg-id="BR - HBO Plus" tvg-name="HBO PLUS [FHD]" tvg-logo="http://p6.vc/AVF" group-title="Canais | HBO",HBO PLUS [FHD]
+http://pfsv.io:80/6705646555/60670/465.ts
+#EXTINF:-1 tvg-id="HBO Plus HD" tvg-name="HBO PLUS [FHD] LEG" tvg-logo="http://p6.vc/VVS" group-title="Canais | Legendados",HBO PLUS [FHD] LEG
+http://pfsv.io:80/6705646555/60670/123491.ts
+#EXTINF:-1 tvg-id="BR - HBO Plus" tvg-name="HBO PLUS [FHD][H265]" tvg-logo="http://p6.vc/VSN" group-title="Canais | HBO",HBO PLUS [FHD][H265]
+http://pfsv.io:80/6705646555/60670/30237.ts
+#EXTINF:-1 tvg-id="BR - HBO Plus" tvg-name="HBO PLUS [HD]" tvg-logo="http://p6.vc/AVO" group-title="Canais | HBO",HBO PLUS [HD]
+http://pfsv.io:80/6705646555/60670/475.ts
+#EXTINF:-1 tvg-id="HBO Plus HD" tvg-name="HBO PLUS [HD] LEG" tvg-logo="http://p6.vc/VVQ" group-title="Canais | Legendados",HBO PLUS [HD] LEG
+http://pfsv.io:80/6705646555/60670/123489.ts
+#EXTINF:-1 tvg-id="BR - HBO Plus" tvg-name="HBO PLUS [SD]" tvg-logo="http://p6.vc/AVU" group-title="Canais | HBO",HBO PLUS [SD]
+http://pfsv.io:80/6705646555/60670/482.ts
+#EXTINF:-1 tvg-id="HBO Plus HD" tvg-name="HBO PLUS [SD] LEG" tvg-logo="http://p6.vc/VVR" group-title="Canais | Legendados",HBO PLUS [SD] LEG
+http://pfsv.io:80/6705646555/60670/123490.ts
+#EXTINF:-1 tvg-id="HBO.Pop.HD.br" tvg-name="HBO POP [FHD]" tvg-logo="http://p6.vc/AVJ" group-title="Canais | HBO",HBO POP [FHD]
+http://pfsv.io:80/6705646555/60670/469.ts
+#EXTINF:-1 tvg-id="HBO Pop HD" tvg-name="HBO POP [FHD] LEG" tvg-logo="http://p6.vc/WIS" group-title="Canais | Legendados",HBO POP [FHD] LEG
+http://pfsv.io:80/6705646555/60670/123554.ts
+#EXTINF:-1 tvg-id="HBO.Pop.HD.br" tvg-name="HBO POP [FHD][H265]" tvg-logo="http://p6.vc/WHN" group-title="Canais | HBO",HBO POP [FHD][H265]
+http://pfsv.io:80/6705646555/60670/30241.ts
+#EXTINF:-1 tvg-id="HBO.Pop.HD.br" tvg-name="HBO POP [HD]" tvg-logo="http://p6.vc/AVS" group-title="Canais | HBO",HBO POP [HD]
+http://pfsv.io:80/6705646555/60670/479.ts
+#EXTINF:-1 tvg-id="HBO Pop HD" tvg-name="HBO POP [HD] LEG" tvg-logo="http://p6.vc/WIJ" group-title="Canais | Legendados",HBO POP [HD] LEG
+http://pfsv.io:80/6705646555/60670/123508.ts
+#EXTINF:-1 tvg-id="HBO.Pop.HD.br" tvg-name="HBO POP [SD]" tvg-logo="http://p6.vc/AVZ" group-title="Canais | HBO",HBO POP [SD]
+http://pfsv.io:80/6705646555/60670/487.ts
+#EXTINF:-1 tvg-id="HBO Pop HD" tvg-name="HBO POP [SD] LEG" tvg-logo="http://p6.vc/WIK" group-title="Canais | Legendados",HBO POP [SD] LEG
+http://pfsv.io:80/6705646555/60670/123509.ts
+#EXTINF:-1 tvg-id="BR - HBO Signature" tvg-name="HBO SIGNATURE [FHD]" tvg-logo="http://p6.vc/AVG" group-title="Canais | HBO",HBO SIGNATURE [FHD]
+http://pfsv.io:80/6705646555/60670/466.ts
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-name="HBO SIGNATURE [FHD] LEG" tvg-logo="http://p6.vc/VWL" group-title="Canais | Legendados",HBO SIGNATURE [FHD] LEG
+http://pfsv.io:80/6705646555/60670/123555.ts
+#EXTINF:-1 tvg-id="BR - HBO Signature" tvg-name="HBO SIGNATURE [FHD][H265]" tvg-logo="http://p6.vc/VSO" group-title="Canais | HBO",HBO SIGNATURE [FHD][H265]
+http://pfsv.io:80/6705646555/60670/30238.ts
+#EXTINF:-1 tvg-id="BR - HBO Signature" tvg-name="HBO SIGNATURE [HD]" tvg-logo="http://p6.vc/AVP" group-title="Canais | HBO",HBO SIGNATURE [HD]
+http://pfsv.io:80/6705646555/60670/476.ts
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-name="HBO SIGNATURE [HD] LEG" tvg-logo="http://p6.vc/VWM" group-title="Canais | Legendados",HBO SIGNATURE [HD] LEG
+http://pfsv.io:80/6705646555/60670/123556.ts
+#EXTINF:-1 tvg-id="BR - HBO Signature" tvg-name="HBO SIGNATURE [SD]" tvg-logo="http://p6.vc/AVW" group-title="Canais | HBO",HBO SIGNATURE [SD]
+http://pfsv.io:80/6705646555/60670/484.ts
+#EXTINF:-1 tvg-id="HBO.Xtreme.HD.br" tvg-name="HBO XTREME [FHD]" tvg-logo="http://p6.vc/AVI" group-title="Canais | HBO",HBO XTREME [FHD]
+http://pfsv.io:80/6705646555/60670/468.ts
+#EXTINF:-1 tvg-id="HBO Xtreme HD" tvg-name="HBO XTREME [FHD] LEG" tvg-logo="http://p6.vc/WIT" group-title="Canais | Legendados",HBO XTREME [FHD] LEG
+http://pfsv.io:80/6705646555/60670/123559.ts
+#EXTINF:-1 tvg-id="HBO.Xtreme.HD.br" tvg-name="HBO XTREME [FHD][H265]" tvg-logo="http://p6.vc/WHM" group-title="Canais | HBO",HBO XTREME [FHD][H265]
+http://pfsv.io:80/6705646555/60670/30240.ts
+#EXTINF:-1 tvg-id="HBO.Xtreme.HD.br" tvg-name="HBO XTREME [HD]" tvg-logo="http://p6.vc/AVR" group-title="Canais | HBO",HBO XTREME [HD]
+http://pfsv.io:80/6705646555/60670/478.ts
+#EXTINF:-1 tvg-id="HBO Xtreme HD" tvg-name="HBO XTREME [HD] LEG" tvg-logo="http://p6.vc/WIU" group-title="Canais | Legendados",HBO XTREME [HD] LEG
+http://pfsv.io:80/6705646555/60670/123560.ts
+#EXTINF:-1 tvg-id="HBO Xtreme HD" tvg-name="HBO XTREME [SD] LEG" tvg-logo="http://p6.vc/WIE" group-title="Canais | Legendados",HBO XTREME [SD] LEG
+http://pfsv.io:80/6705646555/60670/123492.ts
+#EXTINF:-1 tvg-id="BR - HBO" tvg-name="HBO [FHD]" tvg-logo="http://p6.vc/VSM" group-title="Canais | HBO",HBO [FHD]
+http://pfsv.io:80/6705646555/60670/471.ts
+#EXTINF:-1 tvg-id="BR - HBO" tvg-name="HBO [FHD] LEG" tvg-logo="http://p6.vc/VVP" group-title="Canais | Legendados",HBO [FHD] LEG
+http://pfsv.io:80/6705646555/60670/123488.ts
+#EXTINF:-1 tvg-id="BR - HBO" tvg-name="HBO [FHD][H265]" tvg-logo="http://p6.vc/VSM" group-title="Canais | HBO",HBO [FHD][H265]
+http://pfsv.io:80/6705646555/60670/30236.ts
+#EXTINF:-1 tvg-id="BR - HBO" tvg-name="HBO [HD]" tvg-logo="http://p6.vc/VSM" group-title="Canais | HBO",HBO [HD]
+http://pfsv.io:80/6705646555/60670/474.ts
+#EXTINF:-1 tvg-id="BR - HBO HD" tvg-name="HBO [HD] LEG" tvg-logo="http://p6.vc/VVN" group-title="Canais | Legendados",HBO [HD] LEG
+http://pfsv.io:80/6705646555/60670/123486.ts
+#EXTINF:-1 tvg-id="BR - HBO" tvg-name="HBO [SD]" tvg-logo="http://p6.vc/VSM" group-title="Canais | HBO",HBO [SD]
+http://pfsv.io:80/6705646555/60670/480.ts
+#EXTINF:-1 tvg-id="BR - HBO" tvg-name="HBO [SD] LEG" tvg-logo="http://p6.vc/VVO" group-title="Canais | Legendados",HBO [SD] LEG
+http://pfsv.io:80/6705646555/60670/123487.ts
