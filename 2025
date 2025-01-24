@@ -138,7 +138,7 @@ http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90652.ts
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72369.ts
 #EXTINF:-1 tvg-name="Telecine Touch SD [LEG]" tvg-logo="https://acstatic.co/logos/canais/telecinetouch.png" group-title="Canais | Filmes e Series",BR: Telecine Touch SD [LEG]
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90651.ts
-#EXTINF:-1 tvg-id="" tvg-name="[BR] Comedy Central FHD" tvg-logo="" group-title="Filmes e Series",[BR] Comedy Central FHD
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Comedy Central FHD" tvg-logo="" group-title="Canais | Filmes e Series",[BR] Comedy Central FHD
 http://supersonictv.live:8080/329474/903964/84954
 #EXTINF:-1 tvg-id="" tvg-name="[BR] Cinemax FHD" tvg-logo="" group-title="Canais | Filmes e Series",[BR] Cinemax FHD
 http://supersonictv.live:8080/329474/903964/84948
@@ -1066,7 +1066,7 @@ https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N4W3VoB.png" group-title="Filmes | SERIES 1 OPÇÃO",EuropaPlay Nacional 
 https://cdn-2.nxplay.com.br/europaplay/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/x13Zoz1.png" group-title="Filmes| SERIES 1 OPÇÃO",Dark Flix
+#EXTINF:-1 tvg-logo="https://imgur.com/x13Zoz1.png" group-title="Filmes | SERIES 1 OPÇÃO",Dark Flix
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8?ManoTV
 
 #EXTINF:-1 tvg-logo="https://imgur.com/IFcA4UO.png" group-title="Filmes | SERIES 1 OPÇÃO",TV NOVA PLAY
