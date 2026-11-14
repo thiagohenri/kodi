@@ -635,40 +635,6 @@ https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8
 
 #EXTINF:-1 tvg-chno="" cuid="278" tvg-name="History tv 18" tvg-id="History.TV18.HD.in" tvg-logo="https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Pluto TV | CURIOSIDADES", History TV18 HD 🇮🇳
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/HistoryTV18HD.m3u8
-############################################################################
-
-=====================🔹========================  
-🌈 DISCOVERY CHANNELS 🌎
-=====================🔹========================
-
-#EXTINF:-1 tvg-chno="" cuid="284" tvg-name="Discovery.Channel" tvg-id="DISCOVERY.CHANNEL.HD.ph" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hd/discovery-channel-icon-hd-us.png" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentaries 🌎",Discovery Channel (🔉💬🇬🇧)🇵🇭
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"0e5b4f0f0bf641029b2b2000665a8b49":"152408adb88d19b5bfac04ccb6c493bb"}
-https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/562104/index.mpd?wowzasessionid=@iprtlk
-
-#EXTINF:-1 tvg-chno="" cuid="285" tvg-name="Discovery.Channel" tvg-id="Discovery.Channel.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hd/discovery-channel-icon-hd-us.png" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentaries 🌎",Discovery Channel (🔉💬🇬🇧)🇨🇿
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-https://dash2.antik.sk/stream/hisi_discovery/playlist_cbcs.mpd
-
----
-
-#EXTINF:-1 tvg-chno="" cuid="287" tvg-name="Discovery.Science" tvg-id="Discovery.Science.hk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-science-us.png" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentaries 🌎",Discovery Science (🔉💬🇬🇧)🇭🇰
-#EXTHTTP:{"origin":"https://tunex.space","referer":"https://tunex.space/","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
-https://hide.skygoplus.workers.dev/discovery-science.m3u8?wowzasessionid=@iprtlk
-
-#EXTINF:-1 tvg-chno="" cuid="288" tvg-name="Discovery.Science" tvg-id="Discovery.Science.ie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-science-us.png" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentaries 🌎",Discovery Science (🔉💬🇬🇧)🇮🇪
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5458f45efedb4d6f8aa6ac76c85b621b:dbf8a0a306a64525ba3012fd225370c0
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryscience2/default/manifest.mpd?wowzasessionid=@iprtlk
-
-
-#EXTINF:-1 tvg-chno="" cuid="290" tvg-name="IDDiscovery" tvg-id="Investigation.Discovery.lt" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/ID.webp" group-logo="https://cdn-icons-png.freepik.com/256/11471/11471416.png" group-title="Documentaries 🌎",IDDiscovery
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"f500790fc198489bac7a5937cc5e2312":"16ebfccee4852e9d63676106c11773bb"}
-https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/561805/index.mpd?wowzasessionid=@iprtlk
-
-
 
 ############################################################################ Pluto TV | ANIMES & GEEK
 
